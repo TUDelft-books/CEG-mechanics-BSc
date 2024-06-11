@@ -130,6 +130,3 @@ dmypy.json
 
 # Jupyter Book
 _build/
-
-# Other stuff
-*.vsdx
