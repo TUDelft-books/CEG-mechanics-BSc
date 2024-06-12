@@ -1,0 +1,1 @@
+# Statically indeterminate structures

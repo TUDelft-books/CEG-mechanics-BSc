@@ -2,8 +2,8 @@
 
 This is a Jupyter Book containing various mechanics content for civil engineering.
 
-1.	Shape (only for cables), support reactions and internal forces
-    1. Structural models
+1.	Equilibrium
+    1. Model
         1. Beams
         2. Cables
         3. Supports
@@ -58,7 +58,7 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         3. Point of force
         4. Force line
 2.	Normal- and shear stresses, and displacements
-    1. Structural models
+    1. Model
         1. Fibre model
         2. Stresses
         3. Strains
@@ -97,15 +97,37 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         1. using differential equations
         2. using forget-me-nots
         3. using 'momentenvlakstelling'
-4.	Statically indeterminate structures
+3.	Statically indeterminate structures
     1. Force method
         1. for extension elements
         2. for bending elements
-        3. for bending elements with movable nodes
+        3. for bending elements with 'hoekveranderingsvergelijkingen'
+        4. for bending elements with movable nodes
     2. Displacement method
         1. for extension elements
         2. for bending elements
-    3. Support settlement
-    4. Temperature influences
-5.	Buckling
-6.	Stress states
+    3. Stiffness discontinuities
+    4. Support settlement
+    5. Temperature influences
+4.	Buckling
+    1. Principle of buckling
+    2. Buckling of rigid bodies
+        1. Buckling load
+        2. Post-buckling behaviour
+        3. System of rigid bodies
+        4. Two degrees of freedom
+    3. Buckling of elastic bodies
+        1. Euler buckling
+        2. Rotational spring-supports with movable nodes
+        3. Rotational spring-supports with fixed nodes
+        4. Translation spring-supports
+        5. Translation distributed spring-supports
+    4. Buckling of combined rigid- and elastic-body systems
+5.	Stress and strain states
+    1. Model
+        1. Stresses in 3D
+        2. Isotropic and deviatoric components
+        3. Strains in 2D
+    2. Transformations
+        1. Analytical
+        2. Graphical
