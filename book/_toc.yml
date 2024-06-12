@@ -7,8 +7,8 @@ parts:
     - file: equilibrium/intro
       sections:
       - file: equilibrium/model
+      - file: equilibrium/model/distributed_forces_test
         sections:
-        - file: equilibrium/model/distributed_forces_test
         - file: equilibrium/model/FBD
         - file: equilibrium/model/Resolution_of_forces
         - file: equilibrium/model/Statics_of_a_particle
