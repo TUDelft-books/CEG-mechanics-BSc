@@ -1,9 +1,5 @@
 # Resolution of forces
 
-```{contents}
-:local:
-```
-
 This subject allows you to resolve forces in both analytical and grapical manner.
 
 ## Theory

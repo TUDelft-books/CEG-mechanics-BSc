@@ -1,9 +1,5 @@
 # Free body diagrams
 
-```{contents}
-:local:
-```
-
 This subject allows draw a free body diagram of a structure or part of a structure.
 
 ## Theory

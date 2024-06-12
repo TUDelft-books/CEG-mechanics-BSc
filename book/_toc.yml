@@ -3,13 +3,20 @@ root: intro
 
 parts:
   - caption: Subjects
-    numbered: 2
     chapters:
     - file: equilibrium/intro
+      chapters:
+      - file: equilibrium/model
+        chapters:
+        - file: equilibrium/model/distributed_forces_test
+        - file: equilibrium/model/FBD
+        - file: equilibrium/model/Resolution_of_forces
+        - file: equilibrium/model/Statics_of_a_particle
+        - file: equilibrium/model/Statics_of_a_rigid_body
     - file: stresses_displacements/intro
     - file: statically_inderminate/intro
     - file: buckling/intro
     - file: continuum/intro
   - caption: More information
-    - file: genindex
+    chapters:
     - file: bibliography

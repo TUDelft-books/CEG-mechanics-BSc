@@ -2,10 +2,6 @@
 ```
 # Statics of a particle
 
-```{contents}
-:local:
-```
-
 This subject allows you to solve forces acting on a particle.
 
 ## Theory

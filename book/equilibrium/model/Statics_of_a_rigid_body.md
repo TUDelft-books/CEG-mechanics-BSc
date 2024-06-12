@@ -1,10 +1,6 @@
 
 # Statics of a rigid body
 
-```{contents}
-:local:
-```
-
 This subject allows you to solve forces and moments acting on a rigid body.
 
 ## Theory

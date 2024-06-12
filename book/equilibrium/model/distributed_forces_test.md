@@ -3,10 +3,6 @@
 
 # Distributed load
 
-```{contents}
-:local:
-```
-
 Distributed loads are loads which are defined per unit length / area / volume. In planar systems, only line loads exist, generally specified with the symbol $q(x)$ with the unit $\text{kN/m}$. $q(x)$ can be any function, although linear functions are most apparent.
 
 An example of a constant distributed load with unknown value $q$ is shown in the figure below:
