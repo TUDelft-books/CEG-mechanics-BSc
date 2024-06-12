@@ -52,7 +52,6 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         2. using differential equation
         3. Distribution
     10. Internal forces in a cable
-        1. at a cross section
     11. Shape of a cable
         1. using equilibrium
         2. using differential equations
@@ -63,11 +62,12 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         1. Fibre model
         2. Stresses
         3. Strains
-        4. Displacements
-        5. Rotations
-        6. Curvature
-        7. Shear distortion
-        8. Thin- and thick-walled cross-sections
+        4. Core of a cross-section
+        5. Displacements
+        6. Rotations
+        7. Curvature
+        8. Shear distortion
+        9. Thin- and thick-walled cross-sections
     2. Cross-sectional properties
         1. Area
         2. Static moment
@@ -76,7 +76,7 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         5. 'Weerstandsmoment'
         6. Cross moment of area
         7. Normal force centre
-        8. Shear centre
+        8. Shear force centre
     3. Constitutive relations
         1. Extension
         2. Bending
@@ -86,23 +86,26 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         2. Bending
         3. Shear
     5. Stresses in an extension element
-        1. at a single point
-        2. distribution
     6. Stresses in a bending element
-        1. normal stresses at a single point
-        2. normal stress distribution
-        3. shear stresses at a single point
-        4. shear stress distribution
+        1. normal stresses
+        3. shear stresses
     7. Stresses in a torsional element
         1. in circular cross-sections
         2. in thin-walled cross-sections
-    8. Displacements of a truss structure
-        1. Elongation of single element
-        1. Williot diagram
+    8. Displacements of a truss structure with Williot
     9. Displacements of a bending structure
         1. using differential equations
         2. using forget-me-nots
         3. using 'momentenvlakstelling'
 4.	Statically indeterminate structures
+    1. Force method
+        1. for extension elements
+        2. for bending elements
+        3. for bending elements with movable nodes
+    2. Displacement method
+        1. for extension elements
+        2. for bending elements
+    3. Support settlement
+    4. Temperature influences
 5.	Buckling
 6.	Stress states
