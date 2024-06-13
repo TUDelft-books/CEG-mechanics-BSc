@@ -34,7 +34,7 @@ Free body diagram of the entire example model
 ```{index} Free body diagram ; of a hinged part of a model
 ```
 ### Free body diagram of a hinged part of a model
-In the free body diagram of a hinged part of a model, a cut is made at the hinge, showing the [(potential) interaction forces at the hinge](hinge). 
+In the free body diagram of a hinged part of a model, a cut is made at the hinge, showing the [(potential) interaction forces at the hinge](hinges). 
 
 The free body diagram of the right hinged part of the example model is shown in {numref}`FBD_hinged`.
 
