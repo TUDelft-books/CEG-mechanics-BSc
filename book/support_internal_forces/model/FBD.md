@@ -6,8 +6,6 @@
 ```
 A free body diagram includes a complete or part of a model, with all [loads](loads) acting on that part, including [support reactions](supports). It can also include dimensions and [coordinate system(s)](coordinate).
 
-The direction and size of forces might not be known and can be indicated indicated symbolically in which the positive direction is given by the drawn direction.
-
 ```{index} Free body diagram ; of an entire model
 ```
 ### Free body diagram of entire model
@@ -50,10 +48,8 @@ Free body diagram of the right hinged part of the example model
 
 ```{index} Free body diagram ; of a part of a model
 ```
-```{index} Free body diagram ; of a points in the model
-```
 ### Free body diagram of a part of a model
-In the free body diagram of a part of a model, a cut is made at the any arbitrary point, showing the (potential) forces and couples in the elements. Read chapter 4.2.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006` for which interaction forces are exerted on the model. These interaction forces are the same as the normal- and shear forces, and the bending moments at that point in the structure. Again, the direction and size of the interaction forces might not be known on beforehand. Therefore, the interaction force are indicated symbolically and the direction is assumed in the free body diagram.
+In the free body diagram of a part of a model, a cut is made at the any arbitrary point, showing the (potential) [internal forces](internal_forces) in the elements.
 
 The free body diagram to the right of a cut just left of point $\text{C}$ of the example model is shown in {numref}`FBD_part`.
 
@@ -63,6 +59,9 @@ The free body diagram to the right of a cut just left of point $\text{C}$ of the
 :align: center
 
 Free body diagram to the right of a cut just left of point $\text{C}$ of the example model
+```
+
+```{index} Free body diagram ; of a point in the model
 ```
 A cut can also be made such that only a single point is left. In that case you can draw the free body diagram of this single point.
 
@@ -75,45 +74,3 @@ The free body diagram of point $\text{B}$ of the example model is shown in {numr
 
 Free body diagram of point $\text{B}$ of the example model
 ```
-
-```{index} Free body diagram ; of a part of a cable
-```
-### Free body diagram of a part of a cable
-"Cables are line elements in which the resistance to bending is so small that
-it can be ignored. A fully flexible cable cannot transfer bending moments
-nor transverse forces. The force flow occurs entirely via normal forces,
-namely tensile forces.
-...
-Cables do not have their own shape – they adapt to the load. Here, we
-assume that the axial stiffness of the cable is infinite. Therefore the cable
-has the same length before and after loading. The shape of the cable and the
-cable forces can then be deduced directly from the equilibrium equations.
-" {cite:p}`Hartsuijker2006`
-
-An example cable model is shown in {numref}`model-cable`.
-
-```{figure} ./FBD_data/model_cable.png
-:name: model-cable
-:width: 400px
-:align: center
-
-Example cable model
-```
-
-As only normal forces are present, the free body diagram of a part of cable, only shows the (potential) normal force at a (potentially unknown) location.
-
-The free body diagram to the left of a cut just right of point $\text{C}$ of the example cable model is shown in {numref}`FBD_cable`.
-
-```{figure} ./FBD_data/FBD_cable.png
-:name: FBD_cable
-:width: 400px
-:align: center
-
-Free body diagram to the left of a cut just right of point $\text{C}$ of the example cable model
-```
-
-## Practice material
-...
-
-## Relation with other subjects
-<iframe allow="fullscreen" style="width: 100%!important; height: 500px;" src="https://prime-applets.ewi.tudelft.nl/graph/CTB1110-17/show2?lecture=4&view=lecture" allowfullscreen></iframe>

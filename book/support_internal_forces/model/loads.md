@@ -1,6 +1,8 @@
 ```{index} Distributed load
 ```
 
+The direction and size of loads might not be known and can be indicated indicated symbolically in which the positive direction is given by the drawn direction.
+
 # Loads
 
 Distributed loads are loads which are defined per unit length / area / volume. In planar systems, only line loads exist, generally specified with the symbol $q(x)$ with the unit $\text{kN/m}$. $q(x)$ can be any function, although linear functions are most apparent.
