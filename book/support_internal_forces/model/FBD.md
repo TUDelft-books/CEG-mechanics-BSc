@@ -2,12 +2,16 @@
 
 ## Theory
 
+```{index} Free body diagram
+```
+A free body diagram includes a complete or part of a model, with all [loads](loads) acting on that part, including [support reactions](supports). It can also include dimensions and [coordinate system(s)](coordinate).
+
+The direction and size of forces might not be known and can be indicated indicated symbolically in which the positive direction is given by the drawn direction.
+
 ```{index} Free body diagram ; of an entire model
 ```
-```{index} Support reaction
-```
 ### Free body diagram of entire model
-In the free body diagram of an entire model, all forces are shown which are applied on a structure, including support reactions.
+A free body diagram of an entire model doesn't show [internal forces](internal forces).
 
 An example model is shown in {numref}`model`.
 
@@ -18,8 +22,6 @@ An example model is shown in {numref}`model`.
 
 Example model
 ```
-
-In the free body diagram of an entire model, all support are replaced by (potential) reaction forces. The direction and size of reaction forces might not be known on beforehand. Therefore, the reactions force are indicated symbolically and the direction is assumed in the free body diagram.
 
 The free body diagram of the entire example model is shown in {numref}`FBD`.
 
@@ -33,10 +35,8 @@ Free body diagram of the entire example model
 
 ```{index} Free body diagram ; of a hinged part of a model
 ```
-```{index} Interaction forces
-```
 ### Free body diagram of a hinged part of a model
-In the free body diagram of a hinged part of a model, a cut is made at the hinge, showing the (potential) interaction forces at the hinge. Read chapter 4.2.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006` for which interaction forces are exerted on the model. These forces are the same as the normal and shear forces at that point in the structure. As with the reaction forces, the direction and size of the interaction forces might not be known on beforehand. Therefore, the interaction force are indicated symbolically and the direction is assumed in the free body diagram.
+In the free body diagram of a hinged part of a model, a cut is made at the hinge, showing the [(potential) interaction forces at the hinge](hinge). 
 
 The free body diagram of the right hinged part of the example model is shown in {numref}`FBD_hinged`.
 

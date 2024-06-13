@@ -11,6 +11,8 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         5. Loads
         6. Internal forces
         7. Free body diagrams
+        8. Structures
+        9. Coordinate system
     2. Transforming forces
         1. Resolution of forces
         2. Resultant force
