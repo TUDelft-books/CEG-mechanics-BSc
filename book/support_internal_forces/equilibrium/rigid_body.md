@@ -1,4 +1,4 @@
-# Statics of a rigid body
+# a rigid body
 
 This subject allows you to solve forces and moments acting on a rigid body.
 

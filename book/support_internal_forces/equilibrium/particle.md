@@ -1,6 +1,6 @@
 ```{index} Statics ; of a particle
 ```
-# Statics of a particle
+# of a particle
 
 This subject allows you to solve forces acting on a particle.
 

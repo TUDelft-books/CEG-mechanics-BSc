@@ -2,30 +2,26 @@
 
 This is a Jupyter Book containing various mechanics content for civil engineering.
 
-1.	Equilibrium
+1.	Support reactions and internal forces
     1. Model
         1. Beams
         2. Cables
-        3. Supports
-        4. Forces
-        5. Distributed forces
-        6. Hinges
-        7. Truss structures
-        8. Bending structures structural
-        9. 3D structures
-        10. Internal forces
+        3. Free body diagrams
+        4. Supports
+        5. Hinges
+        6. Loads
+        7. Internal forces
     2. Transforming forces
         1. Resolution of forces
         2. Resultant force
     3. Equilibrium
-        1. Principle of equilibrium
-        2. of a particle
-        3. of a rigid body
-        4. of a complete structure
-        5. of a hinged part of a structure
-        6. of a part of the structure
-        7. of a part of a cable structure
-        8. in 3D
+        1. of a particle
+        2. of a rigid body
+        3. of a complete structure
+        4. of a hinged part of a structure
+        5. of a part of the structure
+        6. of a part of a cable structure
+        7. in 3D
     4. Mechanisms with small rotations
         1. with one body
         2. with two bodies
@@ -123,7 +119,7 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
         4. Translation spring-supports
         5. Translation distributed spring-supports
     4. Buckling of combined rigid- and elastic-body systems
-5.	Stress and strain states
+5.	Continuum mechanics
     1. Model
         1. Stresses in 3D
         2. Isotropic and deviatoric components

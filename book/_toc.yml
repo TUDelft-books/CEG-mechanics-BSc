@@ -4,15 +4,24 @@ root: intro
 parts:
   - caption: Subjects
     chapters:
-    - file: equilibrium/intro
+    - file: support_internal_forces/intro
       sections:
-      - file: equilibrium/model/intro
+      - file: support_internal_forces/model/intro
         sections:
-        - file: equilibrium/model/distributed_forces_test
-        - file: equilibrium/model/FBD
-        - file: equilibrium/model/Resolution_of_forces
-        - file: equilibrium/model/Statics_of_a_particle
-        - file: equilibrium/model/Statics_of_a_rigid_body
+        - file: support_internal_forces/model/beams
+        - file: support_internal_forces/model/cables
+        - file: support_internal_forces/model/FBD
+        - file: support_internal_forces/model/supports
+        - file: support_internal_forces/model/hinges
+        - file: support_internal_forces/model/loads
+        - file: support_internal_forces/model/internal_forces
+      - file: support_internal_forces/transforming_forces/intro
+        sections:
+        - file: support_internal_forces/transforming_forces/Resolution_of_forces
+      - file: support_internal_forces/equilibrium/intro
+        sections:
+        - file: support_internal_forces/equilibrium/particle
+        - file: support_internal_forces/equilibrium/rigid_body
     - file: stresses_displacements/intro
     - file: statically_inderminate/intro
     - file: buckling/intro
