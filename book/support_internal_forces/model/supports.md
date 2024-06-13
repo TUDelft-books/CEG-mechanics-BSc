@@ -1,1 +1,4 @@
 # Supports
+
+```{index} Support reaction
+```

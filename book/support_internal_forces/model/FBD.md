@@ -1,18 +1,13 @@
 # Free body diagrams
 
-This subject allows draw a free body diagram of a structure or part of a structure.
-
 ## Theory
-
 
 ```{index} Free body diagram ; of an entire model
 ```
 ```{index} Support reaction
 ```
 ### Free body diagram of entire model
-Before you can draw a free-body diagram, you've to know how our structures are modelled. Read chapter 4.1.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
-
-In the free body diagram of an entire model, all support are replaced by (potential) support reaction. Read chapter 4.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006` for which types of support exist and which support reactions those support exert on the model.
+In the free body diagram of an entire model, all forces are shown which are applied on a structure, including support reactions.
 
 An example model is shown in {numref}`model`.
 

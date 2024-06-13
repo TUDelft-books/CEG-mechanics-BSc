@@ -6,11 +6,11 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
     1. Model
         1. Beams
         2. Cables
-        3. Free body diagrams
-        4. Supports
-        5. Hinges
-        6. Loads
-        7. Internal forces
+        3. Supports
+        4. Hinges
+        5. Loads
+        6. Internal forces
+        7. Free body diagrams
     2. Transforming forces
         1. Resolution of forces
         2. Resultant force
@@ -38,7 +38,7 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
     7. Support reactions
         1. of rigid structures
         2. of hinged structures
-        3. of 'hang- en sprinwerken'
+        3. of 'hang- en springwerken'
     8. Internal forces in a truss structure
         1. at a cross section
         2. Zero force members
@@ -76,11 +76,12 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
     3. Constitutive relations
         1. Extension
         2. Bending
-        3. Shear
+        3. Torsion
     4. Kinematic relations
         1. Extension
         2. Bending
         3. Shear
+        4. Torsion
     5. Stresses in an extension element
     6. Stresses in a bending element
         1. normal stresses
@@ -127,3 +128,5 @@ This is a Jupyter Book containing various mechanics content for civil engineerin
     2. Transformations
         1. Analytical
         2. Graphical
+    3. Stress-strain relations
+    4. Failure
