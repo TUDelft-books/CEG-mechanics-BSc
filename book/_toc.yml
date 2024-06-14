@@ -10,13 +10,13 @@ parts:
         sections:
         - file: support_internal_forces/model/beams
         - file: support_internal_forces/model/cables
+        - file: support_internal_forces/model/coordinate
         - file: support_internal_forces/model/supports
         - file: support_internal_forces/model/hinges
         - file: support_internal_forces/model/loads
         - file: support_internal_forces/model/internal_forces
         - file: support_internal_forces/model/FBD
         - file: support_internal_forces/model/structures
-        - file: support_internal_forces/model/coordinate
       - file: support_internal_forces/transforming_forces/intro
         sections:
         - file: support_internal_forces/transforming_forces/Resolution_of_forces
