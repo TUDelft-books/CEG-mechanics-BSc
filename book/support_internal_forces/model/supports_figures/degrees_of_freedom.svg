@@ -241,31 +241,7 @@
 			<v:textRect cx="77.9528" cy="102.394" width="155.91" height="14.1732"/>
 			<rect x="0" y="95.3076" width="155.906" height="14.1732" class="st9"/>
 			<text x="16.14" y="105.99" class="st11" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Three-dimensional model</text>		</g>
-		<g id="shape272-149" v:mID="272" v:groupContext="shape" transform="translate(424.005,-68.2584)">
-			<title>Punt A.272</title>
-			<desc>ux,A</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="14.1732" cy="102.394" width="28.35" height="14.1732"/>
-			<rect x="0" y="95.3076" width="28.3465" height="14.1732" class="st3"/>
-			<text x="5.65" y="106" class="st4" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>u<tspan dy="-0.279em"
-						class="st5" v:baseFontSize="12">x,</tspan><tspan class="st6" v:baseFontSize="12">A</tspan></text>		</g>
-		<g id="shape273-154" v:mID="273" v:groupContext="shape" transform="translate(381.485,-24.3214)">
-			<title>Punt A.273</title>
-			<desc>uz,A</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="14.1732" cy="102.394" width="28.35" height="14.1732"/>
-			<rect x="0" y="95.3076" width="28.3465" height="14.1732" class="st3"/>
-			<text x="5.86" y="106" class="st4" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>u<tspan dy="-0.279em"
-						class="st5" v:baseFontSize="12">z,</tspan><tspan class="st6" v:baseFontSize="12">A</tspan></text>		</g>
-		<g id="shape284-159" v:mID="284" v:groupContext="shape" transform="translate(330.462,-49.8332)">
-			<title>Punt A.284</title>
-			<desc>uy,A</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="14.1732" cy="102.394" width="28.35" height="14.1732"/>
-			<rect x="0" y="95.3076" width="28.3465" height="14.1732" class="st3"/>
-			<text x="5.65" y="106" class="st4" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>u<tspan dy="-0.279em"
-						class="st5" v:baseFontSize="12">y,</tspan><tspan class="st6" v:baseFontSize="12">A</tspan></text>		</g>
-		<g id="shape291-164" v:mID="291" v:groupContext="shape" transform="translate(307.784,-7.31356)">
+		<g id="shape291-149" v:mID="291" v:groupContext="shape" transform="translate(307.784,-7.31356)">
 			<title>Blad.291</title>
 			<desc>Alternative for three-dimensional model</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -273,50 +249,74 @@
 			<rect x="0" y="95.3076" width="147.402" height="14.1732" class="st9"/>
 			<text x="22.73" y="98.79" class="st11" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Alternative for three-<tspan
 						x="27.87" dy="1.2em" class="st12">dimensional model</tspan></text>		</g>
-		<g id="group295-168" transform="translate(381.485,-39.912)" v:mID="295" v:groupContext="group">
+		<g id="group295-153" transform="translate(381.485,-39.912)" v:mID="295" v:groupContext="group">
 			<title>Rotatie</title>
-			<g id="shape296-169" v:mID="296" v:groupContext="shape" transform="translate(109.481,74.0478) rotate(90)">
+			<g id="shape296-154" v:mID="296" v:groupContext="shape" transform="translate(109.481,74.0478) rotate(90)">
 				<title>verplaatsing.217</title>
 				<path d="M0 109.48 L28.35 109.48" class="st1"/>
 			</g>
-			<g id="shape297-174" v:mID="297" v:groupContext="shape" transform="translate(109.481,102.394) rotate(90)">
+			<g id="shape297-159" v:mID="297" v:groupContext="shape" transform="translate(109.481,102.394) rotate(90)">
 				<title>verplaatsing.218</title>
 				<path d="M0 109.48 L7.09 109.48" class="st1"/>
 			</g>
 		</g>
-		<g id="group298-179" transform="translate(307.438,34.1358) rotate(-90)" v:mID="298" v:groupContext="group">
+		<g id="group298-164" transform="translate(307.438,34.1358) rotate(-90)" v:mID="298" v:groupContext="group">
 			<title>Rotatie.298</title>
-			<g id="shape299-180" v:mID="299" v:groupContext="shape" transform="translate(109.481,74.0478) rotate(90)">
+			<g id="shape299-165" v:mID="299" v:groupContext="shape" transform="translate(109.481,74.0478) rotate(90)">
 				<title>verplaatsing.217</title>
 				<path d="M0 109.48 L28.35 109.48" class="st1"/>
 			</g>
-			<g id="shape300-185" v:mID="300" v:groupContext="shape" transform="translate(109.481,102.394) rotate(90)">
+			<g id="shape300-170" v:mID="300" v:groupContext="shape" transform="translate(109.481,102.394) rotate(90)">
 				<title>verplaatsing.218</title>
 				<path d="M0 109.48 L7.09 109.48" class="st1"/>
 			</g>
 		</g>
-		<g id="group301-190" transform="translate(433.845,-18.2239) rotate(45)" v:mID="301" v:groupContext="group">
+		<g id="group301-175" transform="translate(433.845,-18.2239) rotate(45)" v:mID="301" v:groupContext="group">
 			<title>Rotatie.301</title>
-			<g id="shape302-191" v:mID="302" v:groupContext="shape" transform="translate(109.481,74.0478) rotate(90)">
+			<g id="shape302-176" v:mID="302" v:groupContext="shape" transform="translate(109.481,74.0478) rotate(90)">
 				<title>verplaatsing.217</title>
 				<path d="M0 109.48 L28.35 109.48" class="st1"/>
 			</g>
-			<g id="shape303-196" v:mID="303" v:groupContext="shape" transform="translate(109.481,102.394) rotate(90)">
+			<g id="shape303-181" v:mID="303" v:groupContext="shape" transform="translate(109.481,102.394) rotate(90)">
 				<title>verplaatsing.218</title>
 				<path d="M0 109.48 L7.09 109.48" class="st1"/>
 			</g>
 		</g>
-		<g id="shape306-201" v:mID="306" v:groupContext="shape" transform="translate(76.0521,-74.6364)">
+		<g id="shape306-186" v:mID="306" v:groupContext="shape" transform="translate(76.0521,-74.6364)">
 			<title>Knoop</title>
 			<ellipse cx="2.12598" cy="107.355" rx="2.12598" ry="2.12598" class="st13"/>
 		</g>
-		<g id="shape307-203" v:mID="307" v:groupContext="shape" transform="translate(254.635,-74.6364)">
+		<g id="shape307-188" v:mID="307" v:groupContext="shape" transform="translate(254.635,-74.6364)">
 			<title>Knoop.307</title>
 			<ellipse cx="2.12598" cy="107.355" rx="2.12598" ry="2.12598" class="st13"/>
 		</g>
-		<g id="shape308-205" v:mID="308" v:groupContext="shape" transform="translate(379.359,-73.2191)">
+		<g id="shape308-190" v:mID="308" v:groupContext="shape" transform="translate(379.359,-73.2191)">
 			<title>Knoop.308</title>
 			<ellipse cx="2.12598" cy="107.355" rx="2.12598" ry="2.12598" class="st13"/>
 		</g>
+		<g id="shape311-192" v:mID="311" v:groupContext="shape" transform="translate(381.485,-32.8253)">
+			<title>Punt A.311</title>
+			<desc>φA,z</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="102.394" width="28.35" height="14.1732"/>
+			<rect x="0" y="95.3076" width="28.3465" height="14.1732" class="st3"/>
+			<text x="5.55" y="106" class="st4" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>φ<tspan dy="-0.279em"
+						class="st6" v:baseFontSize="12">A,</tspan><tspan class="st5" v:baseFontSize="12">z</tspan></text>		</g>
+		<g id="shape314-197" v:mID="314" v:groupContext="shape" transform="translate(389.989,-82.4317)">
+			<title>Punt A.314</title>
+			<desc>φA,x</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="102.394" width="28.35" height="14.1732"/>
+			<rect x="0" y="95.3076" width="28.3465" height="14.1732" class="st3"/>
+			<text x="5.33" y="106" class="st4" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>φ<tspan dy="-0.279em"
+						class="st6" v:baseFontSize="12">A,</tspan><tspan class="st5" v:baseFontSize="12">x</tspan></text>		</g>
+		<g id="shape315-202" v:mID="315" v:groupContext="shape" transform="translate(334.713,-58.3372)">
+			<title>Punt A.315</title>
+			<desc>φA,y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="102.394" width="28.35" height="14.1732"/>
+			<rect x="0" y="95.3076" width="28.3465" height="14.1732" class="st3"/>
+			<text x="5.33" y="106" class="st4" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>φ<tspan dy="-0.279em"
+						class="st6" v:baseFontSize="12">A,</tspan><tspan class="st5" v:baseFontSize="12">y</tspan></text>		</g>
 	</g>
 </svg>
