@@ -2,6 +2,8 @@
 
 This is a Jupyter Book containing various mechanics content for civil engineering.
 
+The concept TOC below is work-in-progress
+
 1.	Support reactions and internal forces
     1. Model
         1. Beams
