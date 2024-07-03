@@ -149,3 +149,5 @@ The concept TOC below is work-in-progress
         2. Graphical
     3. Stress-strain relations
     4. Failure
+  
+    
