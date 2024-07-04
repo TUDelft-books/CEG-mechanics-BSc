@@ -1,6 +1,6 @@
 ```{index} Statics ; of a particle
 ```
-# Equilbrium of a particle {bdg-info}`Exercise`
+# Equilbrium of a particle {bdg-success}`Exercise`
 
 This subject allows you to solve forces acting on a particle.
 

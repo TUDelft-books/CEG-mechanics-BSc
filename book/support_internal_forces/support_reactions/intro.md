@@ -1,1 +1,1 @@
-# Support reactions {bdg-info}`Exercise`
+# Support reactions {bdg-success}`Exercise`
