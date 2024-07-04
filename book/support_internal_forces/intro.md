@@ -1,4 +1,4 @@
-# Support reactions and internal forces
+# Statics
 
 ```{tableofcontents}
 ```
