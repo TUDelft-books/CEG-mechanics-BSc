@@ -1,14 +1,12 @@
-# Free body diagrams
-
-## Theory
-
 ```{index} Free body diagram
 ```
+# Free body diagrams
+
 A free body diagram includes a complete or part of a model, with all [loads](loads) acting on that part, including [support reactions](supports). It can also include dimensions and [coordinate system(s)](coordinate).
 
 ```{index} Free body diagram ; of an entire model
 ```
-### Free body diagram of entire model
+## Free body diagram of entire model
 A free body diagram of an entire model doesn't show [internal forces](internal forces).
 
 An example model is shown in {numref}`model`.
@@ -33,7 +31,7 @@ Free body diagram of the entire example model
 
 ```{index} Free body diagram ; of a hinged part of a model
 ```
-### Free body diagram of a hinged part of a model
+## Free body diagram of a hinged part of a model
 In the free body diagram of a hinged part of a model, a cut is made at the hinge, showing the [(potential) interaction forces at the hinge](hinges). 
 
 The free body diagram of the right hinged part of the example model is shown in {numref}`FBD_hinged`.
@@ -48,7 +46,7 @@ Free body diagram of the right hinged part of the example model
 
 ```{index} Free body diagram ; of a part of a model
 ```
-### Free body diagram of a part of a model
+## Free body diagram of a part of a model
 In the free body diagram of a part of a model, a cut is made at the any arbitrary point, showing the (potential) [internal forces](internal_forces) in the elements.
 
 The free body diagram to the right of a cut just left of point $\text{C}$ of the example model is shown in {numref}`FBD_part`.

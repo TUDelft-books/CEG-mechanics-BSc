@@ -1,8 +1,7 @@
-# Supports
-
 ```{index} Support
 ```
-## Theory
+# Supports
+
 Supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3 {cite}`Hartsuijker2006`.
 Support can be made in any direction, connecting to a horizontal, vertical or sloped environment, as shown in figure {numref}`direction_supports`.
 
@@ -43,28 +42,28 @@ Support reactions
 
 ```{index} Support; fixed
 ```
-### Fixed support
+## Fixed support
 Fixed supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.4 {cite}`Hartsuijker2006`.
 
-```{index} Support; hinged
+```{index} Hinged support
 ```
-### Hinged support
+## Hinged support
 Fixed supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.3 {cite}`Hartsuijker2006`.
 
-```{index} Support; rolling hinged
+```{index} Rolling hinged support
 ```
-### Rolling hinged support
+## Rolling hinged support
 Bar supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.2 {cite}`Hartsuijker2006`.
 
-```{index} Support; bar
+```{index} Bar support
 ```
-### Bar support
+## Bar support
 Bar supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.1 {cite}`Hartsuijker2006`.
 
 
-```{index} Support; rolling clamped
+```{index} Rolling clamped support
 ```
-### Rolling clamped support
+## Rolling clamped support
 
 A rolling clamped support is a connection which allows for transverse movement, but restricts perpendicular movement and rotation. This leads to a support reactions in  as shown in figure {numref}`rolling_clamp`.
 
@@ -75,7 +74,7 @@ A rolling clamped support is a connection which allows for transverse movement, 
 Rolling clamped support
 ```
 
-```{index} Support; displacement
+```{index} Support displacement
 ```
-### Support displacement
+## Support displacement
 Instead of a prescribed displacement of $0$, a support might have a prescribed non-zero displacement. The prescribed displacement leads to a support reaction in that direction too.
