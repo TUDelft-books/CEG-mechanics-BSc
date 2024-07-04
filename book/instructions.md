@@ -1,6 +1,6 @@
 # How to use this TeachBook
 
-This [<img height="20px" src="./images/Logo_without_background.png"> TeachBook](https://teachbooks.tudelft.nl/) combines all content for the mechanics in the bachelor of Civil Engineering at Delft University of Technology. It's broken down in to modules with separate parts of theory and skills including exercises.
+This <img height="20px" src="./images/Logo_without_background.png">TeachBook combines all content for the mechanics in the bachelor of Civil Engineering at Delft University of Technology. It's broken down in to modules with separate parts of theory and skills including exercises.
 
 ## Linked literature and tools
 This TeachBook links heavily to relevant part of the other literature and only provides additional content when the other literature is insufficient.
