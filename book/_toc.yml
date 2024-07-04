@@ -4,7 +4,7 @@ root: intro
 parts:
   - caption: Welcome to the book
     chapters:
-    - file: intro.md
+    - file: instructions
   - caption: Subjects
     chapters:
     - file: support_internal_forces/intro
