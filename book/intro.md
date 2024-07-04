@@ -1,4 +1,4 @@
-# Welcome to the book on Mechanics in the BSc of Civil Engineering
+# Welcome to the TeachBook on Mechanics in the BSc of Civil Engineering
 
 {{intro}}
 

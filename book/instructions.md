@@ -1,3 +1,3 @@
-# How to use this book
+# How to use this TeachBook
 
 {{intro}}
