@@ -3,12 +3,12 @@
 # Loads {bdg-info}`exercise`
 The direction and size of all types of loads might not be known and can be indicated indicated symbolically in which the positive direction is given by the drawn direction.
 
-```{index} Forces
+```{index} Force
 ```
-## Forces
+## Force
 Forces are modelled as vectors as are treated in the book Engineering Mechanics Volume 1 in chapter 1.3.5 and 1.3.6 {cite}`Hartsuijker2006`. At Civil Engineering at Delft University of Technology the visual notation is mostly used.
 
-```{index} Forces
+```{index} Couple
 ```
 ## Couple
 Couples are treated in the book Engineering Mechanics Volume 1 in chapter 3.1.4 and 3.3.3 {cite}`Hartsuijker2006`. At Civil Engineering at Delft University of Technology the visual notation is mostly used.
