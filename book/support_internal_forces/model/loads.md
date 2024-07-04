@@ -1,6 +1,6 @@
 ```{index} Loads
 ```
-# Loads {bdg-info}`exercise`
+# Loads {bdg-info}`Exercise`
 The direction and size of all types of loads might not be known and can be indicated indicated symbolically in which the positive direction is given by the drawn direction.
 
 ```{index} Force
