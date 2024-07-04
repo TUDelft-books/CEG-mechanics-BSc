@@ -1,4 +1,4 @@
-# a rigid body
+# Equilibrium of a rigid body {bdg-info}`Exercise`
 
 This subject allows you to solve forces and moments acting on a rigid body.
 

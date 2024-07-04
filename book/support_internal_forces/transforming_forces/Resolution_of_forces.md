@@ -1,4 +1,4 @@
-# Resolution of forces
+# Resolution of forces {bdg-info}`Exercise`
 
 This subject allows you to resolve forces in both analytical and grapical manner.
 
