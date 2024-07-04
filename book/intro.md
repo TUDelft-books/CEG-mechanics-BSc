@@ -1,6 +1,6 @@
-# Home 
+# How to use this book
 
-This is a Jupyter Book containing various mechanics content for civil engineering.
+This is an interactive online book containing various mechanics content for civil engineering.
 
 This book heavily relies on the following published books:
  - Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9
@@ -10,6 +10,7 @@ This book heavily relies on the following published books:
  - Introduction to continuum mechanics, by C. Hartsuijker and J.W. Welleman. Book available [here](Lecture_Notes_Elasticity.pdf)
 
 This book includes interactive features!
+- ANS exercises (for TU Delft students only), this contains practice assignments. You can login into this course by [logging in into ANS - clicking  <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#5f6368"><path d="M80-120v-720h400v160h400v560H80Zm80-80h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm160 480h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm160 480h320v-400H480v80h80v80h-80v80h80v80h-80v80Zm160-240v-80h80v80h-80Zm0 160v-80h80v80h-80Z"/></svg> - `Education TU Delft` - clicking `Join Course`  - clicking `Join` for `Constructiemechanica BSc Civiele Techniek`](https://ans.app/universities/1/courses/join_courses). Afterwards, you can directly go to the course by going to [your ANS overview](https://ans.app/routing/courses/436978) or by clicking the provided links in the book.
 - Interactive quizzes: Some page include interactive 'H5p' quizzes. This allows you to check your understanding. Any interactions you have with this system are not stored, unless you login into H5p.
 - Python interactivity: Click {fa}`rocket` --> {guilabel}`Live Code` on the top right corner of interactive page to start up a python-kernel in your browser! Any interactions you do here are not stored. You can also download the page as a notebook to apply the content on your own computer.
 
