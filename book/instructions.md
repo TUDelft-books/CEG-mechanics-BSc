@@ -1,6 +1,6 @@
 # How to use this TeachBook
 
-This TeachBook combines all content for the mechanics in the bachelor of Civil Engineering at Delft University of Technology. It's broken down in to modules with separate parts of theory and skills including exercises.
+This TeachBook combines all content for mechanics in the bachelor of Civil Engineering at Delft University of Technology. It's broken down in to modules with separate parts of theory and skills including exercises.
 
 ## Linked literature and tools
 This TeachBook links heavily to relevant part of the other literature and only provides additional content when the other literature is insufficient.
