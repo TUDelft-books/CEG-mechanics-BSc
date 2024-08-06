@@ -65,7 +65,7 @@ Bar supports are treated in the book Engineering Mechanics Volume 1 in chapter 4
 ```
 ## Rolling clamped support
 
-A rolling clamped support is a connection which allows for transverse movement, but restricts perpendicular movement and rotation. This leads to a support reactions in  as shown in figure {numref}`rolling_clamp`.
+A rolling clamped support is a connection which allows for transverse movement, but restricts perpendicular movement and rotation. This leads to a support reactions in as shown in figure {numref}`rolling_clamp`.
 
 ```{figure} ./supports_figures/Rolling_clamp.svg
 :name: rolling_clamp

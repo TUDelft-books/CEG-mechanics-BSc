@@ -1,5 +1,5 @@
 ```{index} Internal forces
-:name: internal_forcees
+:name: internal_forces
 ```
 # Internal forces
 
