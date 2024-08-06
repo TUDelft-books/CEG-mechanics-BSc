@@ -1,3 +1,6 @@
+```{index} Support reactions strengthened structures
+:name: support_strengthened
+```
 # ... strengthened structures {bdg-success}`Exercise`
 
 In a strengthened structure, the support reactions have to be found by investigating the strengthening system consisting of zero-force members separately. Similarly as before, the forces can be solved using [equilibrium](equilibrium_body). The full procedure is shown in chapter 5.7 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.

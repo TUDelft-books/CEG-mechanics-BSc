@@ -1,4 +1,4 @@
-```{index} support reactions self-contained structures
+```{index} Support reactions self-contained structures
 :name: support_self_contained
 ```
 # ... self-contained structures {bdg-success}`Exercise`
