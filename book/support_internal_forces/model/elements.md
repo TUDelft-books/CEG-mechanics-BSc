@@ -13,7 +13,7 @@ Beams are treated in the book Engineering Mechanics Volume 2 in chapter 4.1 {cit
 :name: two-force-member
 ```
 ## Two-force members
-Two-force members are a simplified form of the general {ref}`beams` in which only [normal forces](normal_forces) occur. These elements are treated in the book Engineering Mechanics Volume 1 in chapter 3.2.2 {cite}`Hartsuijker2006`.
+Two-force members are a simplified form of the general {ref}`beams` in which only [normal forces](normal_force) occur. These elements are treated in the book Engineering Mechanics Volume 1 in chapter 3.2.2 {cite}`Hartsuijker2006`.
 
 ```{index} Cables
 ```
