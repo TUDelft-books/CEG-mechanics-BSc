@@ -18,9 +18,7 @@ parts:
         - file: support_internal_forces/model/supports
         - file: support_internal_forces/model/hinges
         - file: support_internal_forces/model/FBD
-      - file: support_internal_forces/transforming_forces/intro
-        sections:
-        - file: support_internal_forces/transforming_forces/Resolution_of_forces
+      - file: support_internal_forces/transforming_forces/Resolution_of_forces
       - file: support_internal_forces/equilibrium/intro
         sections:
         - file: support_internal_forces/equilibrium/particle
