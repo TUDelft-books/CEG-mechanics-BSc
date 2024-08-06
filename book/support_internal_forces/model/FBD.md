@@ -1,4 +1,5 @@
 ```{index} Free body diagram
+:name: free-body-diagram
 ```
 # Free body diagrams
 

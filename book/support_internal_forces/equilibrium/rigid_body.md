@@ -1,6 +1,6 @@
-# Equilibrium of a rigid body {bdg-success}`Exercise`
+# Equilibrium of a body {bdg-success}`Exercise`
 
-This subject allows you to solve forces and moments acting on a rigid body.
+This subject allows you to solve forces and moments acting on a body.
 
 ## Theory
 
@@ -13,7 +13,6 @@ Read chapter 3.1.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijk
 ```
 ### Moment of a couple
 Read chapter 3.1.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
-
 
 ```{index} Statics; of a planar rigid body
 ```
