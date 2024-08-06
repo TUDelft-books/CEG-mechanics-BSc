@@ -1,4 +1,7 @@
-# Support reactions {bdg-success}`Exercise`
+```{index} support reactions
+:name: support
+```
+# Support reactions statically determinate structures {bdg-success}`Exercise`
 
 ```{tableofcontents}
 ```

@@ -1,7 +1,7 @@
 ```{index} Equilibrium of a body
 :name: equilibrium_boyd
 ```
-# Equilibrium of a 3D-body {bdg-success}`Exercise`
+# ... of a 3D-body {bdg-success}`Exercise`
 
 By applying equilibrium to the free-body diagram of a body  you can find unknown forces and moments which prevent motion (translation and rotation). The concept of equilibrium of a body is treated in chapter 3.1.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. At maximum six unknown forces can be solved in a threedimensional problem. The steps involved are:
 

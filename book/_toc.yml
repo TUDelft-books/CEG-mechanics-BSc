@@ -26,6 +26,9 @@ parts:
         - file: support_internal_forces/equilibrium/rigid_body
         - file: support_internal_forces/equilibrium/rigid_body3d
       - file: support_internal_forces/support_reactions/intro
+        - file: support_internal_forces/support_reactions/rigid_body
+        - file: support_internal_forces/support_reactions/hinged
+        - file: support_internal_forces/support_reactions/complicated
     - file: stresses_displacements/intro
     - file: statically_inderminate/intro
     - file: buckling/intro
