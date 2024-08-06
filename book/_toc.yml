@@ -22,7 +22,9 @@ parts:
       - file: support_internal_forces/equilibrium/intro
         sections:
         - file: support_internal_forces/equilibrium/particle
+        - file: support_internal_forces/equilibrium/particle3d
         - file: support_internal_forces/equilibrium/rigid_body
+        - file: support_internal_forces/equilibrium/rigid_body3d
       - file: support_internal_forces/support_reactions/intro
     - file: stresses_displacements/intro
     - file: statically_inderminate/intro
