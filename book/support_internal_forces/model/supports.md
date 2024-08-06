@@ -30,7 +30,7 @@ The degrees of freedom for planar structures are indicated with $u$, the point f
 Degrees of freedom at supports
 ```
 
-Support reactions for planar structures are indicated with the letter and a $_\text{h}$, $_\text{v}$ or $_\text{m}$ for horizontal, vertical or rotational [loads](loads). Typically, these direction don't have to align with the [coordinate system](coordinate) but are chosen in the expected direction. For three-dimensional structures, the support reactions are indicated with the letter and a $_x$, $_y$, $_z$ for the direction. Typically, no moments at support reactions are asked for in three-dimensional problems. This is shown in figure {numref}`support_reactions`.
+Support reactions for planar structures are indicated with the letter and a $_\text{h}$, $_\text{v}$ or $_\text{m}$ for horizontal, vertical or rotational [loads](loads_index). Typically, these direction don't have to align with the [coordinate system](coordinate) but are chosen in the expected direction. For three-dimensional structures, the support reactions are indicated with the letter and a $_x$, $_y$, $_z$ for the direction. Typically, no moments at support reactions are asked for in three-dimensional problems. This is shown in figure {numref}`support_reactions`.
 
 ```{figure} ./supports_figures/support_reactions.svg
 :name: support_reactions
@@ -40,7 +40,7 @@ Support reactions
 ```
 
 
-```{index} Support; fixed
+```{index} Fixed support
 ```
 ## Fixed support
 Fixed supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.4 {cite}`Hartsuijker2006`.
