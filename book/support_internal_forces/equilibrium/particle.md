@@ -1,4 +1,5 @@
 ```{index} Equilibrium of a particle
+:name: equilibrium_particle
 ```
 # Equilibrium of a particle {bdg-success}`Exercise`
 

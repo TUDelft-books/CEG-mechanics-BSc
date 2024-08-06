@@ -1,36 +1,19 @@
+```{index} Equilibrium of a body
+:name: equilibrium_boyd
+```
 # Equilibrium of a body {bdg-success}`Exercise`
 
-This subject allows you to solve forces and moments acting on a body.
+By applying equilibrium to the free-body diagram of a body (full structure of part of it) you can find unknown forces and moments which prevent motion (translation and rotation). The concept of equilibrium of a body is treated in chapter 3.1.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. At maximum three unknown forces (of which maximum one couple) can be solved in a planar problem and six forces in a threedimensional problem. The steps involved are:
 
-## Theory
+1. Draw [free body diagram](free-body-diagram) of the body
+2. Split the forces in convenient directions by applying [resolution of forces](resolution_forces)
+3. Solve the forces and moments using $\sum F  = 0$  in two nonparallel convenient directions and ${\left. {\sum T } \right|_x} = 0$ for any arbitrary points $x$ as treated in chapter 3.1.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. For threedimensional problem, moments are taken around a line as treated in chapter 3.3.2. The full procedure for planar problems is shown in chapter 3.2 and for threedimensional problems in chapter 3.4.
 
-```{index} Moment; about a point
-```
-### Moment of a force about a point
-Read chapter 3.1.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
-```{index} Moment; of a couple
-```
-### Moment of a couple
-Read chapter 3.1.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
-
-```{index} Statics; of a planar rigid body
-```
-### Equilibrium of a planar rigid body
-Read chapter 3.2.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
-
-```{index} Moment; about a line
-```
-### Moment of a force about a line
-Read chapter 3.3.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
-
-```{index} Statics; of a 3-dimensional rigid body
-```
-### Equilibrium of a 3-dimensional rigid body
-Read chapter 3.3.3 and 3.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
-
-## Practice material
-- Exercises 3.6, 3.7, 3.8a, 3.8b, 3.19, 3.20, 3.32 - 3.46 in chapter 3.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter2/).
-
-## Relation with other subjects
-<iframe allow="fullscreen" style="width: 100%!important; height: 500px;" src="https://prime-applets.ewi.tudelft.nl/graph/CTB1110-17/show2?lecture=3&view=lecture" allowfullscreen></iframe>
+## Exercises
+- If you're a TU Delft student, you can practise with the following ANS exercies:
+  - [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises on planar problems](https://ans.app/digital_test/assignments/1089993/results/new)
+  - [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises on threedimensional problems](https://ans.app/digital_test/assignments/1089993/results/new).
+- Exercises in chapter 3.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`, answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter3/):
+  - Moment of a force around a point:  3.6 - 3.8b
+  - Equilibrium for planar problems 3.19, 3.20, 3.32 - 3.46
