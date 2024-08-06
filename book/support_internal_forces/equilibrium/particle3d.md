@@ -1,5 +1,5 @@
-```{index} Equilibrium of a particle
-:name: equilibrium_particle
+```{index} Equilibrium of a particle in 3D
+:name: equilibrium_particle_3d
 ```
 # ... of a 3D-particle {bdg-success}`Exercise`
 

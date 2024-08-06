@@ -1,5 +1,5 @@
-```{index} Equilibrium of a body
-:name: equilibrium_boyd
+```{index} Equilibrium of a body in 3D
+:name: equilibrium_body_3d
 ```
 # ... of a 3D-body {bdg-success}`Exercise`
 
