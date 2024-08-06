@@ -21,7 +21,7 @@ At Delft University of Technology, supports are indicated using the letter indic
 Labelling of supports
 ```
 
-The degrees of freedom for planar structures are indicated with $u$, the point for which this degree of freedom applies as a subscript and the [direction](coordinate) in which it works: $x$, $z$ and $\phi$. For three-dimensional structures this leads to $x$, $y$, $z$, $\phi_x$, $\phi_y$, $\phi_z$ . Rotation are typical indicated using curved arrow, although double arrows are an option as well. This is shown in figure {numref}`degrees_of_freedom`. 
+The degrees of freedom for planar structures are indicated with $u$, the point for which this degree of freedom applies as a subscript and the [direction](coordinate) in which it works: $x$, $z$ and $\varphi$. For three-dimensional structures this leads to $x$, $y$, $z$, $\varphi_x$, $\varphi_y$, $\varphi_z$ . Rotation are typical indicated using curved arrow, although double arrows are an option as well. This is shown in figure {numref}`degrees_of_freedom`. 
 
 ```{figure} ./supports_figures/degrees_of_freedom.svg
 :name: degrees_of_freedom
@@ -30,7 +30,7 @@ The degrees of freedom for planar structures are indicated with $u$, the point f
 Degrees of freedom at supports
 ```
 
-Support reactions for planar structures are indicated with the letter and a $_\text{h}$, $_\text{v}$ or $_\text{m}$ for horizontal, vertical or rotational forces. Typically, these direction don't have to align with the [coordinate system](coordinate) but are chosen in the expected direction. For three-dimensional structures, the support reactions are indicated with the letter and a $_x$, $_y$, $_z$ for the direction. Typically, no moments at support reactions are asked for in three-dimensional problems. This is shown in figure {numref}`support_reactions.svg
+Support reactions for planar structures are indicated with the letter and a $_\text{h}$, $_\text{v}$ or $_\text{m}$ for horizontal, vertical or rotational [loads](loads). Typically, these direction don't have to align with the [coordinate system](coordinate) but are chosen in the expected direction. For three-dimensional structures, the support reactions are indicated with the letter and a $_x$, $_y$, $_z$ for the direction. Typically, no moments at support reactions are asked for in three-dimensional problems. This is shown in figure {numref}`support_reactions`.
 
 ```{figure} ./supports_figures/support_reactions.svg
 :name: support_reactions

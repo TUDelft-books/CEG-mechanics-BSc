@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export telescope_hinge.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.61461in" height="1.54322in"
+		viewBox="0 0 188.252 111.112" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:butt;stroke-width:2}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {marker-end:url(#mrkr1-21);stroke:#000000;stroke-linecap:butt;stroke-width:3}
+		.st4 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.67567567567568}
+		.st5 {marker-end:url(#mrkr5-33);stroke:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st6 {fill:#800000;fill-opacity:1;stroke:#800000;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st7 {marker-start:url(#mrkr5-65);stroke:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-21" class="st4" v:arrowType="1" v:arrowSize="0" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-1.48,-1.48) "/>
+		</marker>
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-33" class="st6" v:arrowType="5" v:arrowSize="2" v:setback="3.775" refX="-3.775" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.26,-2.26) "/>
+		</marker>
+		<marker id="mrkr5-65" class="st6" v:arrowType="5" v:arrowSize="2" v:setback="3.775" refX="3.775" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.26) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape35-1" v:mID="35" v:groupContext="shape" transform="translate(37.4331,-107.902)">
+			<title>Ligger, 2 pt.35</title>
+			<path d="M0 111.11 L56.69 111.11" class="st1"/>
+		</g>
+		<g id="shape36-4" v:mID="36" v:groupContext="shape" transform="translate(95.5433,-107.902)">
+			<title>Ligger, 2 pt.36</title>
+			<path d="M0 111.11 L55.28 111.11" class="st1"/>
+		</g>
+		<g id="shape37-7" v:mID="37" v:groupContext="shape" transform="translate(79.9527,-110.737)">
+			<title>Blad.37</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape39-10" v:mID="39" v:groupContext="shape" transform="translate(37.4331,-72.4692)">
+			<title>Ligger, 2 pt.39</title>
+			<path d="M0 111.11 L56.69 111.11" class="st1"/>
+		</g>
+		<g id="shape40-13" v:mID="40" v:groupContext="shape" transform="translate(104.047,-72.4692)">
+			<title>Ligger, 2 pt.40</title>
+			<path d="M0 111.11 L55.28 111.11" class="st1"/>
+		</g>
+		<g id="shape43-16" v:mID="43" v:groupContext="shape" transform="translate(94.126,-78.1385)">
+			<title>verplaatsing.43</title>
+			<path d="M0 111.11 L11.34 111.11" class="st3"/>
+		</g>
+		<g id="shape44-22" v:mID="44" v:groupContext="shape" transform="translate(2,-37.0361)">
+			<title>Ligger, 2 pt.44</title>
+			<path d="M0 111.11 L56.69 111.11" class="st1"/>
+		</g>
+		<g id="shape45-25" v:mID="45" v:groupContext="shape" transform="translate(129.559,-37.0362)">
+			<title>Ligger, 2 pt.45</title>
+			<path d="M0 111.11 L56.69 111.11" class="st1"/>
+		</g>
+		<g id="shape48-28" v:mID="48" v:groupContext="shape" transform="translate(18.4471,89.6663) rotate(-90)">
+			<title>Moment.48</title>
+			<path d="M-0 111.11 A14.1732 14.1732 0 0 1 14.17 96.94 A14.1732 14.1732 0 0 1 26.14 103.52 L26.24 103.86" class="st5"/>
+		</g>
+		<g id="shape49-34" v:mID="49" v:groupContext="shape" transform="translate(169.805,88.249) rotate(90) scale(-1,1)">
+			<title>Moment.49</title>
+			<path d="M-0 111.11 A14.1732 14.1732 0 0 1 14.17 96.94 A14.1732 14.1732 0 0 1 26.14 103.52 L26.24 103.86" class="st5"/>
+		</g>
+		<g id="shape50-39" v:mID="50" v:groupContext="shape" transform="translate(94.126,-110.737)">
+			<title>Blad.50</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape51-42" v:mID="51" v:groupContext="shape" transform="translate(79.9527,-105.068)">
+			<title>Blad.51</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape52-45" v:mID="52" v:groupContext="shape" transform="translate(94.126,-105.068)">
+			<title>Blad.52</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape53-48" v:mID="53" v:groupContext="shape" transform="translate(79.9527,-75.3038)">
+			<title>Blad.53</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape54-51" v:mID="54" v:groupContext="shape" transform="translate(94.126,-75.3038)">
+			<title>Blad.54</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape55-54" v:mID="55" v:groupContext="shape" transform="translate(79.9527,-69.6346)">
+			<title>Blad.55</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape56-57" v:mID="56" v:groupContext="shape" transform="translate(94.126,-69.6346)">
+			<title>Blad.56</title>
+			<path d="M0 111.11 L14.17 111.11" class="st2"/>
+		</g>
+		<g id="shape57-60" v:mID="57" v:groupContext="shape" transform="translate(-52.419,74.0758) rotate(-90)">
+			<title>Kracht.57</title>
+			<path d="M7.55 111.11 L7.91 111.11 L28.35 111.11" class="st7"/>
+		</g>
+		<g id="shape58-66" v:mID="58" v:groupContext="shape" transform="translate(240.671,72.6584) rotate(90)">
+			<title>Kracht.58</title>
+			<path d="M7.55 111.11 L7.91 111.11 L28.35 111.11" class="st7"/>
+		</g>
+	</g>
+</svg>
