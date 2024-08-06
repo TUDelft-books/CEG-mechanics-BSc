@@ -1,7 +1,7 @@
 ```{index} support reactions
 :name: support
 ```
-# Support reactions statically determinate structures
+# Support reactions with equilibrium for statically determinate
 
 ```{tableofcontents}
 ```
