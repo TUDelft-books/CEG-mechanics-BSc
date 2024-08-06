@@ -1,4 +1,5 @@
 ```{index} Coordinate system
+:name: coordinatesystem
 ```
 # Coordinate system
 
