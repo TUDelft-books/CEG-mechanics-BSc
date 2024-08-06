@@ -1,3 +1,6 @@
+```{index} Internal forces
+:name: internal_forcees
+```
 # Internal forces
 
 ```{index} Normal force

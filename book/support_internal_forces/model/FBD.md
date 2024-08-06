@@ -7,7 +7,7 @@ A free body diagram includes a complete or part of a model, with all [loads](loa
 ```{index} Free body diagram ; of an entire model
 ```
 ## Free body diagram of entire model
-A free body diagram of an entire model doesn't show [internal forces](internal forces).
+A free body diagram of an entire model doesn't show [internal forces](internal_forces).
 
 An example model is shown in {numref}`model`.
 
@@ -72,3 +72,5 @@ The free body diagram of point $\text{B}$ of the example model is shown in {numr
 
 Free body diagram of point $\text{B}$ of the example model
 ```
+
+Alternatively, a small part of the connected elements is drawn to indicate the direction of those elements.
