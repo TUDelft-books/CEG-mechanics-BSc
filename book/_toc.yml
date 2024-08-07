@@ -18,6 +18,7 @@ parts:
         - file: support_internal_forces/model/supports
         - file: support_internal_forces/model/hinges
         - file: support_internal_forces/model/FBD
+        - file: support_internal_forces/model/structures
       - file: support_internal_forces/transforming_forces/Resolution_of_forces
       - file: support_internal_forces/equilibrium/intro
         sections:
@@ -30,6 +31,11 @@ parts:
         - file: support_internal_forces/support_reactions/rigid_body
         - file: support_internal_forces/support_reactions/hinged
         - file: support_internal_forces/support_reactions/complicated
+      - file: support_internal_forces/internal_forces_truss
+        sections:
+        - file: support_internal_forces/internal_forces_truss/intro
+        - file: support_internal_forces/internal_forces_truss/zero-force
+        - file: support_internal_forces/internal_forces_truss/cross_section
     - file: stresses_displacements/intro
     - file: statically_inderminate/intro
     - file: buckling/intro

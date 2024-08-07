@@ -31,6 +31,7 @@ Free body diagram of the entire example model
 ```
 
 ```{index} Free body diagram ; of a hinged part of a model
+:name: free_body_diagram_hinged
 ```
 ## Free body diagram of a hinged part of a model
 In the free body diagram of a hinged part of a model, a cut is made at the hinge, showing the [(potential) interaction forces at the hinge](hinges). 
@@ -46,6 +47,7 @@ Free body diagram of the right hinged part of the example model
 ```
 
 ```{index} Free body diagram ; of a part of a model
+:name: free_body_diagram_part
 ```
 ## Free body diagram of a part of a model
 In the free body diagram of a part of a model, a cut is made at the any arbitrary point, showing the (potential) [internal forces](internal_forces_index) in the elements.
@@ -61,6 +63,7 @@ Free body diagram to the right of a cut just left of point $\text{C}$ of the exa
 ```
 
 ```{index} Free body diagram ; of a point in the model
+:name: free_body_diagram_node
 ```
 A cut can also be made such that only a single point is left. In that case you can draw the free body diagram of this single point.
 
