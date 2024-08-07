@@ -1,5 +1,5 @@
-```{index} Truss structures
-:name: truss_structures
+```{index} Internal force truss structures using equilibrium
+:name: truss_structures_force_equilibrium
 ```
 # ... using equilibrium in a specific cross-section {bdg-success}`Exercise`
 
