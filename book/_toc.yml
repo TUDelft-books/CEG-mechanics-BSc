@@ -47,6 +47,10 @@ parts:
         sections:
         - file: stresses_displacements/kinematic/extension
         - file: stresses_displacements/kinematic/bending
+      - file: stresses_displacements/constitutive/intro
+        sections:
+        - file: stresses_displacements/constitutive/extension
+        - file: stresses_displacements/constitutive/bending
     - file: statically_inderminate/intro
     - file: buckling/intro
     - file: continuum/intro
