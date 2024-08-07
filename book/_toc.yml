@@ -26,6 +26,10 @@ parts:
         - file: support_internal_forces/equilibrium/particle3d
         - file: support_internal_forces/equilibrium/rigid_body
         - file: support_internal_forces/equilibrium/rigid_body3d
+      - file: support_internal_forces/ode/intro
+        sections:
+        - file: support_internal_forces/ode/extension
+        - file: support_internal_forces/ode/bending
       - file: support_internal_forces/support_reactions/intro
         sections:
         - file: support_internal_forces/support_reactions/equilibrium
