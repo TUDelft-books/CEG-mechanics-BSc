@@ -1,1 +1,1 @@
-# Continuum mechanics: tranforming stress- and strain states
+# Continuum mechanics: transforming stress- and strain states

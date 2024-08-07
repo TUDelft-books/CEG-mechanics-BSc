@@ -1,9 +1,9 @@
-```{index} Internal forces truss structures
-:name: truss_structures_internal
+```{index} Section forces truss structures
+:name: truss_structures_section
 ```
-# Internal forces statically determinate truss structure
+# Section forces statically determinate truss structure
 
-How to calculate internal forces in truss structures is explained in the following topics:
+How to calculate section forces in truss structures is explained in the following topics:
 
 ```{tableofcontents}
 ```

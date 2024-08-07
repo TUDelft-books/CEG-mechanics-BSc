@@ -1,7 +1,7 @@
-```{index} Internal forces
-:name: internal_forces_index
+```{index} Section forces
+:name: Section_forces_index
 ```
-# Internal forces
+# Section forces
 
 ```{index} Normal force
 :name: normal_force
@@ -13,7 +13,7 @@
 :name: bending_moment
 ```
 ## Normal and shear force and bending moment
-These internal forces are treated in in the book Engineering Mechanics Volume 1 in chapter 10.1.1, 10.3 and 10.1.4 {cite}`Hartsuijker2006`.
+These section forces are treated in in the book Engineering Mechanics Volume 1 in chapter 10.1.1, 10.3 and 10.1.4 {cite}`Hartsuijker2006`.
 
 ```{index} Torsional moment
 :name: torsional_moment
