@@ -24,7 +24,7 @@ sphinx:
       favicon : "images/favicon.ico"
       baseurl :  "https://teachbooks.github.io/mechanics-BSc/" #Replace this with your own URL
       home_page_in_navbar       : true
-      announcement : "This book is under construction ✍🏻"
+      announcement : "This book is under construction ✍🏻, it's continuously updated from September 2024 through January 2025 📅."
       launch_buttons:
         thebe: true
     html_show_copyright: false

@@ -34,7 +34,7 @@ parts:
     - file: statically_inderminate/intro
     - file: buckling/intro
     - file: continuum/intro
-  - caption: More information
+  - caption: Miscellaneous
     chapters:
     - file: bibliography
     - file: genindex
