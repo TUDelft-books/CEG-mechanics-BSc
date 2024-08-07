@@ -28,9 +28,7 @@ parts:
         - file: support_internal_forces/equilibrium/rigid_body3d
       - file: support_internal_forces/support_reactions/intro
         sections:
-        - file: support_internal_forces/support_reactions/rigid_body
-        - file: support_internal_forces/support_reactions/hinged
-        - file: support_internal_forces/support_reactions/complicated
+        - file: support_internal_forces/support_reactions/equilibrium
       - file: support_internal_forces/internal_forces_truss/intro
         sections:
         - file: support_internal_forces/internal_forces_truss/zero-force
