@@ -9,6 +9,11 @@ execute:
 
 only_build_toc_files: true
 
+html:
+  favicon : "images/favicon.ico"
+  baseurl :  "https://teachbooks.github.io/mechanics-BSc/" #Replace this with your own URL
+  home_page_in_navbar       : true
+
 sphinx:
   config:
     bibtex_reference_style: super
@@ -21,9 +26,6 @@ sphinx:
       repository_url: "https://github.com/TeachBooks/mechanics-BSc"
       use_repository_button: true
       use_issues_button : true
-      favicon : "images/favicon.ico"
-      baseurl :  "https://teachbooks.github.io/mechanics-BSc/" #Replace this with your own URL
-      home_page_in_navbar       : true
       announcement : "This book is under construction ✍🏻; it's continuously updated from September 2024 through January 2025 📅"
       launch_buttons:
         thebe: true
