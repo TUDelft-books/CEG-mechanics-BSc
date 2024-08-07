@@ -1,6 +1,6 @@
 # ... for extension
 
-The differential equation for equilibrium for extension is based on the infinitesimal small loaded bar:
+The differential equation for equilibrium relations for extension is based on the infinitesimal small loaded bar:
 
 ```{figure} extension_data/equilibrium.svg
 :align: center

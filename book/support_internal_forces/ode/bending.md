@@ -1,6 +1,6 @@
 # ... for bending
 
-The differential equation for equilibrium for bending is based on the infinitesimal small loaded beam:
+The differential equation for equilibrium relations for bending is based on the infinitesimal small loaded beam:
 
 ```{figure} bending_data/equilibrium.svg
 :align: center

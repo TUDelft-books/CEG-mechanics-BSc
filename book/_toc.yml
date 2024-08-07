@@ -42,6 +42,11 @@ parts:
         - file: support_internal_forces/internal_forces_beam/cross_section
         - file: support_internal_forces/internal_forces_beam/diagrams
     - file: stresses_displacements/intro
+      sections:
+      - file: stresses_displacements/kinematic/intro
+        sections:
+        - file: stresses_displacements/kinematic/extension
+        - file: stresses_displacements/kinematic/bending
     - file: statically_inderminate/intro
     - file: buckling/intro
     - file: continuum/intro

@@ -1,11 +1,11 @@
-```{index} Differential equation for equilibrium
+```{index} Differential equations for equilibrium relations
 :name: ode_equilibrium
 ```
-```{index} Equilibrium equation
+```{index} Equilibrium relations
 ```
-```{index} Static equation
+```{index} Static relations
 ```
-# Differential equation for equilibrium
+# Differential equations for equilibrium relations
 
 ```{tableofcontents}
 ```
