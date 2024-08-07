@@ -1,5 +1,5 @@
 ```{index} Section forces
-:name: Section_forces_index
+:name: section_forces_index
 ```
 # Section forces
 
@@ -12,8 +12,11 @@
 ```{index} Bending moment
 :name: bending_moment
 ```
+```{index} Deformation sign
+:name: deformation_sign
+```
 ## Normal and shear force and bending moment
-These section forces are treated in in the book Engineering Mechanics Volume 1 in chapter 10.1.1, 10.3 and 10.1.4 {cite}`Hartsuijker2006`.
+These section forces, including their deformation signs, are treated in in the book Engineering Mechanics Volume 1 in chapter 10.1.1, 10.3 and 10.1.4 {cite}`Hartsuijker2006`.
 
 ```{index} Torsional moment
 :name: torsional_moment

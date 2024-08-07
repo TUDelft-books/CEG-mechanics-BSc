@@ -8,7 +8,7 @@ A free body diagram includes a complete or part of a model, with all [loads](loa
 ```{index} Free body diagram ; of an entire model
 ```
 ## Free body diagram of entire model
-A free body diagram of an entire model doesn't show [internal forces](internal_forces_index).
+A free body diagram of an entire model doesn't show [section forces](section_forces_index).
 
 An example model is shown in {numref}`model`.
 
@@ -50,7 +50,7 @@ Free body diagram of the right hinged part of the example model
 :name: free_body_diagram_part
 ```
 ## Free body diagram of a part of a model
-In the free body diagram of a part of a model, a cut is made at the any arbitrary point, showing the (potential) [internal forces](internal_forces_index) in the elements.
+In the free body diagram of a part of a model, a cut is made at the any arbitrary point, showing the (potential) [section forces](section_forces_index) in the elements.
 
 The free body diagram to the right of a cut just left of point $\text{C}$ of the example model is shown in {numref}`FBD_part`.
 

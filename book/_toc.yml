@@ -37,7 +37,6 @@ parts:
         - file: support_internal_forces/internal_forces_truss/cross_section
       - file: support_internal_forces/internal_forces_beam/intro
         sections:
-        - file: support_internal_forces/internal_forces_beam/zero-force
         - file: support_internal_forces/internal_forces_beam/cross_section
         - file: support_internal_forces/internal_forces_beam/diagrams
     - file: stresses_displacements/intro
