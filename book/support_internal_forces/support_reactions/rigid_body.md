@@ -1,7 +1,7 @@
 ```{index} Support reactions self-contained structures
 :name: support_self_contained
 ```
-# ... self-contained structures {bdg-success}`Exercise`
+# ... self-contained structures
 
 The support reactions of a self-contained structure (a structure that, isolated from its supports, retains its shape) can be found by replacing the supports by their support reactions and solving the problem using [equilibrium](equilibrium_body). The full procedure is shown in chapter 5.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 

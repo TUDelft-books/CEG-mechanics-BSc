@@ -1,7 +1,7 @@
 ```{index} Resolution of forces
 :name: resolution_forces
 ```
-# Resolution of forces {bdg-success}`Exercise`
+# Resolution of forces
 
 THe resolution of forces allows you to split up a force in other directions. In most cases, resolution of forces in the direction of the [global or local coordinate system](coordinatesystem) is most useful.
 

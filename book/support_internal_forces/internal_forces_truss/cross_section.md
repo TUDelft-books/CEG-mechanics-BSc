@@ -1,7 +1,7 @@
 ```{index} Internal force truss structures using equilibrium
 :name: truss_structures_force_equilibrium
 ```
-# ... using equilibrium in a specific cross-section {bdg-success}`Exercise`
+# ... using equilibrium in a specific cross-section
 
 There are two methods which can be applied. In general, it is advised to first solve for the [support reactions](support) and identify [zero-force members](zero-force_members).
 

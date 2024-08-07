@@ -1,7 +1,7 @@
 ```{index} Equilibrium of a particle in 3D
 :name: equilibrium_particle_3d
 ```
-# ... of a 3D-particle {bdg-success}`Exercise`
+# ... of a 3D-particle
 
 By applying equilibrium to the free-body diagram of a particle you can find unknown forces. At maximum three unknown forces can be solved in a threedimensional problem. The steps involved are:
 
