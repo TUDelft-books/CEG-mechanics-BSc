@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export fixed.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.410367in" height="0.373428in"
+		viewBox="0 0 29.5465 26.8868" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group316-1" transform="translate(2.05965,26.5118) rotate(-90)" v:mID="316" v:groupContext="group">
+			<title>Inklemming</title>
+			<g id="shape317-2" v:mID="317" v:groupContext="shape" transform="translate(38.2254,-1.45965) rotate(90)">
+				<title>Blad.317</title>
+				<path d="M0 26.89 L28.35 26.89" class="st1"/>
+			</g>
+			<g id="shape318-5" v:mID="318" v:groupContext="shape" transform="translate(27.5158,-20.4715) rotate(45)">
+				<title>Blad.318</title>
+				<path d="M0 26.89 L4.01 26.89" class="st2"/>
+			</g>
+			<g id="shape319-8" v:mID="319" v:groupContext="shape" transform="translate(24.6811,-20.4715) rotate(45)">
+				<title>Blad.319</title>
+				<path d="M0 26.89 L8.02 26.89" class="st2"/>
+			</g>
+			<g id="shape320-11" v:mID="320" v:groupContext="shape" transform="translate(21.8465,-20.4715) rotate(45)">
+				<title>Blad.320</title>
+				<path d="M0 26.89 L12.03 26.89" class="st2"/>
+			</g>
+			<g id="shape321-14" v:mID="321" v:groupContext="shape" transform="translate(19.0118,-20.4715) rotate(45)">
+				<title>Blad.321</title>
+				<path d="M0 26.89 L16.04 26.89" class="st2"/>
+			</g>
+			<g id="shape322-17" v:mID="322" v:groupContext="shape" transform="translate(19.0118,-17.6368) rotate(45)">
+				<title>Blad.322</title>
+				<path d="M0 26.89 L16.04 26.89" class="st2"/>
+			</g>
+			<g id="shape323-20" v:mID="323" v:groupContext="shape" transform="translate(19.0118,-14.8022) rotate(45)">
+				<title>Blad.323</title>
+				<path d="M0 26.89 L16.04 26.89" class="st2"/>
+			</g>
+			<g id="shape324-23" v:mID="324" v:groupContext="shape" transform="translate(19.0118,-11.9676) rotate(45)">
+				<title>Blad.324</title>
+				<path d="M0 26.89 L16.04 26.89" class="st2"/>
+			</g>
+			<g id="shape325-26" v:mID="325" v:groupContext="shape" transform="translate(19.0118,-9.13291) rotate(45)">
+				<title>Blad.325</title>
+				<path d="M0 26.89 L16.04 26.89" class="st2"/>
+			</g>
+			<g id="shape326-29" v:mID="326" v:groupContext="shape" transform="translate(19.0118,-6.29826) rotate(45)">
+				<title>Blad.326</title>
+				<path d="M0 26.89 L16.04 26.89" class="st2"/>
+			</g>
+			<g id="shape327-32" v:mID="327" v:groupContext="shape" transform="translate(19.0118,-3.46362) rotate(45)">
+				<title>Blad.327</title>
+				<path d="M0 26.89 L16.04 26.89" class="st2"/>
+			</g>
+			<g id="shape328-35" v:mID="328" v:groupContext="shape" transform="translate(19.0118,-0.628972) rotate(45)">
+				<title>Blad.328</title>
+				<path d="M0 26.89 L12.03 26.89" class="st2"/>
+			</g>
+			<g id="shape329-38" v:mID="329" v:groupContext="shape" transform="translate(19.0118,2.20567) rotate(45)">
+				<title>Blad.329</title>
+				<path d="M0 26.89 L8.02 26.89" class="st2"/>
+			</g>
+			<g id="shape330-41" v:mID="330" v:groupContext="shape" transform="translate(19.0118,5.04032) rotate(45)">
+				<title>Blad.330</title>
+				<path d="M0 26.89 L4.01 26.89" class="st2"/>
+			</g>
+		</g>
+		<g id="shape331-44" v:mID="331" v:groupContext="shape" transform="translate(-12.1136,15.1732) rotate(-90)">
+			<title>Ligger, 2 pt.331</title>
+			<path d="M0 26.89 L14.17 26.89" class="st3"/>
+		</g>
+	</g>
+</svg>

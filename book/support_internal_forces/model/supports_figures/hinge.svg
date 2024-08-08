@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export roll.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.286007in" height="0.167897in"
+		viewBox="0 0 20.5925 12.0886" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#00cc99;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group332-1" transform="translate(0.375,-0.375)" v:mID="332" v:groupContext="group">
+			<title>Scharnieroplegging.332</title>
+			<g id="shape333-2" v:mID="333" v:groupContext="shape" transform="translate(2.83465,-1.77636E-15)">
+				<title>Blad.333</title>
+				<path d="M0 12.09 L14.17 12.09 L7.09 0.75 L0 12.09 Z" class="st1"/>
+			</g>
+			<g id="shape334-4" v:mID="334" v:groupContext="shape" transform="translate(2.83465,24.1772) rotate(180)">
+				<title>Blad.334</title>
+				<path d="M0 12.09 L2.83 12.09" class="st2"/>
+			</g>
+			<g id="shape335-7" v:mID="335" v:groupContext="shape" transform="translate(17.0079,-3.55271E-15)">
+				<title>Blad.335</title>
+				<path d="M0 12.09 L2.83 12.09" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

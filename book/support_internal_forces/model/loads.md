@@ -23,12 +23,18 @@ Direction of force described by angles or with fractions
 :name: couple
 ```
 ## Couple
+```{figure} ./load_data/couple.svg
+:align: center
+```
 Couples are treated in the book Engineering Mechanics Volume 1 in chapter 3.1.4 and 3.3.3 {cite}`Hartsuijker2006`. At Civil Engineering at Delft University of Technology the visual notation is used in most cases.
 
 ```{index} Distributed load
 :name: q-load
 ```
 ## Distributed loads
+```{figure} ./load_data/q.svg
+:align: center
+```
 Distributed loads are treated in the book Engineering Mechanics Volume 1 in chapter 6.3.1 {cite}`Hartsuijker2006`.
 
 ### Exercises

@@ -43,21 +43,33 @@ Support reactions
 ```{index} Fixed support
 ```
 ## Fixed support
+```{figure} ./supports_figures/fixed.svg
+:align: center
+```
 Fixed supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.4 {cite}`Hartsuijker2006`.
 
 ```{index} Hinged support
 ```
 ## Hinged support
+```{figure} ./supports_figures/hinge.svg
+:align: center
+```
 Fixed supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.3 {cite}`Hartsuijker2006`.
 
 ```{index} Rolling hinged support
 ```
 ## Rolling hinged support
+```{figure} ./supports_figures/rolling_hinge.svg
+:align: center
+```
 Bar supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.2 {cite}`Hartsuijker2006`.
 
 ```{index} Bar support
 ```
 ## Bar support
+```{figure} ./supports_figures/bar.svg
+:align: center
+```
 Bar supports are treated in the book Engineering Mechanics Volume 1 in chapter 4.3.1 {cite}`Hartsuijker2006`.
 
 
@@ -77,4 +89,7 @@ Rolling clamped support
 ```{index} Support displacement
 ```
 ## Support displacement
+```{figure} ./supports_figures/settelment.svg
+:align: center
+```
 Instead of a prescribed displacement of $0$, a support might have a prescribed non-zero displacement. The prescribed displacement leads to a support reaction in that direction too.
