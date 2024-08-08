@@ -1,5 +1,5 @@
-```{index} Section force beam using equilibrium relations
-:name: beam_force_ode
+```{index} Section force bar using equilibrium relations
+:name: bar_force_ode
 ```
 # ... using equilibrium relations
 

@@ -3,7 +3,7 @@
 ```
 # ... using equilibrium in a specific cross-section
 
-To find the section forces in a certain cross-section [a free-body diagram has to be drawn in which the structure is cut at the point of interest](free_body_diagram_part). Following, the forces can be solved using [the equilibrium of a body](equilibrium_body). This is treated in in chapter 10.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`, of which the diagrams will be covered in [](section_force_diagrams). Typically, the sign of section forces is indicated with [deformation signs](deformation_sign)
+To find the section forces in a certain cross-section [a free-body diagram has to be drawn in which the structure is cut at the point of interest](free_body_diagram_part). Following, the forces can be solved using [the equilibrium of a body](equilibrium_body). This is treated in chapter 10.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`, of which the diagrams will be covered in [](section_force_diagrams). Typically, the sign of section forces is indicated with [deformation signs](deformation_sign)
 
 In general, it is advised to first solve for the [support reactions](support).
 
