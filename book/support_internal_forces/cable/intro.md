@@ -1,5 +1,8 @@
-```{index} Section forces beam
-:name: beam_force_sections
+```{index} Section forces cable
+:name: cable_force_sections
+```
+```{index} Shape cable
+:name: cable_shape
 ```
 # Solve section forces and shape cable
 
