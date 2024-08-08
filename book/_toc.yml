@@ -57,6 +57,12 @@ parts:
         sections:
         - file: stresses_displacements/constitutive/extension
         - file: stresses_displacements/constitutive/bending
+      - file: stresses_displacements/displacements_truss/intro
+        sections:
+        - file: stresses_displacements/displacements_truss/ode
+      - file: stresses_displacements/displacements_frame/intro
+        sections:
+        - file: stresses_displacements/displacements_frame/ode
     - file: statically_inderminate/intro
     - file: buckling/intro
     - file: continuum/intro
