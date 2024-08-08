@@ -1,4 +1,4 @@
-```{index} Section forces beam
+```{index} Section forces frame
 :name: beam_force_sections
 ```
 # Solve section forces frame structures

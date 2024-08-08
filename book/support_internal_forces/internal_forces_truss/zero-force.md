@@ -3,6 +3,10 @@
 ```
 # Zero-force members
 
+```{figure} ./zero-force_data/zero-force.svg
+:align: center
+```
+
 Zero-force members are treated in chapter 9.3.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ## Exercises

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export sections.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.99024in" height="1.46185in"
+		viewBox="0 0 143.297 105.253" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st2 {marker-start:url(#mrkr5-18);stroke:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st3 {fill:#800000;fill-opacity:1;stroke:#800000;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st4 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-18" class="st3" v:arrowType="5" v:arrowSize="2" v:setback="3.775" refX="3.775" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.26) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape9-1" v:mID="9" v:groupContext="shape" transform="translate(-64.3184,-7.62547) rotate(-45)">
+			<title>Ligger, 2 pt.9</title>
+			<path d="M0 105.25 L80.18 105.25" class="st1"/>
+		</g>
+		<g id="shape10-4" v:mID="10" v:groupContext="shape" transform="translate(141.225,-64.3184) rotate(45)">
+			<title>Ligger, 2 pt.10</title>
+			<path d="M0 105.25 L40.09 105.25" class="st1"/>
+		</g>
+		<g id="shape11-7" v:mID="11" v:groupContext="shape" transform="translate(10.107,-38.4535)">
+			<title>Ligger, 2 pt.11</title>
+			<path d="M0 105.25 L70.87 105.25" class="st1"/>
+		</g>
+		<g id="shape12-10" v:mID="12" v:groupContext="shape" transform="translate(66.7999,-95.1464)">
+			<title>Ligger, 2 pt.12</title>
+			<path d="M0 105.25 L38.04 105.25" class="st1"/>
+		</g>
+		<g id="shape13-13" v:mID="13" v:groupContext="shape" transform="translate(40.765,132.923) rotate(-135)">
+			<title>Kracht.13</title>
+			<path d="M7.55 105.25 L7.91 105.25 L28.35 105.25" class="st2"/>
+		</g>
+		<g id="shape14-19" v:mID="14" v:groupContext="shape" transform="translate(133.19,115.36) rotate(180)">
+			<title>Kracht.14</title>
+			<path d="M7.55 105.25 L7.91 105.25 L28.35 105.25" class="st2"/>
+		</g>
+		<g id="shape15-24" v:mID="15" v:groupContext="shape" transform="translate(109.32,172.053) rotate(180)">
+			<title>Kracht.15</title>
+			<path d="M7.55 105.25 L7.91 105.25 L28.35 105.25" class="st2"/>
+		</g>
+		<g id="shape16-29" v:mID="16" v:groupContext="shape" transform="translate(7.98103,-36.3275)">
+			<title>Scharnier.16</title>
+			<ellipse cx="2.12598" cy="103.127" rx="2.12598" ry="2.12598" class="st4"/>
+		</g>
+		<g id="shape8-31" v:mID="8" v:groupContext="shape" transform="translate(64.674,-93.0204)">
+			<title>Scharnier.8</title>
+			<ellipse cx="2.12598" cy="103.127" rx="2.12598" ry="2.12598" class="st4"/>
+		</g>
+		<g id="shape17-33" v:mID="17" v:groupContext="shape" transform="translate(115.36,66.7999) rotate(90)">
+			<title>Kracht.17</title>
+			<path d="M7.55 105.25 L7.91 105.25 L28.35 105.25" class="st2"/>
+		</g>
+	</g>
+</svg>

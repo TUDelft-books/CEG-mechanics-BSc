@@ -20,17 +20,17 @@ parts:
         - file: support_internal_forces/model/FBD
         - file: support_internal_forces/model/structures
       - file: support_internal_forces/transforming_forces/Resolution_of_forces
+      - file: support_internal_forces/ode/intro
+        sections:
+        - file: support_internal_forces/ode/extension
+        - file: support_internal_forces/ode/bending
+        - file: support_internal_forces/ode/cable
       - file: support_internal_forces/equilibrium/intro
         sections:
         - file: support_internal_forces/equilibrium/particle
         - file: support_internal_forces/equilibrium/particle3d
         - file: support_internal_forces/equilibrium/rigid_body
         - file: support_internal_forces/equilibrium/rigid_body3d
-      - file: support_internal_forces/ode/intro
-        sections:
-        - file: support_internal_forces/ode/extension
-        - file: support_internal_forces/ode/bending
-        - file: support_internal_forces/ode/cable
       - file: support_internal_forces/support_reactions/intro
         sections:
         - file: support_internal_forces/support_reactions/equilibrium
@@ -38,7 +38,6 @@ parts:
         sections:
         - file: support_internal_forces/internal_forces_truss/zero-force
         - file: support_internal_forces/internal_forces_truss/cross_section
-        - file: support_internal_forces/internal_forces_truss/ode
       - file: support_internal_forces/internal_forces_beam/intro
         sections:
         - file: support_internal_forces/internal_forces_beam/cross_section

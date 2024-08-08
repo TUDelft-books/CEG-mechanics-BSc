@@ -5,6 +5,10 @@
 ```
 ## ... for self-contained structures
 
+```{figure} ./support_data/self-contained.svg
+:align: center
+```
+
 The support reactions of a self-contained structure (a structure that, isolated from its supports, retains its shape) can be found by replacing the supports by their support reactions and solving the problem using [equilibrium](equilibrium_body). The full procedure is shown in chapter 5.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ### Exercises
@@ -15,7 +19,9 @@ The support reactions of a self-contained structure (a structure that, isolated 
 :name: support_hinged
 ```
 ## ... for hinged structures
-
+```{figure} ./support_data/hinged.svg
+:align: center
+```
 In a statically determinate structure, there are generally more than 3 support reactions. To find all of these, it is required to include equilibrium of [hinged parts of the structure](free_body_diagram_hinged) as well. For these parts it is known that the bending moment is $0$ at the location of the hinge, which allows you to solve an additional support reaction. Similarly as before, the forces can be solved using [equilibrium](equilibrium_body). The full procedure is shown in chapter 5.2 and 5.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ### Exercises
@@ -26,7 +32,9 @@ In a statically determinate structure, there are generally more than 3 support r
 :name: support_strengthened
 ```
 ## ... for strengthened structures
-
+```{figure} ./support_data/strengthened.svg
+:align: center
+```
 In a strengthened structure, the support reactions have to be found by investigating the strengthening system consisting of zero-force members separately. Similarly as before, the forces can be solved using [equilibrium](equilibrium_body). The full procedure is shown in chapter 5.7 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ### Exercises

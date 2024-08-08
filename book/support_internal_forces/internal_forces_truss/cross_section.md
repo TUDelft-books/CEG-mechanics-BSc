@@ -1,4 +1,4 @@
-```{index} Section force bar structures using equilibrium
+```{index} Section force truss structures using equilibrium
 :name: bar_structures_force_equilibrium
 ```
 # ... using equilibrium in a specific cross-section
@@ -9,6 +9,11 @@ There are two methods which can be applied. In general, it is advised to first s
 :name: method_of_joints
 ```
 ## Method of joints
+
+```{figure} ./cross-section_data/joints.svg
+:align: center
+```
+
 This method investigates [free-body-diagrams of individual joints](free_body_diagram_node) and uses [force equilibrium of a particle](equilibrium_particle) to solve the section forces. It is treated in chapter 9.3.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ### Exercises
@@ -19,6 +24,11 @@ This method investigates [free-body-diagrams of individual joints](free_body_dia
 :name: method_of_sections
 ```
 ## Method of sections
+
+```{figure} ./cross-section_data/sections.svg
+:align: center
+```
+
 This method investigates [free-body-diagrams of parts of the structure](free_body_diagram_part) and uses [force and moment equilibrium](equilibrium_body) to solve the section forces. It is treated in chapter 9.3.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ### Exercises

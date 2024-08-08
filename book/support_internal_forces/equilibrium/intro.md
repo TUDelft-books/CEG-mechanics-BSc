@@ -1,4 +1,4 @@
-# Equilibrium
+# Solve equilibrium
 
 ```{tableofcontents}
 ```

@@ -1,5 +1,5 @@
-```{index} Section force beam using equilibrium
-:name: beam_force_equilibrium
+```{index} Section force frame using equilibrium
+:name: frame_force_equilibrium
 ```
 # ... using equilibrium in a specific cross-section
 
