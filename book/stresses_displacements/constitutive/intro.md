@@ -1,7 +1,7 @@
 ```{index} Constitutive relations
 :name: constitutive_eq
 ```
-# Equation for constitutive relations
+# Equation for constitutive relation
 
 ```{tableofcontents}
 ```
