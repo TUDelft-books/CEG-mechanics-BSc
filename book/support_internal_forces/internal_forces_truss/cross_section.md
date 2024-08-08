@@ -1,5 +1,5 @@
-```{index} Section force truss structures using equilibrium
-:name: truss_structures_force_equilibrium
+```{index} Section force bar structures using equilibrium
+:name: bar_structures_force_equilibrium
 ```
 # ... using equilibrium in a specific cross-section
 

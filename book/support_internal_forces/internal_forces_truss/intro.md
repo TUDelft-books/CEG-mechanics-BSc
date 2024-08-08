@@ -1,9 +1,9 @@
-```{index} Section forces truss structures
-:name: truss_structures_section
+```{index} Section forces bar structures
+:name: bar_structures_section
 ```
-# Section forces statically determinate truss structure
+# Solve section forces statically determinate bar structure
 
-How to calculate section forces in truss structures is explained in the following topics:
+How to calculate section forces in bar structures is explained in the following topics:
 
 ```{tableofcontents}
 ```

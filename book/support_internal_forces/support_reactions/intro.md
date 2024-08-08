@@ -1,7 +1,7 @@
 ```{index} Support reactions
 :name: support
 ```
-# Support reactions for statically determinate
+# Solve support reactions for statically determinate
 
 ```{tableofcontents}
 ```
