@@ -71,7 +71,7 @@ parts:
     - file: statically_inderminate/intro
     - file: buckling/intro
     - file: continuum/intro
-    - file: tools/into
+    - file: tools/intro
       sections:
       - file: tools/sympy
       - file: tools/sympy_mech
