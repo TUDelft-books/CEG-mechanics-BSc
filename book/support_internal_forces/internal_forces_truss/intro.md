@@ -3,7 +3,7 @@
 ```
 # Solve section forces truss structure
 
-How to calculate section forces in bar structures is explained in the following topics:
+This chapter includes the following topics:
 
 ```{tableofcontents}
 ```

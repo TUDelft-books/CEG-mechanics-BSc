@@ -1,6 +1,6 @@
 # Model
 
-The model describing forces in structures is defined by the following topics:
+This chapter includes the following topics:
 
 ```{tableofcontents}
 ```

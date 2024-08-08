@@ -6,7 +6,7 @@
 ```
 # Solve section forces and shape cable
 
-How to calculate section forces and the shape of cables is explained in the following topics:
+This chapter includes the following topics:
 
 ```{tableofcontents}
 ```

@@ -1,5 +1,5 @@
 # Statics
 
-This includes the following topics:
+This chapter includes the following topics:
 ```{tableofcontents}
 ```

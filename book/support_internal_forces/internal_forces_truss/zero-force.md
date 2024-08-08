@@ -1,7 +1,7 @@
 ```{index} Zero-force members
 :name: zero-force_members
 ```
-# Zero-force members
+# ... with zero-force members
 
 ```{figure} ./zero-force_data/zero-force.svg
 :align: center
