@@ -49,6 +49,11 @@ parts:
         - file: support_internal_forces/cable/equilibrium
     - file: stresses_displacements/intro
       sections:
+      - file: stresses_displacements/model/intro
+        sections:
+        - file: stresses_displacements/model/stress-strain
+        - file: stresses_displacements/model/fibre_model
+        - file: stresses_displacements/model/strain_diagram
       - file: stresses_displacements/kinematic/intro
         sections:
         - file: stresses_displacements/kinematic/extension

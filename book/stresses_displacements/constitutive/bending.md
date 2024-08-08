@@ -4,4 +4,4 @@ The constitutive relation for extension is based on the force on a infinitesimal
 
 $$M = EI \kappa$$
 
-This is treated in chapter 4.1, 4.2 and 4.3.2 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
+This is treated in chapter 4.3.2 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
