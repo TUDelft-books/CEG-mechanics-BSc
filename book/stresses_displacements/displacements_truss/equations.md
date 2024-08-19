@@ -1,4 +1,4 @@
-# ... using kinematic and constitutive equations
+# ... using constitutive equation
 
 This is treated in chapter 2.6 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
