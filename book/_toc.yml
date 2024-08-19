@@ -69,6 +69,8 @@ parts:
         sections:
         - file: stresses_displacements/displacements_frame/ode
     - file: statically_inderminate/intro
+      sections:
+      - file: statically_inderminate/determinancy
     - file: buckling/intro
     - file: continuum/intro
     - file: tools/intro
