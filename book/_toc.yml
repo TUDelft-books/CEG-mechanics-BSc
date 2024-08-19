@@ -53,8 +53,11 @@ parts:
         sections:
         - file: stresses_displacements/model/stress-strain
         - file: stresses_displacements/model/fibre_model
-        - file: stresses_displacements/model/strain_diagram
         - file: stresses_displacements/model/first-moment-area
+      - file: stresses_displacements/strain_diagram/intro
+        sections:
+        - file: stresses_displacements/strain_diagram/extension
+        - file: stresses_displacements/strain_diagram/bending
       - file: stresses_displacements/kinematic/intro
         sections:
         - file: stresses_displacements/kinematic/extension
