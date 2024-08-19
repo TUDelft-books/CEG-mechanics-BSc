@@ -54,6 +54,7 @@ parts:
         - file: stresses_displacements/model/stress-strain
         - file: stresses_displacements/model/fibre_model
         - file: stresses_displacements/model/strain_diagram
+        - file: stresses_displacements/model/first-moment-area
       - file: stresses_displacements/kinematic/intro
         sections:
         - file: stresses_displacements/kinematic/extension
@@ -64,6 +65,7 @@ parts:
         - file: stresses_displacements/constitutive/bending
       - file: stresses_displacements/displacements_truss/intro
         sections:
+        - file: stresses_displacements/displacements_truss/equations
         - file: stresses_displacements/displacements_truss/ode
       - file: stresses_displacements/displacements_frame/intro
         sections:

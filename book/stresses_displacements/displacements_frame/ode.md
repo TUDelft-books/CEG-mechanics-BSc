@@ -1,4 +1,4 @@
-# ... using Euler-Bernoulli's equations
+# ... using differential equations
 
 This is treated in chapter 8.1 and 8.2 (except for example 4) of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
