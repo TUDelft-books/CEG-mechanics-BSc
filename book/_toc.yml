@@ -70,6 +70,7 @@ parts:
         sections:
         - file: stresses_displacements/displacements_truss/equations
         - file: stresses_displacements/displacements_truss/ode
+        - file: stresses_displacements/displacements_truss/williot
       - file: stresses_displacements/displacements_frame/intro
         sections:
         - file: stresses_displacements/displacements_frame/ode
