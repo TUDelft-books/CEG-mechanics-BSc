@@ -1,4 +1,4 @@
-# ... using williot
+# ... using Williot
 
 This is treated in chapter 7.2 and 7.3 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
