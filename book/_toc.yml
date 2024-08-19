@@ -54,6 +54,7 @@ parts:
         - file: stresses_displacements/model/stress-strain
         - file: stresses_displacements/model/fibre_model
         - file: stresses_displacements/model/first-moment-area
+        - file: stresses_displacements/model/small_rotations
       - file: stresses_displacements/strain_diagram/intro
         sections:
         - file: stresses_displacements/strain_diagram/extension
