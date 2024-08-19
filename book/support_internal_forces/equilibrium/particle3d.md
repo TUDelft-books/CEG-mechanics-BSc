@@ -1,4 +1,4 @@
-```{index} Equilibrium of a particle in 3D
+```{index} Equilibrium ; of a particle in 3D
 :name: equilibrium_particle_3d
 ```
 # ... of a 3D-particle

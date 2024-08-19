@@ -1,4 +1,4 @@
-```{index} Equilibrium of a body
+```{index} Equilibrium ; of a body
 :name: equilibrium_body
 ```
 # ... of a body

@@ -1,4 +1,4 @@
-```{index} Section forces truss structures
+```{index} Section forces; truss structures
 :name: bar_structures_section
 ```
 # Solve section forces truss structure

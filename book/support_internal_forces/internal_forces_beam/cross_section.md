@@ -1,4 +1,4 @@
-```{index} Section force frame using equilibrium
+```{index} Section force; frame; using equilibrium
 :name: frame_force_equilibrium
 ```
 # ... using equilibrium in a specific cross-section

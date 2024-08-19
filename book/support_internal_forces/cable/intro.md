@@ -1,4 +1,4 @@
-```{index} Section forces cable
+```{index} Section forces; cable
 :name: cable_force_sections
 ```
 ```{index} Shape cable

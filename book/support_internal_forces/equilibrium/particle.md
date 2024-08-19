@@ -1,4 +1,4 @@
-```{index} Equilibrium of a particle
+```{index} Equilibrium ; of a particle
 :name: equilibrium_particle
 ```
 # ... of a planar particle
