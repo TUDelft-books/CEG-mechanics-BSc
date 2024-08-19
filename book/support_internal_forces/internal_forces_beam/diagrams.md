@@ -1,4 +1,4 @@
-```{index} Section force; diagrams
+```{index} Section forces; diagrams
 :name: section_force_diagrams
 ```
 # Diagrams
