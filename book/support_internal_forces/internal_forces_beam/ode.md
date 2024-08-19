@@ -1,7 +1,7 @@
-```{index} Section force frame using equilibrium relations
+```{index} Section force frame using differential equations
 :name: beam_force_ode
 ```
-# ... using equilibrium relations
+# ... using differential equations
 
 This is treated in chapter 11.2 and 11.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
