@@ -3,4 +3,5 @@
 This is treated in chapter 7.2 and 7.3 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises
+- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises](https://ans.app/digital_test/assignments/1091692/results/new)
 - Exercises in chapter 7.5 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`, answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter7/): 7.1 - 7.44.
