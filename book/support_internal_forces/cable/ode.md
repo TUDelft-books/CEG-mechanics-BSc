@@ -1,3 +1,5 @@
+```{index} Cable; using differential equations
+```
 # ... using differential equations
 
 This is treated in chapter 14.1.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.

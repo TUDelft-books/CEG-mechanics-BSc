@@ -1,3 +1,5 @@
+```{index} Kinematic relations; for extension
+```
 # ... for extension
 
 The differential equation for kinematic relations for extension is based on a displaced the infinitesimal small beam:

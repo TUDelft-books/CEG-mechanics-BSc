@@ -1,3 +1,5 @@
+```{index} Differential equations for equilibrium relations; for extension
+```
 # ... for extension
 
 The differential equation for equilibrium relations for extension is based on the infinitesimal small loaded bar:

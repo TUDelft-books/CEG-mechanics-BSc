@@ -1,3 +1,5 @@
+```{index} Constitutive relations; for bending
+```
 # ... for bending
 
 The constitutive relation for extension is based on the force on a infinitesimal small part of the cross and Hooke's law, leading to:

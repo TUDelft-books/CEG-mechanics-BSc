@@ -1,3 +1,5 @@
+```{index} Displacements truss structures; using differential equations
+```
 # ... using differential equations
 
 This is treated in chapter 2.5 and 2.7 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.

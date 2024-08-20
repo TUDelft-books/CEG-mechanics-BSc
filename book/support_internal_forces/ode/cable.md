@@ -1,3 +1,5 @@
+```{index} Differential equations for equilibrium relations; for cables
+```
 # ... for cables
 
 The differential equation for equilibrium relations for cables is based on the infinitesimal small loaded cables:

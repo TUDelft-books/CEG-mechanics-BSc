@@ -1,3 +1,5 @@
+```{index} Differential equations for equilibrium relations; for bending
+```
 # ... for bending
 
 The differential equation for equilibrium relations for bending is based on the infinitesimal small loaded beam:

@@ -1,6 +1,6 @@
-```{index} stress
+```{index} Stresses
 ```
-```{index} strain
+```{index} Strains
 ```
 # Stress-strain relations
 

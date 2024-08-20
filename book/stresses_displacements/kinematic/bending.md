@@ -1,3 +1,5 @@
+```{index} Kinematic relations; for bending
+```
 # ... for bending
 
 The differential equation for kinematic relations for bending is based on a displaced the infinitesimal small beam:
