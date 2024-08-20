@@ -1,4 +1,4 @@
-```{index} Section forces; zero-force members
+```{index} Section forces in truss structures; zero-force members
 ```
 ```{index} Zero-force members
 :name: zero-force_members

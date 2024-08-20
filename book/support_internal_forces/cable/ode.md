@@ -1,4 +1,4 @@
-```{index} Cable; using differential equations
+```{index} Cables; using differential equations
 ```
 # ... using differential equations
 

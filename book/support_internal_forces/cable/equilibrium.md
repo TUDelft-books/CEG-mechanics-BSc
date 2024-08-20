@@ -1,4 +1,4 @@
-```{index} Cable; using equilibrium in a specific cross-section
+```{index} Cables; using equilibrium in a specific cross-section
 ```
 # ... using equilibrium in a specific cross-section
 

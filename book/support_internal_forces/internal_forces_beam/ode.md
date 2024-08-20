@@ -1,4 +1,4 @@
-```{index} Section forces; frame using differential equations
+```{index} Section forces in frame structures; using differential equations
 :name: beam_force_ode
 ```
 # ... using differential equations
