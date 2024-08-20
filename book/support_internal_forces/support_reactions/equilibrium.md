@@ -1,3 +1,6 @@
+```{index} Support reactions with equilibrium
+```
+
 # ... using equilibrium
 
 
