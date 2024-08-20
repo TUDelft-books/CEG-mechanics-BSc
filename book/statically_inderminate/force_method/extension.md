@@ -3,7 +3,7 @@
 
 # ... for truss structures
 
-The force method is treated in in chapter 2.2.8 - 2.2.10 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
+The general concept of the force method is covered in chapter 2.1 while the force method for truss structures is treated in in chapter 2.2.8 - 2.2.10 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
 
 ## Exercises
 - Exercises 2.31 - 2.41, in chapter 2.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
