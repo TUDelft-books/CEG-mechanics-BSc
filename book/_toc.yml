@@ -78,6 +78,9 @@ parts:
     - file: statically_inderminate/intro
       sections:
       - file: statically_inderminate/determinancy
+      - file: statically_inderminate/force_method/force_method
+        sections:
+        - file: statically_inderminate/force_method/extension
     - file: buckling/intro
     - file: continuum/intro
     - file: tools/intro
