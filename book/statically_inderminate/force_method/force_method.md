@@ -1,7 +1,7 @@
 ```{index} Force method
 ```
 
-# Force method
+# Apply force method
 
 The force method is treated in in chapter 2.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
 

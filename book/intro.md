@@ -80,41 +80,39 @@ The concept TOC below is work-in-progress
 2.	Normal- and shear stresses, and displacements
     1. Model
         1. Fibre model
-        2. Stresses
-        3. Strains
-        4. Core of a cross-section
-        5. Displacements
-        6. Rotations
-        7. Curvature
-        8. Shear distortion
-        9. Thin- and thick-walled cross-sections
+        2. Stress-strain relations
+        3. Thin- and thick-walled cross-sections
     2. Cross-sectional properties
-        1. Area
-        2. Static moment
-        3. Center of gravity
-        4. Second moment of area
-        5. 'Weerstandsmoment'
-        6. Cross moment of area
-        7. Normal force centre
-        8. Shear force centre
-    3. Constitutive relations
+        1. Static moment, centroid and normal force centre
+        2. Second moment of area and 'Weerstandsmoment'
+        3. Cross moment of area
+        4. Shear force centre
+        5. Core of a cross-section
+    3. Strain diagram
+        1. for extension
+        2. for bending
+        3. for torsion
+    4. Constitutive relations
         1. Extension
         2. Bending
-        3. Torsion
-    4. Kinematic relations
+        3. Torsion and shear
+    5. Kinematic relations
         1. Extension
         2. Bending
         3. Shear
         4. Torsion
-    5. Stresses in an extension element
-    6. Stresses in a bending element
+    6. Solve stresses in an extension element
+    7. Solve stresses in a bending element
         1. normal stresses
         3. shear stresses
-    7. Stresses in a torsional element
+    8. Solve stresses in a torsional element
         1. in circular cross-sections
         2. in thin-walled cross-sections
-    8. Displacements of a truss structure with Williot
-    9. Displacements of a bending structure
+    9. Solve displacements of truss structures
+        1. using constitutive equation
+        2. using differential equations
+        3. using Williot
+    10. Displacements of frame structure
         1. using differential equations
         2. using forget-me-nots
         3. using 'momentenvlakstelling'
