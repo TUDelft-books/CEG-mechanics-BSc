@@ -2,9 +2,17 @@
 ```
 # Static indeterminancy
 
+```{figure} ./determinancy_data/image.png
+:align: center
+:width: 300
+
+Figure 4.50 {cite:ts}`Hartsuijker2006`
+```
+
 A distinction can be made whether or not equilibrium relations are enough to solve:
 - support reactions (external static indeterminancy)
 - section forces (internal static indeterminancy)
+
 These two categories are treated together in chapter 4.5.2 and 4.5.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 For [truss structures](truss_structures), the analysis is simplified as shown in chapter 9.2.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.

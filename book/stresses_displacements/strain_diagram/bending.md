@@ -6,7 +6,7 @@
 :align: center
 :width: 300
 
-Figure 2.7a {cite:p}`Hartsuijker2007`
+Figure 2.7a {cite:ts}`Hartsuijker2007`
 ```
 
 

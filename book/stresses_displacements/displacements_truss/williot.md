@@ -2,6 +2,13 @@
 ```
 # ... using Williot
 
+```{figure} ./williot_data/image.png
+:align: center
+:width: 300
+
+Figure 7.6 {cite:ts}`Hartsuijker2007`
+```
+
 This is treated in chapter 7.2 and 7.3 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises
