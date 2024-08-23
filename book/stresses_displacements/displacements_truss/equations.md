@@ -2,6 +2,8 @@
 ```
 # ... using constitutive equation
 
+$$\Delta L = \cfrac{NL}{EA}$$
+
 This is treated in chapter 2.6 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises

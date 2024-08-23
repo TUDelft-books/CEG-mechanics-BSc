@@ -8,6 +8,13 @@
 ```
 # Static moment, centroid and normal force centre
 
+```{figure} ./first-moment-area_data/image.png
+:align: center
+:width: 300
+
+Figure 3.8 {cite:ts}`Hartsuijker2007`
+```
+
 This is treated in chapter 2.4 and 3.1 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises

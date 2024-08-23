@@ -2,6 +2,13 @@
 ```
 # ... using differential equations
 
+```{figure} ./ode_data/image.png
+:align: center
+:width: 300
+
+Figure 2.13 {cite:ts}`Hartsuijker2007`
+```
+
 This is treated in chapter 2.5 and 2.7 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises

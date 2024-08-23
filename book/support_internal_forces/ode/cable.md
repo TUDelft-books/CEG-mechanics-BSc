@@ -6,7 +6,7 @@
 :align: center
 :width: 300
 
-Infinitesimal cable element, figure 14.19 {cite:p}`Hartsuijker2006`
+Figure 14.19 {cite:ts}`Hartsuijker2006`
 ```
 
 The differential equation for equilibrium relations for cables is based on the infinitesimal small loaded cables:

@@ -7,7 +7,7 @@
 :align: center
 :width: 300
 
-(a) An isolated beam segment with uniformly distributed full load and (b) the associated parabolic bending moment diagram., figure 12.14 {cite:p}`Hartsuijker2006`
+Figure 12.14 {cite:ts}`Hartsuijker2006`
 ```
 
 This is treated in chapter 12 (except for 12.5) and 13 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.

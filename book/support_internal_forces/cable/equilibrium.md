@@ -2,6 +2,13 @@
 ```
 # ... using equilibrium in a specific cross-section
 
+```{figure} ./equilibrium_data/image.png
+:align: center
+:width: 300
+
+Figure 14.1c {cite:ts}`Hartsuijker2006`
+```
+
 This is treated in chapter 14.1.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ## Exercises

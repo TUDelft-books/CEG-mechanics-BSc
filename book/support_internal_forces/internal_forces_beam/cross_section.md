@@ -7,7 +7,7 @@
 :align: center
 :width: 300
 
-Example of free body diagram to find section forces in a specific cross-section, figure 10.2 {cite:p}`Hartsuijker2006`
+Figure 10.2 {cite:ts}`Hartsuijker2006`
 ```
 
 To find the section forces in a certain cross-section [a free-body diagram has to be drawn in which the structure is cut at the point of interest](free_body_diagram_part). Following, the forces can be solved using [the equilibrium of a body](equilibrium_body). This is treated in chapter 10.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`, of which the diagrams will be covered in [](section_force_diagrams). Typically, the sign of section forces is indicated with [deformation signs](deformation_sign)
