@@ -84,6 +84,8 @@ parts:
       - file: statically_inderminate/force_method/force_method
         sections:
         - file: statically_inderminate/force_method/extension
+        - file: statically_inderminate/force_method/bending
+        - file: statically_inderminate/force_method/moveable_nodes
     - file: buckling/intro
     - file: continuum/intro
     - file: tools/intro
