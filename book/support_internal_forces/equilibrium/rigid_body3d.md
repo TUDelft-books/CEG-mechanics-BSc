@@ -11,4 +11,4 @@ By applying equilibrium to the free-body diagram of a body  you can find unknown
 
 
 ## Exercises
-- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises on threedimensional problems](https://ans.app/digital_test/assignments/1090043/results/new).
+- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises on threedimensional problems](https://ans.app/digital_test/assignments/1102551/results/new).
