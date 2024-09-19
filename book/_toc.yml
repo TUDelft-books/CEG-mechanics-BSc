@@ -47,6 +47,9 @@ parts:
         sections:
         - file: support_internal_forces/cable/equilibrium
         - file: support_internal_forces/cable/ode
+      - file: support_internal_forces/virtual_work/intro
+        sections:
+        - file: support_internal_forces/virtual_work/mechanisms
     - file: stresses_displacements/intro
       sections:
       - file: stresses_displacements/model/intro
