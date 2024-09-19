@@ -19,12 +19,14 @@ parts:
         - file: support_internal_forces/model/hinges
         - file: support_internal_forces/model/FBD
         - file: support_internal_forces/model/structures
-      - file: support_internal_forces/transforming_forces/Resolution_of_forces
+        - file: support_internal_forces/model/mechanisms
       - file: support_internal_forces/ode/intro
         sections:
         - file: support_internal_forces/ode/extension
         - file: support_internal_forces/ode/bending
         - file: support_internal_forces/ode/cable
+      - file: support_internal_forces/virtual_work/virtual_work
+      - file: support_internal_forces/transforming_forces/Resolution_of_forces
       - file: support_internal_forces/equilibrium/intro
         sections:
         - file: support_internal_forces/equilibrium/particle
@@ -47,9 +49,7 @@ parts:
         sections:
         - file: support_internal_forces/cable/equilibrium
         - file: support_internal_forces/cable/ode
-      - file: support_internal_forces/virtual_work/intro
-        sections:
-        - file: support_internal_forces/virtual_work/mechanisms
+      - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
       sections:
       - file: stresses_displacements/model/intro

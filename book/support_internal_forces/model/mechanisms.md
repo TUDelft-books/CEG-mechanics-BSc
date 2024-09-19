@@ -1,6 +1,6 @@
-```{index} Displacement of mechanisms
+```{index} Displacement of rigid bodies in a mechanism
 ```
-# Displacement of mechanisms
+# Displacement of rigid bodies in a mechanism
 
 
 ```{figure} ./mechanisms_data/image.png

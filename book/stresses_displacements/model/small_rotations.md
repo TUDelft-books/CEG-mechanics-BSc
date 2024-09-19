@@ -1,6 +1,6 @@
 ```{index} Small rotations
 ```
-# Small rotations
+# Small rotations bar element
 
 ```{figure} ./small_rotations_data/image.png
 :align: center
