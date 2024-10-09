@@ -1,6 +1,6 @@
 ```{index} Temperature influences
 ```
-# Temperature influences
+# ... for temperature influences
 
 ```{figure} ./temp_data/image.png
 :align: center
