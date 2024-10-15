@@ -49,6 +49,7 @@ parts:
         sections:
         - file: support_internal_forces/cable/equilibrium
         - file: support_internal_forces/cable/ode
+      - file: support_internal_forces/temperature/temperature
       - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
       sections:
@@ -91,6 +92,7 @@ parts:
         - file: statically_inderminate/force_method/bending
         - file: statically_inderminate/force_method/moveable_nodes
       - file: statically_inderminate/displacement_method
+      - file: statically_inderminate/temperature
     - file: buckling/intro
     - file: continuum/intro
     - file: tools/intro
