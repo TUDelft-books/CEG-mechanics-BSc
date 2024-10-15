@@ -83,10 +83,6 @@ parts:
       - file: statically_inderminate/temperature
       - file: statically_inderminate/support_settlement
       - file: statically_inderminate/stiffness_influences
-    - file: tools/intro
-      sections:
-      - file: tools/sympy
-      - file: tools/sympy_mech
   - caption: Miscellaneous
     chapters:
     - file: bibliography
