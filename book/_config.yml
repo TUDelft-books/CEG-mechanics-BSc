@@ -26,7 +26,7 @@ sphinx:
       repository_url: "https://github.com/TeachBooks/mechanics-BSc"
       use_repository_button: true
       use_issues_button : true
-      announcement : "This version of the book (url has /2024-assignment1), only includes the chapters relevent for first assignment of 2024. For the full book, please visit the [full version](https://teachbooks.github.io/mechanics-BSc/)"
+      announcement : "This version of the book (url has /2024-assignment1), only includes the chapters relevant for first assignment of 2024. For the full book, please visit the <a href='https://teachbooks.github.io/mechanics-BSc/'>full version of the book</a>."
       launch_buttons:
         thebe: true
     html_show_copyright: false
