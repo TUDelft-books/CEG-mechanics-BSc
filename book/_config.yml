@@ -26,7 +26,6 @@ sphinx:
       repository_url: "https://github.com/TeachBooks/mechanics-BSc"
       use_repository_button: true
       use_issues_button : true
-      announcement : "This book is under construction ✍🏻; it's continuously updated from September 2024 through January 2025 📅"
       launch_buttons:
         thebe: true
     html_show_copyright: false
