@@ -20,11 +20,6 @@ parts:
         - file: support_internal_forces/model/FBD
         - file: support_internal_forces/model/structures
         - file: support_internal_forces/model/mechanisms
-      - file: support_internal_forces/ode/intro
-        sections:
-        - file: support_internal_forces/ode/extension
-        - file: support_internal_forces/ode/bending
-        - file: support_internal_forces/ode/cable
       - file: support_internal_forces/virtual_work/virtual_work
       - file: support_internal_forces/transforming_forces/Resolution_of_forces
       - file: support_internal_forces/equilibrium/intro
@@ -44,11 +39,9 @@ parts:
         sections:
         - file: support_internal_forces/internal_forces_beam/cross_section
         - file: support_internal_forces/internal_forces_beam/diagrams
-        - file: support_internal_forces/internal_forces_beam/ode
       - file: support_internal_forces/cable/intro
         sections:
         - file: support_internal_forces/cable/equilibrium
-        - file: support_internal_forces/cable/ode
       - file: support_internal_forces/temperature/temperature
       - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
@@ -58,9 +51,6 @@ parts:
         - file: stresses_displacements/model/stress-strain
         - file: stresses_displacements/model/fibre_model
         - file: stresses_displacements/model/small_rotations
-      - file: stresses_displacements/cross-sectional/intro
-        sections:
-        - file: stresses_displacements/cross-sectional/first-moment-area
       - file: stresses_displacements/strain_diagram/intro
         sections:
         - file: stresses_displacements/strain_diagram/extension
@@ -77,11 +67,9 @@ parts:
       - file: stresses_displacements/displacements_truss/intro
         sections:
         - file: stresses_displacements/displacements_truss/equations
-        - file: stresses_displacements/displacements_truss/ode
         - file: stresses_displacements/displacements_truss/williot
       - file: stresses_displacements/displacements_frame/intro
         sections:
-        - file: stresses_displacements/displacements_frame/ode
         - file: stresses_displacements/displacements_frame/forget-me-nots
     - file: statically_inderminate/intro
       sections:
@@ -95,8 +83,6 @@ parts:
       - file: statically_inderminate/temperature
       - file: statically_inderminate/support_settlement
       - file: statically_inderminate/stiffness_influences
-    - file: buckling/intro
-    - file: continuum/intro
     - file: tools/intro
       sections:
       - file: tools/sympy
