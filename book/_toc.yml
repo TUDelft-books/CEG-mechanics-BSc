@@ -94,6 +94,7 @@ parts:
       - file: statically_inderminate/displacement_method
       - file: statically_inderminate/temperature
       - file: statically_inderminate/support_settlement
+      - file: statically_inderminate/stiffness_influences
     - file: buckling/intro
     - file: continuum/intro
     - file: tools/intro
