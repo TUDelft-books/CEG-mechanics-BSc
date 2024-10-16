@@ -1,6 +1,6 @@
 # Introduction
 
-This TeachBook combines all content for mechanics in the Bachelor of Civil Engineering at Delft University of Technology. It's broken down in to modules with separate parts of theory and skills including exercises.
+This TeachBook combines all content for the first assignment of the bridging course in 2024 (url has /2024-assignment1). For the full book, please visit the [full version of the book](https://teachbooks.github.io/mechanics-BSc/).
 
 ## Linked literature and tools
 This TeachBook links heavily to relevant part of the other literature and only provides additional content when the other literature is insufficient.

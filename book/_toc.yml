@@ -5,9 +5,10 @@ parts:
   - caption: Welcome!
     chapters:
     - file: instructions
-  - caption: Subjects
+  - caption: Subjects assignment 1
     chapters:
     - file: support_internal_forces/intro
+      title: Statics relevant for assignment 1
       sections:
       - file: support_internal_forces/model/intro
         sections:
@@ -45,6 +46,7 @@ parts:
       - file: support_internal_forces/temperature/temperature
       - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
+      title: Stresses and displacements relevant for assignment 1
       sections:
       - file: stresses_displacements/model/intro
         sections:
@@ -72,6 +74,7 @@ parts:
         sections:
         - file: stresses_displacements/displacements_frame/forget-me-nots
     - file: statically_inderminate/intro
+      title: Statically indeterminate structures, all relevant for assignment 1
       sections:
       - file: statically_inderminate/determinancy
       - file: statically_inderminate/force_method/force_method
