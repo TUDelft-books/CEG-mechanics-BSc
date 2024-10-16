@@ -74,7 +74,6 @@ parts:
         sections:
         - file: stresses_displacements/displacements_frame/forget-me-nots
     - file: statically_inderminate/intro
-      title: Statically indeterminate structures, all relevant for assignment 1
       sections:
       - file: statically_inderminate/determinancy
       - file: statically_inderminate/force_method/force_method
