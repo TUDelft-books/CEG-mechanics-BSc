@@ -43,7 +43,6 @@ parts:
       - file: support_internal_forces/cable/intro
         sections:
         - file: support_internal_forces/cable/equilibrium
-      - file: support_internal_forces/temperature/temperature
       - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
       title: Stresses and displacements relevant for assignment 1
@@ -73,6 +72,7 @@ parts:
       - file: stresses_displacements/displacements_frame/intro
         sections:
         - file: stresses_displacements/displacements_frame/forget-me-nots
+      - file: stresses_displacements/temperature/temperature
     - file: statically_inderminate/intro
       sections:
       - file: statically_inderminate/determinancy
@@ -82,9 +82,9 @@ parts:
         - file: statically_inderminate/force_method/bending
         - file: statically_inderminate/force_method/moveable_nodes
       - file: statically_inderminate/displacement_method
-      - file: statically_inderminate/temperature
       - file: statically_inderminate/support_settlement
       - file: statically_inderminate/stiffness_influences
+      - file: statically_inderminate/temperature
   - caption: Miscellaneous
     chapters:
     - file: bibliography
