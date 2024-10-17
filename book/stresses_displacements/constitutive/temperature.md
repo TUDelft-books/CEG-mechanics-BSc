@@ -1,15 +1,11 @@
-```{index} Temperature
+```{index} Constitutive relation; for temperature change
 ```
-# Solve structures subjected to temperature influences
+# Temperature influences
 
 ```{figure} ./temp_data/image.png
 :align: center
 :width: 300
-
 Figure 7.3 {cite:ts}`Hartsuijker2007`
 ```
 
-This topic is treated in chapter 6.2.2 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`. Ignore part where the 'momentenvlakstelling' is mentioned.
-
-## Exercises
-Exercises 6.25 - 6.44 in chapter 6.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`. Unfortunately there are no answers available.
+This is treated in chapter 4.12 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
