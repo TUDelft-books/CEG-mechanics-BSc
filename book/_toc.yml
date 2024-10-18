@@ -8,7 +8,7 @@ parts:
   - caption: Subjects assignment 1
     chapters:
     - file: support_internal_forces/intro
-      title: Statics relevant for assignment 1
+      title: Prerequisites statics relevant for assignment 1
       sections:
       - file: support_internal_forces/model/intro
         sections:
@@ -45,7 +45,7 @@ parts:
         - file: support_internal_forces/cable/equilibrium
       - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
-      title: Stresses and displacements relevant for assignment 1
+      title: Prerequisites stresses and displacements relevant for assignment 1
       sections:
       - file: stresses_displacements/model/intro
         sections:
