@@ -8,7 +8,7 @@
 
 # Second Moment of Area
 
-```{figure} ./second-moment-area.md/image.png
+```{figure} ./second-moment-area_data/image.png
 :align: center
 :width: 300
 

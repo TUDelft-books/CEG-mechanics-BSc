@@ -60,7 +60,7 @@ parts:
       - file: stresses_displacements/cross-sectional/intro
         sections:
         - file: stresses_displacements/cross-sectional/first-moment-area
-        - file: stress_es_displacements/cross-sectional/second-moment-area
+        - file: stresses_displacements/cross-sectional/second-moment-area
       - file: stresses_displacements/strain_diagram/intro
         sections:
         - file: stresses_displacements/strain_diagram/extension
