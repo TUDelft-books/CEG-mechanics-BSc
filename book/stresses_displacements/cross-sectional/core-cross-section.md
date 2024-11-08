@@ -10,12 +10,6 @@
 Figure 9.80 {cite:ts}`Hartsuijker2007`
 ```
 
-:::{dropdown} **Definition**
-:open:
-*A centre of force within the core corresponds with a stress distribution in
-the cross-section that does not exhibit a change in sign.*
-:::
-
 ```{glossary}
 Core of cross-section
   A centre of force within the core corresponds with a stress distribution in the cross-section that does not exhibit a change in sign.
