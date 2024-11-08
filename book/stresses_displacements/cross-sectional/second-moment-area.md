@@ -9,7 +9,7 @@
 ```{index} Weerstandsmoment
 ```
 
-# Second Moment of Area and Section Modulus
+# Second moment of area and Section modulus
 
 ```{figure} ./second-moment-area_data/image.png
 :align: center
@@ -18,7 +18,7 @@
 Figure 3.30 {cite:ts}`Hartsuijker2007`
 ```
 
-## Moments of Inertia
+## Moments of inertia
 
 - $I_{yy} = \int_{A}y^{2}dA$
 - $ I_{zz} = \int_{A}z^{2}dA$
@@ -30,7 +30,7 @@ This is treated in chapter 3.2.1 - 3.2.2, 3.2.4 (example 1 - 7) and 3.4 of the b
 
 This is treated in chapter 3.3 (example 1 and 3) of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
-## Section Modulus or "Weerstandsmoment"
+## Section modulus or "Weerstandsmoment"
 
 - $W_{z;b} = \frac{I_{zz}}{e_b}$
 - $W_{z;t} = \frac{I_{zz}}{e_t}$
