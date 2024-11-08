@@ -20,20 +20,21 @@
 Figure 3.30 {cite:ts}`Hartsuijker2007`
 ```
 
-<center><b>Moments of Inertia</b></center>
+## Moments of Inertia
 
 $$I_{yy} = \int_{A}y^{2}dA$$
 $$I_{zz} = \int_{A}z^{2}dA$$
 $$I_{yz} = I_{zy} = \int_{A}yzdA$$
 
-<center><b>Polar moment of Inertia</b></center>
 
 $$I_p = \int_{A}r^{2}dA$$
 $$I_p = I_{yy} + I_{zz}$$
+## Polar moment of Inertia
 
 This is treated in chapter 3.2 - 3.4 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
-<center><b>Section Modulus or "Weerstandsmoment"</b></center>
+## Thin-walled cross-sections
+## Section Modulus or "Weerstandsmoment"
 
 $$W_{z;b} = \frac{I_{zz}}{e_b}$$
 $$W_{z;t} = \frac{I_{zz}}{e_t}$$
