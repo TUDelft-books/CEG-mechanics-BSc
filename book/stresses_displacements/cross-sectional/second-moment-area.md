@@ -38,4 +38,4 @@ This is treated in chapter 3.3 (example 1 and 3) of the book Engineering Mechani
 This is treated in chapter 4.6 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises
-Exercises 3.13-3.42 (except for 3.36b-c, 3.37b, 3.40, 3.41), in chapter 3.5 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter3/).
+Exercises 3.13-3.42 (except for 3.36b-c, 3.37b, 3.40, 3.41) in chapter 3.5 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter3/).
