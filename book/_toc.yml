@@ -73,6 +73,10 @@ parts:
         - file: stresses_displacements/constitutive/extension
         - file: stresses_displacements/constitutive/bending
         - file: stresses_displacements/constitutive/temperature
+      - file: stresses_displacements/normal_stresses/intro
+        sections:
+        - file: stresses_displacements/normal_stresses/extension
+        - file: stresses_displacements/normal_stresses/bending
       - file: stresses_displacements/displacements_truss/intro
         sections:
         - file: stresses_displacements/displacements_truss/equations
