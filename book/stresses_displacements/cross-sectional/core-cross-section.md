@@ -1,5 +1,3 @@
-```{index} Core of cross-section
-```
 ```{index} Neutral axis
 ```
 
@@ -17,6 +15,12 @@ Figure 9.80 {cite:ts}`Hartsuijker2007`
 *A centre of force within the core corresponds with a stress distribution in
 the cross-section that does not exhibit a change in sign.*
 :::
+
+```{glossary}
+Core of cross-section
+  A centre of force within the core corresponds with a stress distribution in the cross-section that does not exhibit a change in sign.
+
+```
 
 This is treated in chapter 4.9 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
