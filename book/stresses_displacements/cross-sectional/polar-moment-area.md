@@ -1,4 +1,4 @@
-```{index} Polar Moment of Inertia
+```{index} Polar moment of inertia
 ```
 
 # Polar moment of intertia

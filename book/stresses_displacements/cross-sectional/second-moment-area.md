@@ -1,10 +1,10 @@
 ```{index} Second moment area
 ```
-```{index} Moment of Inertia
+```{index} Moment of inertia
 ```
 ```{index} Steiner
 ```
-```{index} Section Modulus
+```{index} Section modulus
 ```
 ```{index} Weerstandsmoment
 ```
