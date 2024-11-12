@@ -5,7 +5,7 @@
 
 # Shear stresses
 
-```{figure} ./shear/image.png
+```{figure} ./shear_data/image.png
 :align: center
 :width: 600
 
