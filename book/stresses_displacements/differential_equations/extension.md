@@ -3,18 +3,11 @@
 
 # ... for extension
 
-<!-- ```{figure} ./normal_data/image.png
-:align: center
-:width: 300
+$$EA\frac{d^2u}{dx^2}+q_x = 0$$
 
-Figure 2.8a {cite:ts}`Hartsuijker2007`
-```
+The differential equation for extension is obtained by combining the [kinematic](../kinematic/extension.md), [constitutive](../constitutive/extension.md) and [static](../../support_internal_forces/ode/extension.md) relationships for extension.
 
-Extension gives a constant stress distribution:
-
-$$\sigma^{(N)} = \frac{N}{A}$$
-
-This is treated in chapter 2.3 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
+This is treated in chapter 2.5 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises
-Exercises 2.1-2.46, in chapter 2.9 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter2/). -->
+Exercises 2.47-2.50, in chapter 2.9 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter2/).
