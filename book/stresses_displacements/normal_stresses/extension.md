@@ -1,4 +1,4 @@
-```{index} Stresses extension
+```{index} Normal stresses extension
 ```
 # ... for extension
 
