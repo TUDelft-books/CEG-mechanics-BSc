@@ -1,6 +1,4 @@
-```{index} Normal stresses
-```
-# Normal stresses
+# Differential equations
 
 This chapter includes the following topics:
 
