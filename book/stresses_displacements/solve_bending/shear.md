@@ -36,4 +36,4 @@ $$\sigma_{xm} = \frac{s_x^a}{b^a}$$
 This is treated in chapter 5.3 and 5.4 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises
-Exercises 5.1-5.48, in chapter 5.8 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter5/).
+Exercises 5.1-5.48, 5.59-5.73, 5.75-5.80 in chapter 5.8 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter5/).
