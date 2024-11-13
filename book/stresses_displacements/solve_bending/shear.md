@@ -25,18 +25,15 @@ The shear stress is given by:
 
 $$\sigma_{mx} = \frac{s_x^a}{b^a}$$
 
-This is treated in chapter 5.1 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
+This is treated in chapter 5.1 and 5.2 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Cross-sectional shear stresses
-To define the cross-sectional shear stresses, the following definition is used:
 
-```{glossary}
-Perpendicular shear stresses
-  The shear stresses in two perpendicular planes are equal, and their directions are such that either the arrowheads or the tails are pointed to one another.
-```
+The shear stress in the cross-sectional direction is givenby:
+
 $$\sigma_{xm} = \frac{s_x^a}{b^a}$$
 
-This is treated in chapter 5.3 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
+This is treated in chapter 5.3 and 5.4 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises
 Exercises 5.1-5.48, in chapter 5.8 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter5/).
