@@ -1,6 +1,6 @@
 ```{index} Support settlement
 ```
-# Support settlement
+# Solve structures subjected to support settlement
 
 This topic is treated in chapter 6.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
 
