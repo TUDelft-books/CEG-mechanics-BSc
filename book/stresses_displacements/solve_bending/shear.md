@@ -15,7 +15,11 @@ Figure 5.13b,c,d {cite:ts}`Hartsuijker2007`
 
 The shear force per unit length in the longitudinal direction is given by:
 
-$$s_x^a = -\frac{dM_z}{dx} \frac{S_z^a}{I_{zz}} = -\frac{V_zS_z^a}{I_{zz}}$$
+$$s_x^a = -\cfrac{dM_z}{dx} \cfrac{S_z^a}{I_{zz}} = -\cfrac{V_zS_z^a}{I_{zz}}$$
+
+or alternatively:
+
+$$s_x^a =  - {V_z}\cfrac{{{N^a}\left( {{\text{due to }}M_z^*} \right)}}{{M_z^*}}$$
 
 The shear stress is given by:
 
