@@ -19,7 +19,7 @@ This book is [CC BY licensed](https://creativecommons.org/licenses/by/4.0/), mea
 
 ## How the book is made
 
-This book is created using open source tools: it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. The files are stored on a [public GitHub repository](https://github.com/TeachBooks/mechanics-BSc). The website can be viewed at [https://teachbooks.io/mechanics-BSc]. Contact the authors for additional information.
+This book is created using open source tools: it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. The files are stored on a [public GitHub repository](https://github.com/TeachBooks/mechanics-BSc). The website can be viewed at [https://teachbooks.io/mechanics-BSc](https://teachbooks.io/bridging_mechanics/). Contact the authors for additional information.
 
 (editor)=
 ## About the Editors
