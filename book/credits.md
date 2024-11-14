@@ -42,8 +42,8 @@ Next to courses on structural mechanics, Tom (co)teaches courses on optimisation
 - {fa}`envelope` tomvanw@hotmail.com
 - {fa}`phone` 015-2789739
 - {fa}`location-dot` TU Delft – Civil Engineering & Geosciences - Department 3MD – Section Applied Mechanics - Room 6.45
-- <i class="fa-brands fa-github"></i> [profile ](https://github.com/Tom-van-Woudenberg)
-- <i class="fa-brands fa-linkedin"></i> [profile](https://www.linkedin.com/in/tom-van-woudenberg/)
+- <i class="fa-brands fa-github"></i> [GitHub profile ](https://github.com/Tom-van-Woudenberg)
+- <i class="fa-brands fa-linkedin"></i> [LinkedIn profile](https://www.linkedin.com/in/tom-van-woudenberg/)
 - {fa}`building-columns` [Delft University of Technology profile](https://www.tudelft.nl/en/staff/t.r.vanwoudenberg/)
 
 ### Bart Slingerland
