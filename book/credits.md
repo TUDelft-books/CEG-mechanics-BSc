@@ -38,7 +38,7 @@ Tom graduated in 2020 at Delft University of Technology on structural optimisati
 
 Next to courses on structural mechanics, Tom (co)teaches courses on optimisation, numerical methods, data-analysis and statistics. Next to that, Tom supervises BSc- and MSc-students, partly on the research project of [Macaulay's method](https://teachbooks.io/Macaulays_method). Furthermore, Tom is actively involved in cross-faculty collaboration on [PRIMECH](https://www.tudelft.nl/teachingacademy/communities/primech), [TeachBooks](https://teachbooks.io/) and diverse digital tools for teaching like [ANS](https://ans.app/) and Git.
 
-- <i class="fa-solid fa-envelope"></i> T.R.vanWoudenberg@tudelft.nl
+- {fa}`envelope` <i class="fa-solid fa-envelope"></i> T.R.vanWoudenberg@tudelft.nl
 - <i class="fa-solid fa-envelope"></i> tomvanw@hotmail.com
 - <i class="fa-solid fa-phone"></i> 015-2789739
 - <i class="fa-solid fa-location-dot"></i> TU Delft – Civil Engineering & Geosciences - Department 3MD – Section Applied Mechanics - Room 6.45
