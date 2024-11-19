@@ -124,7 +124,7 @@ parts:
         sections:
         - file: continuum/failure/failure
     - file: buckling/intro
-    - file: tools/intro8eb4
+    - file: tools/intro
       sections:
       - file: tools/sympy
       - file: tools/sympy_mech
