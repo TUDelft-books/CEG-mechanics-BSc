@@ -106,7 +106,6 @@ parts:
       - file: statically_inderminate/support_settlement
       - file: statically_inderminate/stiffness_influences
       - file: statically_inderminate/temperature
-    - file: buckling/intro
     - file: continuum/intro
       sections:
       - file: continuum/model/intro
@@ -124,7 +123,8 @@ parts:
       - file: continuum/failure/intro
         sections:
         - file: continuum/failure/failure
-    - file: tools/intro
+    - file: buckling/intro
+    - file: tools/intro8eb4
       sections:
       - file: tools/sympy
       - file: tools/sympy_mech
