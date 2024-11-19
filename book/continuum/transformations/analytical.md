@@ -8,13 +8,14 @@
 # Analytical
 ```{figure} ./analytical_data/image.png
 :align: center
-:width: 400
+:width: 600
 
 Figure 2.2 {cite:ts}`Hartsuijker2007con`
 ```
 
 ## Transformations
 Define rotation matrix R as:
+
 $$R=\begin{bmatrix}
 \cos(\alpha) & \sin(\alpha) \\
 -\sin(\alpha) & \cos(\alpha)
@@ -31,7 +32,8 @@ $$\bar{K} = R \cdot K \cdot R^T$$
 This is treated in chapter 2.1 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`.
 
 ## Tensors
-Tensor notation for stiffness matrix $K$ in 2D is defined as follows: 
+Tensor notation for stiffness matrix $K$ in 2D is defined as follows:
+
 $$k_{ij} \quad \text{with} \quad i, j = x, y$$
 
 The principal values of a 2D stiffness matrix are defined by:

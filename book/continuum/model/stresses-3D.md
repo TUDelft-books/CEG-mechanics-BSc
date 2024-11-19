@@ -9,6 +9,7 @@
 Figure 1.2 {cite:ts}`Hartsuijker2007con`
 ```
 Stresses in 3D can be represented in matrix notation as follows:
+
 $$\sigma=
 \begin{bmatrix}
 \sigma_{xx} & \sigma_{xy} & \sigma_{xz}\\

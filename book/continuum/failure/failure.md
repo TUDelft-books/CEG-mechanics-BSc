@@ -6,7 +6,7 @@
 # Failure
 ```{figure} ./failure_data/image.png
 :align: center
-:width: 300
+:width: 400
 
 Figure 6.14b {cite:ts}`Hartsuijker2007con`
 ```
