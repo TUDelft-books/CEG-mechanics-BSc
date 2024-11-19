@@ -15,4 +15,4 @@ Mohr's circle is a graphical method for finding the principal directions and pri
 This is treated in chapter 2.4 and 2.5 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`.
 
 ## Exercises
-Problems 1-5 in chapter 3 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`. Answers are available in the lecture notes.
+Problems 1-5 in chapter 3 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`. Answers are available in chapter 3 of the lecture notes.
