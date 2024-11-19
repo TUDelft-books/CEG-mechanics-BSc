@@ -108,6 +108,22 @@ parts:
       - file: statically_inderminate/temperature
     - file: buckling/intro
     - file: continuum/intro
+      sections:
+      - file: continuum/model/intro
+        sections:
+        - file: continuum/model/stresses-3D
+        - file: continuum/model/isotropic_deviatoric
+        - file: continuum/model/strains-2D
+      - file: continuum/transformations/intro
+        sections:
+        - file: continuum/transformations/analytical
+        - file: continuum/transformations/graphical
+      - file: continuum/stress-strain/intro
+        sections:
+        - file: continuum/stress-strain/stress-strain
+      - file: continuum/failure/intro
+        sections:
+        - file: continuum/failure/failure
     - file: tools/intro
       sections:
       - file: tools/sympy

@@ -2,13 +2,14 @@
 ```
 
 # Strains in 2D
-```{figure} ./strains-3D_data/image.png
+```{figure} ./strains-2D_data/image.png
 :align: center
 :width: 400
 
 Figure 1.9 {cite:ts}`Hartsuijker2007con`
 ```
 Strains in 2D can be represented in matrix notation as follows:
+
 $$\begin{bmatrix}
 \Delta u_x \\
 \Delta u_y

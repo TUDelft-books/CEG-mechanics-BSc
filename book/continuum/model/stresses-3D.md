@@ -4,7 +4,7 @@
 # Stresses in 3D
 ```{figure} ./stresses-3D_data/image.png
 :align: center
-:width: 300
+:width: 400
 
 Figure 1.2 {cite:ts}`Hartsuijker2007con`
 ```
