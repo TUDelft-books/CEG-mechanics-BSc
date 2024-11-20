@@ -111,7 +111,6 @@ parts:
       - file: continuum/model/intro
         sections:
         - file: continuum/model/stresses-3D
-        - file: continuum/model/isotropic_deviatoric
         - file: continuum/model/strains-2D
       - file: continuum/transformations/intro
         sections:
