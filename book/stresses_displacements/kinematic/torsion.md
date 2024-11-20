@@ -9,7 +9,7 @@
 Figure 6.10 {cite:ts}`Hartsuijker2007`
 ```
 
-The kinematic relation for torsion is found: 
+The kinematic relation for torsion is defined by: 
 
 $$\chi = \frac{{{\rm{d}}\varphi_x}}{{{\rm{d}}x}}$$
 
