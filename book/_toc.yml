@@ -68,14 +68,17 @@ parts:
         sections:
         - file: stresses_displacements/strain_diagram/extension
         - file: stresses_displacements/strain_diagram/bending
+        - file: stresses_displacements/strain_diagram/torsion
       - file: stresses_displacements/kinematic/intro
         sections:
         - file: stresses_displacements/kinematic/extension
         - file: stresses_displacements/kinematic/bending
+        - file: stresses_displacements/kinematic/torsion
       - file: stresses_displacements/constitutive/intro
         sections:
         - file: stresses_displacements/constitutive/extension
         - file: stresses_displacements/constitutive/bending
+        - file: stresses_displacements/constitutive/torsion
         - file: stresses_displacements/constitutive/temperature
       - file: stresses_displacements/solve_extension/intro
         sections:
@@ -84,6 +87,10 @@ parts:
         sections:
         - file: stresses_displacements/solve_bending/normal
         - file: stresses_displacements/solve_bending/shear
+      - file: stresses_displacements/solve_torsion/intro
+        sections:
+        - file: stresses_displacements/solve_torsion/circular
+        - file: stresses_displacements/solve_torsion/thin-walled
       - file: stresses_displacements/displacements_truss/intro
         sections:
         - file: stresses_displacements/displacements_truss/equations

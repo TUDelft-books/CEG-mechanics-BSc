@@ -2,7 +2,7 @@
 ```
 # ... for torsion
 
-The constitutive relation for torsion is based on the force on a infinitesimal small part of the cross-section and Hooke's law, leading to:
+The constitutive relation for torsion is defined by:
 
 $$M_t = GI_t \chi$$
 
