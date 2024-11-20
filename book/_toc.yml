@@ -107,6 +107,18 @@ parts:
       - file: statically_inderminate/stiffness_influences
       - file: statically_inderminate/temperature
     - file: continuum/intro
+      sections:
+      - file: continuum/model/intro
+        sections:
+        - file: continuum/model/stresses-3D
+        - file: continuum/model/strains-2D
+        - file: continuum/model/tensors
+        - file: continuum/model/stress-strain
+      - file: continuum/transformations/intro
+        sections:
+        - file: continuum/transformations/analytical
+        - file: continuum/transformations/graphical
+      - file: continuum/failure/failure
     - file: buckling/intro
     - file: tools/intro
       sections:
