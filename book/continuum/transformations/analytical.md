@@ -14,20 +14,20 @@ Figure 2.2 {cite:ts}`Hartsuijker2007con`
 ```
 
 ## Transformations
-Define rotation matrix R as:
+The rotation matrix R is defined as:
 
 $$R=\begin{bmatrix}
 \cos(\alpha) & \sin(\alpha) \\
 -\sin(\alpha) & \cos(\alpha)
 \end{bmatrix}$$
 
-Rotating a vector $F$ by an angle $\alpha$ is defined in matrix notation as:
+Rotating a first-order tensor (for example force $F$) by an angle $\alpha$ is defined as:
 
-$$\bar{F} = R\cdot F$$
+$$\bar{F} = \rm{R} \cdot F $$
 
-The transformation rule for a stiffness matrix $K$ is defined in matrix notation as:
+The transformation rule for a second order tensor (for example stiffness matrix $K$) is defined in matrix notation as:
 
-$$\bar{K} = R \cdot K \cdot R^T$$
+$$\bar{K} = \rm{R} \cdot K \cdot \rm{R}^T$$
 
 This is treated in chapter 2.1 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`.
 
