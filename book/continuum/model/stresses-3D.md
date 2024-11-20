@@ -8,7 +8,7 @@
 
 Figure 1.2 {cite:ts}`Hartsuijker2007con`
 ```
-Stresses in 3D can be represented in matrix notation as follows:
+Stresses in 3D can be represented as a matrix (specifically a second-order tensor) as follows:
 
 $$\sigma=
 \begin{bmatrix}

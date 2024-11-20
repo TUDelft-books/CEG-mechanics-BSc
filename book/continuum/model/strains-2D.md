@@ -8,7 +8,7 @@
 
 Figure 1.9 {cite:ts}`Hartsuijker2007con`
 ```
-Strains in 2D can be represented in matrix notation as follows:
+Strains in 2D can be represented in a matrix (specifically a second-order tensor) as follows:
 
 $$\begin{bmatrix}
 \Delta u_x \\
