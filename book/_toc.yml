@@ -69,6 +69,7 @@ parts:
         sections:
         - file: stresses_displacements/strain_diagram/extension
         - file: stresses_displacements/strain_diagram/bending
+        - file: stresses_displacements/strain_diagram/torsion
       - file: stresses_displacements/kinematic/intro
         sections:
         - file: stresses_displacements/kinematic/extension
