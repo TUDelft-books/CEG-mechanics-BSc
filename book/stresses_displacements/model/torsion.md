@@ -1,6 +1,8 @@
-```{index} Strain diagram torsion and shear
+```{index} Shear stresses
 ```
-# ... for torsion and shear
+```{index} Shear strains
+```
+# Shear stress-strain diagram
 
 ```{figure} ./torsion_data/image.png
 :align: center
