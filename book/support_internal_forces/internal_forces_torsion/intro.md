@@ -1,4 +1,4 @@
-# Solve section forces frame structures
+# Solve section forces torsion structures
 
 This chapter includes the following topics:
 

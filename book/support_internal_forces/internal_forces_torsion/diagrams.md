@@ -1,5 +1,4 @@
-```{index} Section forces in frame structures; diagrams
-:name: section_force_diagrams
+```{index} Section forces in torsion structures; diagrams
 ```
 # Diagrams
 
@@ -7,15 +6,7 @@
 :align: center
 :width: 300
 
-Figure 12.14 {cite:ts}`Hartsuijker2006`
+Figure 6.41 {cite:ts}`Hartsuijker2007`
 ```
 
-This is treated in chapter 12 (except for 12.5) and 13 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
-
-## General exercises
-The following exercises can be made with any method of your liking:
-
-- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises](https://ans.app/digital_test/assignments/1092390/results/new) with short questions
-- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises](https://ans.app/digital_test/assignments/1092391/results/new) on drawing full diagrams
-- Exercises in chapter 12 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`, answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter12/)
-- Exercises in chapter 13 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`, answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter12/): 13.1 - 13.9, 13.13 - 13.67
+This is treated in chapter 6.4 example 2 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
