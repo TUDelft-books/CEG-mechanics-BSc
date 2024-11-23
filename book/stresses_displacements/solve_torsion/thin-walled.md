@@ -25,4 +25,5 @@ $$\tau = \frac{M_te_m}{\frac{1}{2}I_t}, \quad I_t=\sum_{i}\frac{1}{3}h_i t_i^3$$
 This is treated in chapter 6.3 and 6.4 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
 ## Exercises
-Exercises 6.14-6.26 and 6.30-6.34, in chapter 6.6 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter6/).
+- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises](https://ans.app/digital_test/assignments/1178028/results/new)
+- Exercises 6.14-6.26 and 6.30-6.34, in chapter 6.6 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter6/).
