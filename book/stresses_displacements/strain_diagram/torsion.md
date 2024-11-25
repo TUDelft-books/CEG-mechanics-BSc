@@ -44,7 +44,7 @@ The solid circular bar is treated in chapter 6.2.2 and the thick-walled circular
 
 ```{figure} ./torsion_data/image_3.png
 :align: center
-:width: 300
+:width: 200
 
 Figure 6.29 {cite:ts}`Hartsuijker2007`
 ```
