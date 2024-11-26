@@ -70,7 +70,7 @@ parts:
         - file: stresses_displacements/cross-sectional/first-moment-area
         - file: stresses_displacements/cross-sectional/second-moment-area
         - file: stresses_displacements/cross-sectional/polar-moment-area
-        - file: stresses_displacements/cross-sectional/torsion
+        - file: stresses_displacements/cross-sectional/torsional-moment-area
         - file: stresses_displacements/cross-sectional/shear-force-centre
         - file: stresses_displacements/cross-sectional/core-cross-section
       - file: stresses_displacements/strain_diagram/intro
