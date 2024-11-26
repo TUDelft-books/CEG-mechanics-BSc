@@ -13,6 +13,7 @@ Figure 6.29 {cite:ts}`Hartsuijker2007`
 $$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{\rm{d}}m} }}$$
 
 For a thin-walled strip this reduces to:
+
 $$I_t = \cfrac{1}{3}ht^3$$
 
 For thin-walled open cross-section this leads to:
