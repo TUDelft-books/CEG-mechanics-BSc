@@ -26,3 +26,6 @@ Tresca assumed failure if the shear stress exceeds a certain limit value $c$:
 - $|\sigma_3 - \sigma_1| \leq 2c$
 
 This is treated in chapter 6.3 and 6.4 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`.
+
+## Exercises
+- Additional question Problems 3 in chapter 5.3 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`. Answers are available in chapter 5 of the lecture notes.
