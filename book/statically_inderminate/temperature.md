@@ -1,4 +1,4 @@
-```{index} Temperature influences for statically indeterminate structures
+```{index} Temperature influences; for statically indeterminate structures
 ```
 # Solve structures subjected to temperature influences
 
