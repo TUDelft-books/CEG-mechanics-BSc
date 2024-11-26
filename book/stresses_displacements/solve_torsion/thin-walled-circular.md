@@ -1,4 +1,4 @@
-```{index} Shear stress torsion; Thin-walled circular cross-section
+```{index} Shear stress torsion; thin-walled circular cross-section
 ```
 
 # ... in a thin-walled circular cross-section

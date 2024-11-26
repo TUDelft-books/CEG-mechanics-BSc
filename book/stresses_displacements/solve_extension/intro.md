@@ -1,4 +1,4 @@
-```{index} Stresses, for extension
+```{index} Stresses; for extension
 ```
 
 # Solve stresses in an extension element
