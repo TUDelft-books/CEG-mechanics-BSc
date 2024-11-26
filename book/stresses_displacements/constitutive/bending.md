@@ -2,7 +2,7 @@
 ```
 # ... for bending
 
-The constitutive relation for extension is based on the force on a infinitesimal small part of the cross and Hooke's law, leading to:
+The constitutive relation for extension is based on the force on a infinitesimal small part of the cross-section and Hooke's law, leading to:
 
 $$M = EI \kappa$$
 

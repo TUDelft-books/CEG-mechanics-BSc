@@ -2,7 +2,7 @@
 ```
 ```{index} Strains
 ```
-# Stress-strain relations
+# Normal stress-strain relations
 
 ```{figure} ./stress-strain_data/image.png
 :align: center
