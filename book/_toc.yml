@@ -25,6 +25,7 @@ parts:
         - file: support_internal_forces/ode/extension
         - file: support_internal_forces/ode/bending
         - file: support_internal_forces/ode/cable
+        - file: support_internal_forces/ode/torsion
       - file: support_internal_forces/virtual_work/virtual_work
       - file: support_internal_forces/transforming_forces/Resolution_of_forces
       - file: support_internal_forces/equilibrium/intro
@@ -33,6 +34,7 @@ parts:
         - file: support_internal_forces/equilibrium/particle3d
         - file: support_internal_forces/equilibrium/rigid_body
         - file: support_internal_forces/equilibrium/rigid_body3d
+        - file: support_internal_forces/equilibrium/torsional
       - file: support_internal_forces/support_reactions/intro
         sections:
         - file: support_internal_forces/support_reactions/equilibrium
