@@ -89,3 +89,4 @@ parts:
     chapters:
     - file: bibliography
     - file: genindex
+    - file: credits
