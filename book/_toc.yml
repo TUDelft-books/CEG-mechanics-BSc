@@ -5,9 +5,10 @@ parts:
   - caption: Welcome!
     chapters:
     - file: instructions
-  - caption: Subjects
+  - caption: Subjects assignment 2
     chapters:
     - file: support_internal_forces/intro
+      title: Prerequisites statics relevant for assignment 2
       sections:
       - file: support_internal_forces/model/intro
         sections:
@@ -58,6 +59,7 @@ parts:
         - file: support_internal_forces/internal_forces_torsion/ode
       - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
+      title: Prerequisites stresses and displacements relevant for assignment 2
       sections:
       - file: stresses_displacements/model/intro
         sections:
@@ -78,11 +80,6 @@ parts:
         - file: stresses_displacements/strain_diagram/extension
         - file: stresses_displacements/strain_diagram/bending
         - file: stresses_displacements/strain_diagram/torsion
-      - file: stresses_displacements/kinematic/intro
-        sections:
-        - file: stresses_displacements/kinematic/extension
-        - file: stresses_displacements/kinematic/bending
-        - file: stresses_displacements/kinematic/torsion
       - file: stresses_displacements/constitutive/intro
         sections:
         - file: stresses_displacements/constitutive/extension
@@ -103,32 +100,6 @@ parts:
         - file: stresses_displacements/solve_torsion/thin-walled-non-circular
         - file: stresses_displacements/solve_torsion/thin-walled-cross-section
         - file: stresses_displacements/solve_torsion/mixed
-      - file: stresses_displacements/displacements_truss/intro
-        sections:
-        - file: stresses_displacements/displacements_truss/equations
-        - file: stresses_displacements/displacements_truss/ode
-        - file: stresses_displacements/displacements_truss/williot
-      - file: stresses_displacements/displacements_frame/intro
-        sections:
-        - file: stresses_displacements/displacements_frame/ode
-        - file: stresses_displacements/displacements_frame/forget-me-nots
-      - file: stresses_displacements/displacements_torsion/intro
-        sections:
-        - file: stresses_displacements/displacements_torsion/equations
-        - file: stresses_displacements/displacements_torsion/ode
-      - file: stresses_displacements/temperature/temperature
-    - file: statically_inderminate/intro
-      sections:
-      - file: statically_inderminate/determinancy
-      - file: statically_inderminate/force_method/force_method
-        sections:
-        - file: statically_inderminate/force_method/extension
-        - file: statically_inderminate/force_method/bending
-        - file: statically_inderminate/force_method/moveable_nodes
-      - file: statically_inderminate/displacement_method
-      - file: statically_inderminate/support_settlement
-      - file: statically_inderminate/stiffness_influences
-      - file: statically_inderminate/temperature
     - file: continuum/intro
       sections:
       - file: continuum/model/intro
@@ -142,11 +113,7 @@ parts:
         - file: continuum/transformations/analytical
         - file: continuum/transformations/graphical
       - file: continuum/failure/failure
-    - file: buckling/intro
-    - file: tools/intro
-      sections:
-      - file: tools/sympy
-      - file: tools/sympy_mech
+
   - caption: Miscellaneous
     chapters:
     - file: bibliography

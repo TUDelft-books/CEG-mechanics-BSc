@@ -25,10 +25,11 @@ sphinx:
     html_theme_options:
       repository_url: "https://github.com/TeachBooks/mechanics-BSc"
       path_to_docs: "book"
-      repository_branch: "main"
+      repository_branch: "2024-assignment2"
       use_repository_button: true
       use_edit_page_button: true
       use_issues_button : true
+      announcement: "This version of the book (url has /2024-assignment2), only includes the chapters relevant for second assignment of 2024. For the full book, please visit the <a href='https://teachbooks.github.io/mechanics-BSc/' style='color:white'>full version of the book</a>."
       launch_buttons:
         thebe: true
     html_show_copyright: false
