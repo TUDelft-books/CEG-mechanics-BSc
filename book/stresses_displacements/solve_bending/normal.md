@@ -1,6 +1,4 @@
-```{index} Normal stresses bending
-```
-```{index} Stress formula
+```{index} Normal stresses; for bending
 ```
 
 # Normal stresses

@@ -2,6 +2,8 @@
 ```
 ```{index} Longitudinal shear stresses
 ```
+```{index} Shear stresses; for bending
+```
 
 # Shear stresses
 
