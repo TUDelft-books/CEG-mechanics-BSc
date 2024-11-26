@@ -1,6 +1,6 @@
 ```{index} Kinematic relations; for torsion
 ```
-# ... for torsion
+# ... for torsion in circular cross-sections and thin-walled tubes
 
 ```{figure} ./torsion_data/image.png
 :align: center

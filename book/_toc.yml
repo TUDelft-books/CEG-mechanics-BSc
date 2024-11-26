@@ -70,6 +70,7 @@ parts:
         - file: stresses_displacements/cross-sectional/first-moment-area
         - file: stresses_displacements/cross-sectional/second-moment-area
         - file: stresses_displacements/cross-sectional/polar-moment-area
+        - file: stresses_displacements/cross-sectional/torsion
         - file: stresses_displacements/cross-sectional/shear-force-centre
         - file: stresses_displacements/cross-sectional/core-cross-section
       - file: stresses_displacements/strain_diagram/intro
@@ -111,6 +112,10 @@ parts:
         sections:
         - file: stresses_displacements/displacements_frame/ode
         - file: stresses_displacements/displacements_frame/forget-me-nots
+      - file: stresses_displacements/displacements_torsion/intro
+        sections:
+        - file: stresses_displacements/displacements_torsion/equations
+        - file: stresses_displacements/displacements_torsion/ode
       - file: stresses_displacements/temperature/temperature
     - file: statically_inderminate/intro
       sections:

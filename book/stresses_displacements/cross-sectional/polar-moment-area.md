@@ -1,7 +1,7 @@
 ```{index} Polar moment of inertia
 ```
 
-# Polar moment of intertia
+# Polar moment of inertia
 
 ```{figure} ./second-moment-area_data/image.png
 :align: center
