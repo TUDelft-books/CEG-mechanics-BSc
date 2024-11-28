@@ -1,4 +1,4 @@
-```{index} Virtual work
+```{index} Virtual work; solve structures
 :name: virtual_work
 ```
 # Solve structures using virtual work

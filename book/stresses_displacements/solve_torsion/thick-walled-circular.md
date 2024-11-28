@@ -1,4 +1,4 @@
-```{index} Shear stress torsion; Solid circular bars and thick-walled tubes
+```{index} Shear stress torsion; solid circular bars and thick-walled tubes
 ```
 
 # ... in solid circular bars and thick-walled circular tubes

@@ -1,4 +1,4 @@
-```{index} Constitutive relation; for temperature change
+```{index} Constitutive relations; for temperature change
 ```
 # ... for temperature influences
 

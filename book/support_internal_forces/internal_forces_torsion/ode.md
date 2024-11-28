@@ -1,4 +1,4 @@
-```{index} Section forces in torsional structure; using differential equations
+```{index} Section forces in torsion structures; using differential equations
 :name: torsion_force_ode
 ```
 # ... using differential equations
