@@ -1,6 +1,4 @@
-```{index} Von Mises
-```
-```{index} Tresca
+```{index} Failure models
 ```
 
 # Failure
@@ -11,6 +9,8 @@
 Figure 6.14b {cite:ts}`Hartsuijker2007con`
 ```
 
+```{index} Failure models; Von Mises
+```
 ## Von Mises failure model
 Von Mises assumed failure if the deviatoric stress exceeds a limit value $s_{max}$:
 
@@ -18,6 +18,8 @@ $$\frac{1}{3}\left((\sigma_1-\sigma_2)^2 + (\sigma_2-\sigma_3)^2 + (\sigma_3-\si
 
 This is treated in chapter 6.1, 6.2 and 6.4 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`.
 
+```{index} Failure models; Tresca
+```
 ## Tresca's failure model
 Tresca assumed failure if the shear stress exceeds a certain limit value $c$:
 
