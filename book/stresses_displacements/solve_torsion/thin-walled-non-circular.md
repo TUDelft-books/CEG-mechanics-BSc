@@ -1,4 +1,4 @@
-```{index} Shear stress torsion; Closed thin-walled non-circular cross-section
+```{index} Shear stress torsion; closed thin-walled non-circular cross-section
 ```
 
 # ... in a closed thin-walled non-circular cross-section

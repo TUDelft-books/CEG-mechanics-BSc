@@ -1,4 +1,4 @@
-```{index} Temperature influences for statically determinate structures
+```{index} Temperature influences; for statically determinate structures
 ```
 # Solve displacements statically determinate structures subjected to temperature influences
 

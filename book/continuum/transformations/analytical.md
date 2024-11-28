@@ -2,8 +2,6 @@
 ```
 ```{index} Tensors
 ```
-```{index} Principal
-```
 
 # Analytical
 ```{figure} ./analytical_data/image.png

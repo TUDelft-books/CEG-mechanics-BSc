@@ -1,6 +1,6 @@
-```{index} Displacements frame structures; forget-me-nots
+```{index} Displacements frame structures; using forget-me-nots
 ```
-```{index} forget-me-nots
+```{index} Forget-me-nots
 ```
 # ... using forget-me-nots
 

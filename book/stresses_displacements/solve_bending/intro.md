@@ -1,6 +1,4 @@
-```{index} Normal stresses
-```
-```{index} Shear stresses
+```{index} Stresses; for bending
 ```
 
 # Solve stresses in a bending element
