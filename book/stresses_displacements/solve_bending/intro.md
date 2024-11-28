@@ -1,8 +1,9 @@
-```{index} Constitutive relations
+```{index} Stresses; for bending
 ```
 
-# Constitutive relations
+# Solve stresses in a bending element
 
 This chapter includes the following topics:
+
 ```{tableofcontents}
 ```

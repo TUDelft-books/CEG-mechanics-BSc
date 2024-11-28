@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export core.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="3.37656in" height="3.02163in"
+		viewBox="0 0 243.112 217.557" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#a5a5a5;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {marker-end:url(#mrkr4-21);marker-start:url(#mrkr4-19);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.1219512195122}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st8 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-19" class="st5" v:arrowType="4" v:arrowSize="1" v:setback="14.96" refX="14.96" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(8.2) "/>
+		</marker>
+		<marker id="mrkr4-21" class="st5" v:arrowType="4" v:arrowSize="1" v:setback="16.4" refX="-16.4" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-8.2,-8.2) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape248-1" v:mID="248" v:groupContext="shape" transform="translate(23.0522,-42.8947)">
+			<title>Blad.248</title>
+			<path d="M0 47.48 L0 132.52 L42.52 132.52 L42.52 217.56 L85.04 217.56 L85.04 132.52 L127.56 132.52 L127.56 47.48 L0 47.48
+						 Z" class="st1"/>
+		</g>
+		<g id="shape279-3" v:mID="279" v:groupContext="shape" transform="translate(70.3908,-120.257)">
+			<title>Blad.279</title>
+			<path d="M0 188.62 L2.27 176.22 L16.44 171.26 L30.61 176.22 L32.88 188.62 L16.44 217.56 L0 188.62 Z" class="st2"/>
+		</g>
+		<g id="group282-5" transform="translate(23.0522,-0.375001)" v:mID="282" v:groupContext="group">
+			<title>Maatlijn.282</title>
+			<g id="group283-6" transform="translate(0,-9.92126)" v:mID="283" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape284-7" v:mID="284" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.284</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape285-10" v:mID="285" v:groupContext="shape" transform="translate(264.896,209.053) rotate(90)">
+					<title>Blad.285</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape286-13" v:mID="286" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.286</title>
+					<path d="M3.74 217.56 L4.1 217.56 L43.24 217.56" class="st4"/>
+				</g>
+			</g>
+			<g id="shape287-22" v:mID="287" v:groupContext="shape" transform="translate(-22.6772,5.68434E-14)">
+				<title>Blad.287</title>
+				<desc>167 mm</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.3465" cy="210.471" width="56.7" height="14.1732"/>
+				<rect x="0" y="203.384" width="56.6929" height="14.1732" class="st6"/>
+				<text x="8.51" y="214.07" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>167 mm</text>			</g>
+		</g>
+		<g id="group306-25" transform="translate(72.6585,-0.375001)" v:mID="306" v:groupContext="group">
+			<title>Maatlijn.306</title>
+			<g id="group307-26" transform="translate(0,-9.92126)" v:mID="307" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape308-27" v:mID="308" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.308</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape309-30" v:mID="309" v:groupContext="shape" transform="translate(231.731,209.053) rotate(90)">
+					<title>Blad.309</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape310-33" v:mID="310" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.310</title>
+					<path d="M3.74 217.56 L4.1 217.56 L10.07 217.56" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="group315-40" transform="translate(86.8317,-0.375001)" v:mID="315" v:groupContext="group">
+			<title>Maatlijn.315</title>
+			<g id="group316-41" transform="translate(0,-9.92126)" v:mID="316" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape317-42" v:mID="317" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.317</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape318-45" v:mID="318" v:groupContext="shape" transform="translate(231.731,209.053) rotate(90)">
+					<title>Blad.318</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape319-48" v:mID="319" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.319</title>
+					<path d="M3.74 217.56 L4.1 217.56 L10.07 217.56" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="group320-55" transform="translate(103.273,-0.375001)" v:mID="320" v:groupContext="group">
+			<title>Maatlijn.320</title>
+			<g id="group321-56" transform="translate(0,-9.92126)" v:mID="321" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape322-57" v:mID="322" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.322</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape323-60" v:mID="323" v:groupContext="shape" transform="translate(264.896,209.053) rotate(90)">
+					<title>Blad.323</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape324-63" v:mID="324" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.324</title>
+					<path d="M3.74 217.56 L4.1 217.56 L43.24 217.56" class="st4"/>
+				</g>
+			</g>
+			<g id="shape325-70" v:mID="325" v:groupContext="shape" transform="translate(13.3229,5.68434E-14)">
+				<title>Blad.325</title>
+				<desc>167 mm</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.3465" cy="210.471" width="56.7" height="14.1732"/>
+				<rect x="0" y="203.384" width="56.6929" height="14.1732" class="st6"/>
+				<text x="8.51" y="214.07" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>167 mm</text>			</g>
+		</g>
+		<g id="shape328-73" v:mID="328" v:groupContext="shape" transform="translate(70.3907,-14.5482)">
+			<title>Blad.328</title>
+			<path d="M0 217.56 L2.27 217.56" class="st3"/>
+		</g>
+		<g id="shape335-76" v:mID="335" v:groupContext="shape" transform="translate(42.8947,-14.5482)">
+			<title>Maatlijn.325</title>
+			<desc>8 mm</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="210.471" width="56.7" height="14.1732"/>
+			<rect x="0" y="203.384" width="56.6929" height="14.1732" class="st6"/>
+			<text x="14.51" y="214.07" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>8 mm</text>		</g>
+		<g id="shape336-79" v:mID="336" v:groupContext="shape" transform="translate(101.005,-14.5482)">
+			<title>Blad.336</title>
+			<path d="M0 217.56 L2.27 217.56" class="st3"/>
+		</g>
+		<g id="shape337-82" v:mID="337" v:groupContext="shape" transform="translate(74.0758,-14.5482)">
+			<title>Maatlijn.337</title>
+			<desc>8 mm</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="210.471" width="56.7" height="14.1732"/>
+			<rect x="0" y="203.384" width="56.6929" height="14.1732" class="st6"/>
+			<text x="14.51" y="214.07" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>8 mm</text>		</g>
+		<g id="shape338-85" v:mID="338" v:groupContext="shape" transform="translate(44.312,-0.375)">
+			<title>Maatlijn.338</title>
+			<desc>2 × 50 mm</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="210.471" width="85.04" height="14.1732"/>
+			<rect x="0" y="203.384" width="85.0394" height="14.1732" class="st6"/>
+			<text x="16.3" y="214.07" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>2 × 50 mm</text>		</g>
+		<g id="group339-88" transform="translate(174.706,-166.556)" v:mID="339" v:groupContext="group">
+			<title>Maatlijn verticaal.339</title>
+			<g id="group340-89" transform="translate(-209.053,217.557) rotate(-90)" v:mID="340" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape341-90" v:mID="341" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.341</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape342-93" v:mID="342" v:groupContext="shape" transform="translate(263.975,209.053) rotate(90)">
+					<title>Blad.342</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape343-96" v:mID="343" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.343</title>
+					<path d="M3.74 217.56 L4.1 217.56 L42.32 217.56" class="st4"/>
+				</g>
+			</g>
+			<g id="shape344-103" v:mID="344" v:groupContext="shape" transform="translate(4.25197,-18.5669)">
+				<title>Blad.344</title>
+				<desc>163.75 mm</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.8898" cy="212.916" width="63.78" height="9.28346"/>
+				<rect x="0" y="208.274" width="63.7795" height="9.28346" class="st6"/>
+				<text x="4.56" y="216.52" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>163.75 mm</text>			</g>
+		</g>
+		<g id="group346-106" transform="translate(174.706,-149.194)" v:mID="346" v:groupContext="group">
+			<title>Maatlijn verticaal.346</title>
+			<g id="group347-107" transform="translate(-209.053,217.557) rotate(-90)" v:mID="347" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape348-108" v:mID="348" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.348</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape349-111" v:mID="349" v:groupContext="shape" transform="translate(229.959,209.053) rotate(90)">
+					<title>Blad.349</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape350-114" v:mID="350" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.350</title>
+					<path d="M3.74 217.56 L4.1 217.56 L8.3 217.56" class="st4"/>
+				</g>
+			</g>
+			<g id="shape351-121" v:mID="351" v:groupContext="shape" transform="translate(4.25197,-4.96063)">
+				<title>Blad.351</title>
+				<desc>43.75 mm</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.8898" cy="216.317" width="63.78" height="2.48031"/>
+				<rect x="0" y="215.077" width="63.7795" height="2.48031" class="st6"/>
+				<text x="7.56" y="219.92" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>43.75 mm</text>			</g>
+		</g>
+		<g id="group352-124" transform="translate(174.706,-120.269)" v:mID="352" v:groupContext="group">
+			<title>Maatlijn verticaal.352</title>
+			<g id="group353-125" transform="translate(-209.053,217.557) rotate(-90)" v:mID="353" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape354-126" v:mID="354" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.354</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape355-129" v:mID="355" v:groupContext="shape" transform="translate(246.494,209.053) rotate(90)">
+					<title>Blad.355</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape356-132" v:mID="356" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.356</title>
+					<path d="M3.74 217.56 L4.1 217.56 L24.84 217.56" class="st4"/>
+				</g>
+			</g>
+			<g id="shape357-139" v:mID="357" v:groupContext="shape" transform="translate(4.25197,-11.5748)">
+				<title>Blad.357</title>
+				<desc>102 mm</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.8898" cy="214.664" width="63.78" height="5.78738"/>
+				<rect x="0" y="211.77" width="63.7795" height="5.78738" class="st6"/>
+				<text x="12.06" y="218.26" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>102 mm</text>			</g>
+		</g>
+		<g id="group358-142" transform="translate(174.706,-42.8947)" v:mID="358" v:groupContext="group">
+			<title>Maatlijn verticaal.358</title>
+			<g id="group359-143" transform="translate(-209.053,217.557) rotate(-90)" v:mID="359" v:groupContext="group">
+				<title>Maatlijn.31</title>
+				<g id="shape360-144" v:mID="360" v:groupContext="shape" transform="translate(217.557,209.053) rotate(90)">
+					<title>Blad.360</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape361-147" v:mID="361" v:groupContext="shape" transform="translate(294.92,209.053) rotate(90)">
+					<title>Blad.361</title>
+					<path d="M0 217.56 L8.5 217.56" class="st3"/>
+				</g>
+				<g id="shape362-150" v:mID="362" v:groupContext="shape" transform="translate(0,-4.25197)">
+					<title>Blad.362</title>
+					<path d="M3.74 217.56 L4.1 217.56 L73.26 217.56" class="st4"/>
+				</g>
+			</g>
+			<g id="shape363-157" v:mID="363" v:groupContext="shape" transform="translate(4.25197,-30.9449)">
+				<title>Blad.363</title>
+				<desc>273 mm</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.8898" cy="209.821" width="63.78" height="15.4725"/>
+				<rect x="0" y="202.085" width="63.7795" height="15.4725" class="st6"/>
+				<text x="12.06" y="213.42" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>273 mm</text>			</g>
+		</g>
+		<g id="shape364-160" v:mID="364" v:groupContext="shape" transform="translate(-38.5997,55.9619) rotate(-90)">
+			<title>Blad.364</title>
+			<path d="M0 217.56 L4.96 217.56" class="st8"/>
+		</g>
+		<g id="shape365-163" v:mID="365" v:groupContext="shape" transform="translate(178.958,-166.556)">
+			<title>Maatlijn verticaal.351</title>
+			<desc>1.75 mm</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="216.317" width="63.78" height="2.48031"/>
+			<rect x="0" y="215.077" width="63.7795" height="2.48031" class="st6"/>
+			<text x="10.56" y="219.92" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>1.75 mm</text>		</g>
+	</g>
+</svg>
