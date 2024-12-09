@@ -32,7 +32,7 @@ sphinx:
       launch_buttons:
         thebe: true
       logo:
-        text: "Assignment 2 CT1000 Structural Mechanics 2024/2025
+        text: "Assignment 2 CT1000 Structural Mechanics 2024/2025"
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
   extra_extensions:
