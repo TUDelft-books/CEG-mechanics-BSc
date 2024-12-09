@@ -2,7 +2,7 @@
 ```
 # ... using differential equations
 
-$$ -EI \cfrac{\text{d}^4w}{\text{d}x^4} = -q_z$$
+$$ -EI \cfrac{{d}^4w}{{d}x^4} = -q_z$$
 
 This is treated in chapter 8.1 and 8.2 (except for example 4) of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
