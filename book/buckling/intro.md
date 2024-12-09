@@ -1,5 +1,3 @@
 # Buckling
 
-This chapter includes the following topics:
-```{tableofcontents}
-```
+This chapter is not part of this book
