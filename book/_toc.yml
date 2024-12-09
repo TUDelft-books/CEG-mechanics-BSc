@@ -35,7 +35,6 @@ parts:
         - file: support_internal_forces/internal_forces_beam/ode
       - file: support_internal_forces/cable/intro
         sections:
-        - file: support_internal_forces/cable/equilibrium
         - file: support_internal_forces/cable/ode
     - file: stresses_displacements/intro
       title: Prerequisites stresses and displacements relevant for assignment 3
