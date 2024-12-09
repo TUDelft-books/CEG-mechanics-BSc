@@ -10,7 +10,7 @@ The differential equation for kinematic relations for bending is based on a disp
 
 leading to :
 
-$${\varphi} =  - \frac{{{\rm{d}}w}}{{{\rm{d}}x}}$$
+$${\varphi} =  - \frac{{{{d}}w}}{{{{d}}x}}$$
 
 and
 
@@ -20,6 +20,6 @@ and
 
 leading to :
 
-$${\kappa} =  \frac{{{\rm{d}}\varphi}}{{{\rm{d}}x}}$$
+$${\kappa} =  \frac{{{{d}}\varphi}}{{{{d}}x}}$$
 
 This is treated in chapter 4.3.1 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.

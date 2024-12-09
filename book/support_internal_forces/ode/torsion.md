@@ -6,6 +6,6 @@ The differential equation for equilibrium relations for bending is based on the 
 
 leading to :
 
-$${q_{t,z}} =  - \frac{{{\rm{d}}M_t}}{{{\rm{d}}x}}$$
+$${q_{t,z}} =  - \frac{{{d}M_t}}{{{d}x}}$$
 
 This is not treated in the books.
