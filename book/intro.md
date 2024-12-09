@@ -4,13 +4,13 @@ This TeachBook combines all content for mechanics in the Bachelor of Civil Engin
 
 ## Linked literature and tools
 This TeachBook links heavily to relevant part of the other literature and only provides additional content when the other literature is insufficient.
-- Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`.
+- Engineering Mechanics: Volume 1: Equilibrium, by{cite:ts}`Hartsuijker2006`.
   - eBook available for free via TU Delft at [<img height="20px" src="./images/springer-logo.svg" alt="Springer">](https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9).
   - This book is also available in Dutch (only paid version) at [<img height="12px" src="./images/logo-boom.svg" alt="Boom">](https://www.boomhogeronderwijs.nl/product/100-9055_Mechanica-Evenwicht-3e-druk).
-- Engineering Mechanics: Volume 2: Stresses, strains and displacements, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2007`.
+- Engineering Mechanics: Volume 2: Stresses, strains and displacements, by {cite:ts}`Hartsuijker2007`.
   - eBook available for free via TU Delft at [<img height="20px" src="./images/springer-logo.svg" alt="Springer">](https://link.springer.com/book/10.1007/978-1-4020-5763-2).
   - This book is also available in Dutch (only paid version) at [<img height="12px" src="./images/logo-boom.svg" alt="Boom">](https://www.boomhogeronderwijs.nl/product/100-9056_Mechanica-Spanningen-vervormingen-verplaatsingen-3e-druk).
-- Mechanica: Stabiliteit van het evenwicht, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2023`.
+- Mechanica: Stabiliteit van het evenwicht, by {cite:ts}`Hartsuijker2023`.
   - Book available at [<img height="12px" src="./images/logo-boom.svg" alt="Boom">](https://www.boom.nl/hoger-onderwijs/100-10458_Mechanica-Stabiliteit-van-het-evenwicht). This book is only available as a paid version in Dutch.
   - Summary available in Dutch [here](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/SAMENVATTING%20BOEK%20STABILITEIT.pdf)
   - Visual summary available in Dutch [here](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/SAMENVATTINGSKAART_stabiliteit.pdf).
