@@ -5,7 +5,7 @@ parts:
   - caption: Welcome!
     chapters:
     - file: instructions
-  - caption: Subjects assignment 2
+  - caption: Subjects assignment 3
     chapters:
     - file: support_internal_forces/intro
       title: Prerequisites statics relevant for assignment 3
