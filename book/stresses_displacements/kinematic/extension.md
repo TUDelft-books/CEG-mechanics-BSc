@@ -10,6 +10,6 @@ The differential equation for kinematic relations for extension is based on a di
 
 leading to :
 
-$${\epsilon} =  - \frac{{{\rm{d}}u}}{{{\rm{d}}x}}$$
+$${\epsilon} =  - \frac{{{d}u}}{{{d}x}}$$
 
 This is treated in chapter 2.2.1 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
