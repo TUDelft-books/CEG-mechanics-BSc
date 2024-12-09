@@ -4,13 +4,13 @@ This TeachBook combines all content for the first assignment of the bridging cou
 
 ## Linked literature and tools
 This TeachBook links heavily to relevant part of the other literature and only provides additional content when the other literature is insufficient.
-- Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`.
+- Engineering Mechanics: Volume 1: Equilibrium, by{cite:ts}`Hartsuijker2006`.
   - eBook available for free via TU Delft at [<img height="20px" src="./images/springer-logo.svg" alt="Springer">](https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9).
   - This book is also available in Dutch (only paid version) at [<img height="12px" src="./images/logo-boom.svg" alt="Boom">](https://www.boomhogeronderwijs.nl/product/100-9055_Mechanica-Evenwicht-3e-druk).
-- Engineering Mechanics: Volume 2: Stresses, strains and displacements, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2007`.
+- Engineering Mechanics: Volume 2: Stresses, strains and displacements, by {cite:ts}`Hartsuijker2007`.
   - eBook available for free via TU Delft at [<img height="20px" src="./images/springer-logo.svg" alt="Springer">](https://link.springer.com/book/10.1007/978-1-4020-5763-2).
   - This book is also available in Dutch (only paid version) at [<img height="12px" src="./images/logo-boom.svg" alt="Boom">](https://www.boomhogeronderwijs.nl/product/100-9056_Mechanica-Spanningen-vervormingen-verplaatsingen-3e-druk).
-- Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2016`. 
+- Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, by {cite:ts}`Hartsuijker2016`. 
   - Book available at [<img height="12px" src="./images/logo-boom.svg" alt="Boom">](https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk). This book is only available as a paid version in Dutch
 - Additional exercises in [<img height="12px" src="./images/ANS.svg" alt="ANS">](https://ans.app/routing/courses/436978) (for TU Delft students only). You can login into this platform by [logging in into ANS - clicking  <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#5f6368"><path d="M80-120v-720h400v160h400v560H80Zm80-80h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm160 480h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm160 480h320v-400H480v80h80v80h-80v80h80v80h-80v80Zm160-240v-80h80v80h-80Zm0 160v-80h80v80h-80Z"/></svg> `TU Delft` - clicking `Join Course`  - clicking `Join` for `Constructiemechanica BSc Civiele Techniek`](https://ans.app/universities/1/courses/join_courses). Afterwards, you can directly go to the course by going to [your ANS overview](https://ans.app/routing/courses/436978) or by clicking the provided links in the book.
 
