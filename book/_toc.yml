@@ -5,9 +5,10 @@ parts:
   - caption: Welcome!
     chapters:
     - file: instructions
-  - caption: Subjects
+  - caption: Subjects assignment 2
     chapters:
     - file: support_internal_forces/intro
+      title: Prerequisites statics relevant for assignment 3
       sections:
       - file: support_internal_forces/model/intro
         sections:
@@ -24,40 +25,20 @@ parts:
         sections:
         - file: support_internal_forces/ode/extension
         - file: support_internal_forces/ode/bending
-        - file: support_internal_forces/ode/cable
-        - file: support_internal_forces/ode/torsion
-      - file: support_internal_forces/virtual_work/virtual_work
       - file: support_internal_forces/transforming_forces/Resolution_of_forces
       - file: support_internal_forces/equilibrium/intro
         sections:
         - file: support_internal_forces/equilibrium/particle
-        - file: support_internal_forces/equilibrium/particle3d
         - file: support_internal_forces/equilibrium/rigid_body
-        - file: support_internal_forces/equilibrium/rigid_body3d
-        - file: support_internal_forces/equilibrium/torsional
-      - file: support_internal_forces/support_reactions/intro
-        sections:
-        - file: support_internal_forces/support_reactions/equilibrium
-      - file: support_internal_forces/internal_forces_truss/intro
-        sections:
-        - file: support_internal_forces/internal_forces_truss/zero-force
-        - file: support_internal_forces/internal_forces_truss/cross_section
       - file: support_internal_forces/internal_forces_beam/intro
         sections:
-        - file: support_internal_forces/internal_forces_beam/cross_section
-        - file: support_internal_forces/internal_forces_beam/diagrams
         - file: support_internal_forces/internal_forces_beam/ode
       - file: support_internal_forces/cable/intro
         sections:
         - file: support_internal_forces/cable/equilibrium
         - file: support_internal_forces/cable/ode
-      - file: support_internal_forces/internal_forces_torsion/intro
-        sections:
-        - file: support_internal_forces/internal_forces_torsion/cross_section
-        - file: support_internal_forces/internal_forces_torsion/diagrams
-        - file: support_internal_forces/internal_forces_torsion/ode
-      - file: support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: stresses_displacements/intro
+      title: Prerequisites stresses and displacements relevant for assignment 3
       sections:
       - file: stresses_displacements/model/intro
         sections:
@@ -65,88 +46,27 @@ parts:
         - file: stresses_displacements/model/torsion
         - file: stresses_displacements/model/fibre_model
         - file: stresses_displacements/model/small_rotations
-      - file: stresses_displacements/cross-sectional/intro
-        sections:
-        - file: stresses_displacements/cross-sectional/first-moment-area
-        - file: stresses_displacements/cross-sectional/second-moment-area
-        - file: stresses_displacements/cross-sectional/polar-moment-area
-        - file: stresses_displacements/cross-sectional/torsional-moment-area
-        - file: stresses_displacements/cross-sectional/shear-force-centre
-        - file: stresses_displacements/cross-sectional/core-cross-section
       - file: stresses_displacements/strain_diagram/intro
         sections:
         - file: stresses_displacements/strain_diagram/extension
         - file: stresses_displacements/strain_diagram/bending
-        - file: stresses_displacements/strain_diagram/torsion
       - file: stresses_displacements/kinematic/intro
         sections:
         - file: stresses_displacements/kinematic/extension
         - file: stresses_displacements/kinematic/bending
-        - file: stresses_displacements/kinematic/torsion
       - file: stresses_displacements/constitutive/intro
         sections:
         - file: stresses_displacements/constitutive/extension
         - file: stresses_displacements/constitutive/bending
-        - file: stresses_displacements/constitutive/torsion
-        - file: stresses_displacements/constitutive/temperature
-      - file: stresses_displacements/solve_extension/intro
-        sections:
-        - file: stresses_displacements/solve_extension/normal
-      - file: stresses_displacements/solve_bending/intro
-        sections:
-        - file: stresses_displacements/solve_bending/normal
-        - file: stresses_displacements/solve_bending/shear
-      - file: stresses_displacements/solve_torsion/intro
-        sections:
-        - file: stresses_displacements/solve_torsion/thin-walled-circular
-        - file: stresses_displacements/solve_torsion/thick-walled-circular
-        - file: stresses_displacements/solve_torsion/thin-walled-non-circular
-        - file: stresses_displacements/solve_torsion/thin-walled-cross-section
-        - file: stresses_displacements/solve_torsion/mixed
       - file: stresses_displacements/displacements_truss/intro
         sections:
         - file: stresses_displacements/displacements_truss/equations
         - file: stresses_displacements/displacements_truss/ode
-        - file: stresses_displacements/displacements_truss/williot
       - file: stresses_displacements/displacements_frame/intro
         sections:
         - file: stresses_displacements/displacements_frame/ode
         - file: stresses_displacements/displacements_frame/forget-me-nots
-      - file: stresses_displacements/displacements_torsion/intro
-        sections:
-        - file: stresses_displacements/displacements_torsion/equations
-        - file: stresses_displacements/displacements_torsion/ode
-      - file: stresses_displacements/temperature/temperature
-    - file: statically_inderminate/intro
-      sections:
-      - file: statically_inderminate/determinancy
-      - file: statically_inderminate/force_method/force_method
-        sections:
-        - file: statically_inderminate/force_method/extension
-        - file: statically_inderminate/force_method/bending
-        - file: statically_inderminate/force_method/moveable_nodes
-      - file: statically_inderminate/displacement_method
-      - file: statically_inderminate/support_settlement
-      - file: statically_inderminate/stiffness_influences
-      - file: statically_inderminate/temperature
-    - file: continuum/intro
-      sections:
-      - file: continuum/model/intro
-        sections:
-        - file: continuum/model/stresses-3D
-        - file: continuum/model/strains-2D
-        - file: continuum/model/tensors
-        - file: continuum/model/stress-strain
-      - file: continuum/transformations/intro
-        sections:
-        - file: continuum/transformations/analytical
-        - file: continuum/transformations/graphical
-      - file: continuum/failure/failure
     - file: buckling/intro
-    - file: tools/intro
-      sections:
-      - file: tools/sympy
-      - file: tools/sympy_mech
   - caption: Miscellaneous
     chapters:
     - file: bibliography
