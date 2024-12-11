@@ -46,7 +46,8 @@ def check_answer(variable_name, expected, comparison = operator.eq):
 SymPy is a Python library for symbolic mathematics. You can use it as a tool to evaluate basic and complicated math operations, whenever they become tedious or error prone.
 
 ```{custom_download_link} ./sympy_stripped.ipynb
-:replace_default: "True"
+:text: "Downloadable .ipynb"
+:replace_default: "False"
 ```
 
 +++
