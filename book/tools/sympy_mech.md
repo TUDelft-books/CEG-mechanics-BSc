@@ -14,8 +14,7 @@ kernelspec:
 # SymPy for solving Euler-Bernoulli
 
 ```{custom_download_link} ./sympy_mech_stripped.ipynb
-:text: "Downloadable .ipynb"
-:replace_default: "False"
+:replace_default: "True"
 ```
 
 +++
