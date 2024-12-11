@@ -145,8 +145,8 @@ parts:
     - file: buckling/intro
     - file: tools/intro
       sections:
-      - file: tools/sympy
-      - file: tools/sympy_mech
+      - file: tools/sympy.ipynb
+      - file: tools/sympy_mech.ipynb
   - caption: Miscellaneous
     chapters:
     - file: bibliography
