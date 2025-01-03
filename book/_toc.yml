@@ -46,6 +46,8 @@ parts:
         sections:
         - file: support_internal_forces/internal_forces_beam/cross_section
         - file: support_internal_forces/internal_forces_beam/diagrams
+          sections:
+          - file: support_internal_forces/internal_forces_beam/diagrams/diagrams_exercise.ipynb
         - file: support_internal_forces/internal_forces_beam/ode
       - file: support_internal_forces/cable/intro
         sections:
