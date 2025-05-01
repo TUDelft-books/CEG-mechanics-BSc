@@ -10,7 +10,7 @@ only_build_toc_files: true
 
 html:
   favicon : "images/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/mechanics-BSc/"
+  baseurl :  "https://oit.tudelft.nl/CEG-mechanics-BSc/"
   home_page_in_navbar       : true
 
 sphinx:
@@ -21,7 +21,7 @@ sphinx:
       use_thebe_lite: true
       exclude_patterns: ["**/**"]
     html_theme_options:
-      repository_url: "https://github.com/TeachBooks/mechanics-BSc"
+      repository_url: "https://github.com/TUDelft-books/CEG-mechanics-BSc/"
       path_to_docs: "book"
       repository_branch: "2024-assignment3"
       use_repository_button: true
@@ -48,8 +48,9 @@ sphinx:
     - jupyterbook_patches
     - download_link_replacer
     - sphinx.ext.extlinks
-    - sphinx_tudelft_theme
     - sphinx_image_inverter
+    - sphinx_exercise
+    - sphinx_tudelft_theme
 
 bibtex_bibfiles: 
   - references.bib
