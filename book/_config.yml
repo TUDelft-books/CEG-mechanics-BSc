@@ -23,15 +23,15 @@ sphinx:
     html_theme_options:
       repository_url: "https://github.com/TUDelft-books/CEG-mechanics-BSc/"
       path_to_docs: "book"
-      repository_branch: "2024-assignment3"
+      repository_branch: "main"
       use_repository_button: true
       use_edit_page_button: true
       use_issues_button : true
-      announcement: "This version of the book (url has /2024-assignment3), only includes the chapters relevant for third assignment of 2024. For the full book, please visit the <a href='https://teachbooks.github.io/mechanics-BSc/' style='color:white'>full version of the book</a>."
+      announcement : "This version of the book (url has /2025-assignment3), only includes the chapters relevant for the third assignment of 2025. It will be deleted in May 2026. For the full book, please visit the <a href='http://oit.tudelft.nl/CEG-mechanics-BSc/' style='color:white'>full version of the book</a>."
       launch_buttons:
         thebe: true
       logo:
-        text: "Assignment 3 CT1000 Structural Mechanics 2024/2025"
+        text: "Assignment 3 CT1000 Structural Mechanics 2025/2026"
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
     bibtex_default_style: myapastyle
