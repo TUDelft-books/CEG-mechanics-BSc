@@ -6,7 +6,7 @@
 :align: center
 :width: 300
 
-Figure 4.50 {cite:ts}`Hartsuijker2006`
+Figure 4.50 {cite:ts}`Hartsuijker1999`
 ```
 
 Een constructie is statisch onbepaald wanneer deze niet meer enkel met evenwichtsvergelijkingen kan worden opgelost. Er kan hierbij onderscheid worden gemaakt tussen:
