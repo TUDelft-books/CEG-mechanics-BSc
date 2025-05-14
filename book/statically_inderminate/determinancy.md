@@ -17,6 +17,7 @@ Het is nodig de graad van statisch onbepaaldheid te bepalen om deze constructies
 
 Deze twee categorieën worden samen behandeld in hoofdstuk 4.5.2 en 4.5.3 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Voor [vakwerken](truss_structures) is de analyse versimpeld zoals beschreven in hoofdstuk 9.2.2 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Alhoewel de getoonde vergelijkingen met $r$, $v$ en $e$ effectief kunnen zijn bij simpele constucties, leiden deze in het algemeen tot verkeerde resultaten. De aanpak zoals beschreven in hoofdstuk 4.5.4 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999` is effectief voor alle constructies:
 
+## Bepalen graad van uitwendig statisch onbepaaldheid
 Voor de berekening van uitwendig statisch onbepaaldheid:
 
 ::::::{prf:example}
@@ -82,6 +83,7 @@ De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $
 
 ::::::
 
+## Bepalen graad van inwendig statisch onbepaaldheid
 Voor de berekening van inwendig statisch onbepaaldheid:
 1. Splits constructie in alle losse knopen en en elementen en teken het vrijlichaamsschema voor elementen
    - Op een algemene staaf werken op de uiteindes een normaalkracht, dwarskracht en moment
