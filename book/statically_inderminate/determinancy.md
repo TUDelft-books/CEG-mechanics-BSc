@@ -43,6 +43,8 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 ::::::{prf:example}
 
 ```{figure} ./determinancy_data/Example_1.svg
+:align: right
+
 ---
 name: example_sd_1
 align: center
@@ -52,7 +54,7 @@ De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden de
 
 ::::::
 
-2. Tel het aantal onbekende krachten: de oplegreacties en verbindingskrachten in de scharnieren (de reactiekrachten tellen niet apart)
+2. Tel het aantal onbekende krachten: de oplegreacties en verbindingskrachten in de scharnieren (de reactiekrachten tellen niet apart mee)
 
 ::::::{prf:example}
 
@@ -93,13 +95,13 @@ De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $
 ```
 ## Bepalen graad van inwendig statisch onbepaaldheid
 Voor de berekening van inwendig statisch onbepaaldheid:
-1. Splits constructie in alle losse knopen en en elementen en teken het vrijlichaamsschema voor elementen
-   - Op een algemene staaf werken op de uiteindes een normaalkracht, dwarskracht en moment
-   - Op een pendelstaaf werken op de uiteindes enkel een normaalkracht
-1. Teken het vrijlichaamsschema voor de knopen: teken de reactiekrachten op de knopen ten gevolge van de krachten op de uiteindes van de staven en de oplegreacties
-1. Tel het aantal onbekende krachten $r$ + $v$: oplegreacties en staafkrachten (de reactiekrachten tellen niet apart)
-1. Tel het evenwichtsvergelijkingen $e$: 3 evenwichtsvergelijkingen per vormvaste deel van de constructie, 2 evenwichtsvergelijkingen per knoop waar geen buigende momenten op werken en 3 evenwichtsvergelijkingen per knoop waar wel buigende momenten op werken.
-1. De graad van statisch onbepaaldheid is $r$ + $v$ - $e$.
+1. Splits constructie in alle losse knopen en staven, en teken het vrijlichaamsschema voor alle knopen, rekening houdend met wat voor staven en opleggingen er aan de knopen verbonden zijn:
+   - Op een scharnierende verbinding en vrij uiteinde werken geen buigende momenten
+   - Vanuit een pendelstaaf werkt alleen een normaalkracht
+2. Teken het vrijlichaamsschema voor de staven: teken de reactiekrachten op de staven ten gevolge van de krachten op de knopen.
+3. Tel het aantal onbekende krachten: oplegreacties en staafkrachten (de reactiekrachten tellen niet apart mee)
+4. Tel het evenwichtsvergelijkingen: 3 evenwichtsvergelijkingen per , 2 evenwichtsvergelijkingen per knoop waar geen buigende momenten op werken en 3 evenwichtsvergelijkingen per knoop waar wel buigende momenten op werken.
+5. De graad van statisch onbepaaldheid is het aantal oplegreacties + staafkrachten - aantal evenwichtsvergelijkingen
 
 ## Opgaves
 - Opgaves 4.11 - 4.22, van hoofdstuk 4 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Negeer de vragen over kinematisch bepaaldheid. Antwoorden zijn beschikbaar op [deze website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter4/).
