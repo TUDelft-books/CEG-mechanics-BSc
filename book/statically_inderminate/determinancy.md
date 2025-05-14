@@ -17,7 +17,7 @@ Als evenwichtsvergelijkingen niet genoeg zijn is een constructie statisch onbepa
 
 Het is nodig de graad van statisch onbepaaldheid te bepalen om deze constructies met behulp van de krachtenmethode op te kunnen lossen.
 
-Deze twee categorieën worden samen behandeld in hoofdstuk 4.5.2 en 4.5.3 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Voor [vakwerken](truss_structures) is de analyse versimpeld zoals beschreven in hoofdstuk 9.2.2 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Alhoewel de getoonde vergelijkingen met $r$, $v$ en $e$ effectief kunnen zijn bij simpele constucties, leiden deze in het algemeen tot verkeerde resultaten. Een aanpak die altijd werkt is hieronder getoond voor afzonderlijk uitwendig en inwendig statisch onbepaaldheid.
+Deze twee categorieën worden samen behandeld in hoofdstuk 4.5.2 en 4.5.3 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Voor vakwerken is de analyse versimpeld zoals beschreven in hoofdstuk 9.2.2 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Alhoewel de getoonde vergelijkingen met $r$, $v$ en $e$ effectief kunnen zijn bij simpele constructies, leiden deze in het algemeen tot verkeerde resultaten. Een aanpak die altijd werkt is hieronder getoond voor afzonderlijk uitwendig en inwendig statisch onbepaaldheid.
 
 ```{index} Graag van uitwendig statisch onbepaaldheid
 ```
@@ -25,6 +25,7 @@ Deze twee categorieën worden samen behandeld in hoofdstuk 4.5.2 en 4.5.3 van he
 Voor de berekening van uitwendig statisch onbepaaldheid gelden de volgende stappen:
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example.svg
 ---
@@ -41,6 +42,7 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 1. Splits de constructie in zo groot mogelijke, vormvaste, scharnierend verbonden delen en teken het vrijlichaamsschema van de scharnierende delen. Naast de oplegreacties werken in de scharnierende verbinding werken twee onbekende krachten: horizontaal en verticaal. Deze krachten in de verbinding hebben een even grote tegengestelde reactiekracht op het aansluitende deel.
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_1.svg
 ---
@@ -57,6 +59,7 @@ De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden de
 2. Tel het aantal onbekende krachten: de oplegreacties en verbindingskrachten in de scharnieren (de reactiekrachten tellen niet apart mee)
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_2.svg
 ---
@@ -74,6 +77,7 @@ Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten
 3. Tel het evenwichtsvergelijkingen: 3 evenwichtsvergelijkingen per vormvaste deel van de constructie
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_3.svg
 ---
@@ -90,6 +94,7 @@ Er zijn twee vormvaste delen, dus 6 evenwichtsvergelijkingen
 4. De graad van statisch onbepaaldheid is het aantal oplegreacties + verbindingskrachten - aantal evenwichtsvergelijkingen
 
 ::::::{prf:example}
+:nonumber: true
 
 De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $.
 
@@ -101,6 +106,7 @@ De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $
 Voor de berekening van inwendig statisch onbepaaldheid gelden de volgende stappen:
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_abc.svg
 ---
@@ -119,6 +125,7 @@ Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructi
    - Vanuit een pendelstaaf werkt alleen een normaalkracht
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_4.svg
 ---
@@ -135,6 +142,7 @@ De consturctie bestaat uit 6 knopen. Op knoop A, B and C werken onbekende oplegr
 2. Teken het vrijlichaamsschema voor de staven: teken de reactiekrachten op de staven ten gevolge van de krachten op de knopen.
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_5.svg
 ---
@@ -151,6 +159,7 @@ Vanuit {numref}`example_sd_4` kunnen de reactiekrachten op de staven getekend wo
 3. Tel het aantal onbekende krachten: oplegreacties en staafkrachten (de reactiekrachten tellen niet apart mee)
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_6.svg
 ---
@@ -177,6 +186,7 @@ Aantal onbekende staafkrachten
 4. Tel het evenwichtsvergelijkingen: 1 evenwichtsvergelijking per pendelstaaf, 3 evenwichtsvergelijkingen per algemene staaf, 2 evenwichtsvergelijkingen per scharnierende knoop en 3 evenwichtsvergelijkingen per algemene knoop.
 
 ::::::{prf:example}
+:nonumber: true
 
 ```{figure} ./determinancy_data/Example_9.svg
 ---
@@ -205,6 +215,7 @@ In totaal zijn er dus 35 evenwichtsvergelijkingen
 5. De graad van statisch onbepaaldheid is het aantal oplegreacties + staafkrachten - aantal evenwichtsvergelijkingen
 
 ::::::{prf:example}
+:nonumber: true
 
 De graad van inwendig statisch onbepaalheid voor dit voorbeeld $ 6 + 32 - 35 = 3 $.
 
