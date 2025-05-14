@@ -50,6 +50,7 @@ sphinx:
     - sphinx_image_inverter
     - sphinx_exercise
     - sphinx_tudelft_theme
+    - sphinx_proof
 
 bibtex_bibfiles: 
   - references.bib
