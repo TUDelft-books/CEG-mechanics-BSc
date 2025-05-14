@@ -4,11 +4,9 @@
 ```
 # Statisch onbepaaldheid
 
-```{figure} ./determinancy_data/image.png
+```{figure} ./determinancy_data/Example_1.svg
 :align: center
 :width: 300
-
-Figure 4.50 {cite:ts}`Hartsuijker1999`
 ```
 
 Een constructie is statisch onbepaald wanneer deze niet meer enkel met evenwichtsvergelijkingen kan worden opgelost. Er kan hierbij onderscheid worden gemaakt tussen:
