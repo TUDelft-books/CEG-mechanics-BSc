@@ -31,6 +31,7 @@ Voor de berekening van uitwendig statisch onbepaaldheid gelden de volgende stapp
 name: example_sd
 align: center
 ---
+Voorbeeldconstructie
 ```
 
 Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze constructie.
@@ -46,6 +47,7 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 name: example_sd_1
 align: center
 ---
+Gesplitste constructie
 ```
 
 De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden delen. De opleggingen zijn vervangen door oplegreacties en de scharnierende verbinding door een horizontale en verticale kracht (en reactiekrachten)
@@ -61,6 +63,7 @@ De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden de
 name: example_sd_2
 align: center
 ---
+Aantal onbekende krachten
 ```
 
 Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten
@@ -77,6 +80,7 @@ Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten
 name: example_sd_3
 align: center
 ---
+Aantal onbekende evenwichtsvergelijkingen
 ```
 
 Er zijn twee vormvaste delen, dus 6 evenwichtsvergelijkingen
@@ -103,6 +107,7 @@ Voor de berekening van inwendig statisch onbepaaldheid gelden de volgende stappe
 name: example_sd_abc
 align: center
 ---
+Voorbeeldconstructie
 ```
 
 Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructie.
@@ -120,6 +125,7 @@ Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructi
 name: example_sd_4
 align: center
 ---
+Vrijlichaamsschema's knopen
 ```
 
 De consturctie bestaat uit 6 knopen. Op knoop A, B and C werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. Op knoop D werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop E is scharnierend, dus hier werken geen buigende momenten op. Daarnaast is staaf EG een pendelstaaf dus werkt er vanuit die staaf alleen een normaalkracht op de knoop. Datzelfde geldt voor knoop G.
@@ -135,6 +141,7 @@ De consturctie bestaat uit 6 knopen. Op knoop A, B and C werken onbekende oplegr
 name: example_sd_5
 align: center
 ---
+Vrijlichaamsschema's staven
 ```
 
 Vanuit {numref}`example_sd_4` kunnen de reactiekrachten op de staven getekend worden.
@@ -150,6 +157,7 @@ Vanuit {numref}`example_sd_4` kunnen de reactiekrachten op de staven getekend wo
 name: example_sd_6
 align: center
 ---
+Aantal onbekende krachten
 ```
 
 Vanuit {numref}`example_sd_4` kunnen het aantal onbekende krachten geteld worden. Er zijn 6 oplegreacties en 32 staafkrachten.
@@ -161,6 +169,7 @@ Deze straafkrachten kunnen ook geteld worden in de vrijlichaamsschema's van de s
 name: example_sd_7
 align: center
 ---
+Aantal onbekende staafkrachten
 ```
 
 ::::::
@@ -174,6 +183,7 @@ align: center
 name: example_sd_9
 align: center
 ---
+Aantal evenwichtsvergelijkingen per staaf
 ```
 
 Er is een pendelstaaf, de rest zijn algemene staven. Dat geeft 19 evenwichtsvergelijkingen voor de staven.
@@ -183,6 +193,7 @@ Er is een pendelstaaf, de rest zijn algemene staven. Dat geeft 19 evenwichtsverg
 name: example_sd_8
 align: center
 ---
+Aantal evenwichtsvergelijkingen per knoop
 ```
 
 Van de knopen zijn er twee volledig scharnierend, bij de rest is ook de momentensom van belang. Dat geeft 16 evenwichtsvergelijkingen.
