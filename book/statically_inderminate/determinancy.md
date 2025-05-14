@@ -38,14 +38,47 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 name: example_sd_1
 align: center
 ---
-De consturctie is onder te verdelen in twee vormvaste, scharnierend verbonden delen. De opleggingen zijn vervangen door oplegreacties en de scharnierende verbinding door een horizontale en verticale kracht (en reactiekrachten)
+De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden delen. De opleggingen zijn vervangen door oplegreacties en de scharnierende verbinding door een horizontale en verticale kracht (en reactiekrachten)
 ```
 
 ::::::
 
-1. Tel het aantal onbekende krachten $r$ + $v$: de oplegreacties en verbindingskrachten in de scharnieren (de reactiekrachten tellen niet apart)
-1. Tel het evenwichtsvergelijkingen $e$: 3 evenwichtsvergelijkingen per vormvaste deel van de constructie
-1. De graad van statisch onbepaaldheid is $r$ + $v$ - $e$.
+2. Tel het aantal onbekende krachten: de oplegreacties en verbindingskrachten in de scharnieren (de reactiekrachten tellen niet apart)
+
+::::::{prf:example}
+
+```{figure} ./determinancy_data/Example_2.svg
+---
+name: example_sd_2
+align: center
+---
+Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten
+```
+
+::::::
+
+
+3. Tel het evenwichtsvergelijkingen: 3 evenwichtsvergelijkingen per vormvaste deel van de constructie
+
+::::::{prf:example}
+
+```{figure} ./determinancy_data/Example_3.svg
+---
+name: example_sd_3
+align: center
+---
+Er zijn twee vormvaste delen, dus 6 evenwichtsvergelijkingen
+```
+
+::::::
+
+4. De graad van statisch onbepaaldheid is het aantal oplegreacties + verbindingskrachten - aantal evenwichtsvergelijkingen
+
+::::::{prf:example}
+
+De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $.
+
+::::::
 
 Voor de berekening van inwendig statisch onbepaaldheid:
 1. Splits constructie in alle losse knopen en en elementen en teken het vrijlichaamsschema voor elementen
