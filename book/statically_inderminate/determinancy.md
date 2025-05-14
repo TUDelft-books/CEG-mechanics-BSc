@@ -135,7 +135,7 @@ align: center
 Vrijlichaamsschema's knopen
 ```
 
-De consturctie bestaat uit 6 knopen. Op knoop A, B and C werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. Op knoop D werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop E is scharnierend, dus hier werken geen buigende momenten op. Daarnaast is staaf EG een pendelstaaf dus werkt er vanuit die staaf alleen een normaalkracht op de knoop. Datzelfde geldt voor knoop G.
+De consturctie bestaat uit 6 knopen. Op knoop A en B werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. Op knoop C werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop D is scharnierend, dus hier werken geen buigende momenten op.
 
 ::::::
 
@@ -169,7 +169,7 @@ align: center
 Aantal onbekende krachten
 ```
 
-Vanuit {numref}`example_sd_4` kunnen het aantal onbekende krachten geteld worden. Er zijn 6 oplegreacties en 32 staafkrachten.
+Vanuit {numref}`example_sd_4` kunnen het aantal onbekende krachten geteld worden. Er zijn 4 oplegreacties en 20 staafkrachten.
 
 Deze straafkrachten kunnen ook geteld worden in de vrijlichaamsschema's van de staven uit {numref}`example_sd_5`:
 
@@ -196,7 +196,7 @@ align: center
 Aantal evenwichtsvergelijkingen per staaf
 ```
 
-Er is een pendelstaaf, de rest zijn algemene staven. Dat geeft 19 evenwichtsvergelijkingen voor de staven.
+Alle staven zijn algemene staven. Dat geeft 12 evenwichtsvergelijkingen voor de staven.
 
 ```{figure} ./determinancy_data/Example_8.svg
 ---
@@ -206,9 +206,9 @@ align: center
 Aantal evenwichtsvergelijkingen per knoop
 ```
 
-Van de knopen zijn er twee volledig scharnierend, bij de rest is ook de momentensom van belang. Dat geeft 16 evenwichtsvergelijkingen.
+Van de knopen zijn er twee volledig scharnierend, bij de rest is ook de momentensom van belang. Dat geeft 10 evenwichtsvergelijkingen.
 
-In totaal zijn er dus 35 evenwichtsvergelijkingen
+In totaal zijn er dus 22 evenwichtsvergelijkingen
 
 ::::::
 
@@ -217,7 +217,7 @@ In totaal zijn er dus 35 evenwichtsvergelijkingen
 ::::::{prf:example}
 :nonumber: true
 
-De graad van inwendig statisch onbepaalheid voor dit voorbeeld $ 6 + 32 - 35 = 3 $.
+De graad van inwendig statisch onbepaalheid voor dit voorbeeld $ 4 + 20 - 22 = 2 $.
 
 ::::::
 
