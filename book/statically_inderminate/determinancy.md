@@ -39,7 +39,7 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 
 ::::::
 
-1. Splits de constructie in zo groot mogelijke, vormvaste, scharnierend verbonden delen en teken het vrijlichaamsschema van de scharnierende delen. Naast de oplegreacties werken in de scharnierende verbinding werken twee onbekende krachten: horizontaal en verticaal. Deze krachten in de verbinding hebben een even grote tegengestelde reactiekracht op het aansluitende deel.
+1. Splits de constructie in zo vormvaste delen die los van de opleggingen ten opzichte van elkaar kunnen roteren. Teken het vrijlichaamsschema van deze scharnierende delen. Hieropen werken in ieder geval de de oplegreacties en eventuele uitwendige krachten. In de scharnierende verbinding werken twee onbekende krachten: horizontaal en verticaal. Deze krachten in de verbinding hebben een even grote tegengestelde reactiekracht op het aansluitende deel.
 
 ::::::{prf:example}
 :nonumber: true
@@ -52,7 +52,7 @@ align: center
 Gesplitste constructie
 ```
 
-De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden delen. De opleggingen zijn vervangen door oplegreacties en de scharnierende verbinding door een horizontale en verticale kracht (en reactiekrachten)
+De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden delen. De opleggingen zijn vervangen door oplegreacties en de scharnierende verbinding door een horizontale en verticale kracht (en reactiekrachten). De uitwendige kracht werkt slechts op een van de twee delen.
 
 ::::::
 
@@ -135,7 +135,7 @@ align: center
 Vrijlichaamsschema's knopen
 ```
 
-De consturctie bestaat uit 6 knopen. Op knoop A en B werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. Op knoop C werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop D is scharnierend, dus hier werken geen buigende momenten op.
+De constructie bestaat uit 6 knopen. Op knoop A en B werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. Op knoop C werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop D is scharnierend, dus hier werken geen buigende momenten op.
 
 ::::::
 
