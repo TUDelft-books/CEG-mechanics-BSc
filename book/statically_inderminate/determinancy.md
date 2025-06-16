@@ -120,8 +120,9 @@ Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructi
 
 ::::::
 
-1. Splits constructie in alle losse knopen en staven, en teken het vrijlichaamsschema voor alle knopen, rekening houdend met wat voor staven en opleggingen er aan de knopen verbonden zijn:
+1. Splits constructie in alle losse knopen en staven, en teken het vrijlichaamsschema voor alle knopen, rekening houdend met welke staven en opleggingen er aan de knopen verbonden zijn:
    - Op een scharnierende verbinding en vrije- / scharnierende uiteindes werken geen buigende momenten
+   - Op een staaf die verbonden is aan een roloplegging werkt enkel een kracht dwars op de rolrichting.
    - Vanuit een pendelstaaf werkt alleen een normaalkracht
 
 ::::::{prf:example}
@@ -183,7 +184,7 @@ Aantal onbekende staafkrachten
 
 ::::::
 
-4. Tel het evenwichtsvergelijkingen: 1 evenwichtsvergelijking per pendelstaaf, 3 evenwichtsvergelijkingen per algemene staaf, 2 evenwichtsvergelijkingen per scharnierende knoop en 3 evenwichtsvergelijkingen per algemene knoop.
+4. Tel het evenwichtsvergelijkingen: 1 evenwichtsvergelijking per pendelstaaf, 3 evenwichtsvergelijkingen per algemene staaf, 1 evenwichtsvergelijking voor een rolscharnier, 2 evenwichtsvergelijkingen per scharnierende knoop en 3 evenwichtsvergelijkingen per algemene knoop.
 
 ::::::{prf:example}
 :nonumber: true
