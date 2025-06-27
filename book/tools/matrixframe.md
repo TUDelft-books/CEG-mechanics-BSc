@@ -21,6 +21,7 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 ```{figure} ./matrixframe_data/constructie.svg
 ---
 align: center
+class: dark-light
 ---
 Voorbeeldconstructie
 ```
@@ -34,6 +35,7 @@ Voorbeeldconstructie
 ```{figure} ./matrixframe_data/step1.png
 ---
 align: center
+class: dark-light
 ---
 Aangezien het hier gaat om een 2D-Raamwerk selecteren we die optie.
 ```
@@ -47,6 +49,7 @@ Aangezien het hier gaat om een 2D-Raamwerk selecteren we die optie.
 ```{figure} ./matrixframe_data/step3.png
 ---
 align: center
+class: dark-light
 ---
 De eerste staaf is al getekend en van de tweede staaf is de coordinaat $\left(9,0 \right)$ zichtbaar in de balk onderaan.
 ```
@@ -54,6 +57,7 @@ De eerste staaf is al getekend en van de tweede staaf is de coordinaat $\left(9,
 ```{figure} ./matrixframe_data/step3_2.png
 ---
 align: center
+class: dark-light
 ---
 Als alle knopen en staven getekend zijn is dit het resultaat
 ```
@@ -70,6 +74,7 @@ In dit voorbeeld is er enkel een $EI$ gegeven, terwijl we een losse $E$ en $I$ m
 ```{figure} ./matrixframe_data/step5.png
 ---
 align: center
+class: dark-light
 ---
 Als alles is ingevoerd is dit het resultaat
 ```
@@ -83,6 +88,7 @@ Als alles is ingevoerd is dit het resultaat
 ```{figure} ./matrixframe_data/step6.png
 ---
 align: center
+class: dark-light
 ---
 De inklemming en roloplegging van het voorbeeld zijn na toevoegen zowel in de grafische weergave als in het onderste venster zichtbaar.
 ```
@@ -96,6 +102,7 @@ De inklemming en roloplegging van het voorbeeld zijn na toevoegen zowel in de gr
 ```{figure} ./matrixframe_data/step7.png
 ---
 align: center
+class: dark-light
 ---
 In dit voorbeeld zijn er geen scharnieren, dus kan deze stap overgeslagen worden.
 ```
@@ -109,6 +116,7 @@ In dit voorbeeld zijn er geen scharnieren, dus kan deze stap overgeslagen worden
 ```{figure} ./matrixframe_data/step8.png
 ---
 align: center
+class: dark-light
 ---
 In dit voorbeeld zijn er twee belastingen. De verdeelde belasting is aangebracht in de lokale z richting en de puntlast in de globale x-richting met een negatieve waarde zodat die naar links werkt.
 ```
@@ -122,6 +130,7 @@ In dit voorbeeld zijn er twee belastingen. De verdeelde belasting is aangebracht
 ```{figure} ./matrixframe_data/step9.png
 ---
 align: center
+class: dark-light
 ---
 In dit voorbeeld is alles goed geconfigureerd en geeft het logboek geen foutmeldingen
 ```
@@ -135,6 +144,7 @@ In dit voorbeeld is alles goed geconfigureerd en geeft het logboek geen foutmeld
 ```{figure} ./matrixframe_data/step10.png
 ---
 align: center
+class: dark-light
 ---
 In dit voorbeeld zijn vier oplegreacties zichtbaar. De verticale oplegreacties werken naar boven; het minteken geeft aan dat deze in de negatieve z-richting werken.
 ```
@@ -148,6 +158,7 @@ In dit voorbeeld zijn vier oplegreacties zichtbaar. De verticale oplegreacties w
 ```{figure} ./matrixframe_data/step11.png
 ---
 align: center
+class: dark-light
 ---
 De momenten zijn zichtbaar gemaakt met staaf AD in detail aan de linkerkant. De schaal is aangepast zodat de vervormingstekens zichtbaar zijn.
 ```
@@ -155,6 +166,7 @@ De momenten zijn zichtbaar gemaakt met staaf AD in detail aan de linkerkant. De 
 ```{figure} ./matrixframe_data/step12.png
 ---
 align: center
+class: dark-light
 ---
 Ook de dwarskrachten kunnen worden getoond. Het vervormingsteken van DB is niet zichtbaar in deze weergave, als er verder wordt ingezoomd of de schaal verder wordt vergroot zou die wel zichtbaar worden.
 ```
@@ -162,6 +174,7 @@ Ook de dwarskrachten kunnen worden getoond. Het vervormingsteken van DB is niet 
 ```{figure} ./matrixframe_data/step13.png
 ---
 align: center
+class: dark-light
 ---
 De normaalkrachten kunnen ook zichtbaar worden gemaakt.
 ```
@@ -175,6 +188,7 @@ De normaalkrachten kunnen ook zichtbaar worden gemaakt.
 ```{figure} ./matrixframe_data/step14.png
 ---
 align: center
+class: dark-light
 ---
 De verplaatsingen zijn zichtbaar gemaakt. Het aantal decimalen is aangepast zodat de exacte verplaatsingen kunnen worden gevonden.
 ```
@@ -188,6 +202,7 @@ De verplaatsingen zijn zichtbaar gemaakt. Het aantal decimalen is aangepast zoda
 ```{figure} ./matrixframe_data/step15.png
 ---
 align: center
+class: dark-light
 ---
 Op $3$ meter rechts van A zijn voor dit voorbeeld de snedekrachten en verplaatsingen bepaald: een verplaatsingen van $0.000042 \ \rm{m}$, een moment van $39.73 \ \rm{kNm}$, een dwarskracht van $33.38 \ \rm{kN}$ en een normaalkracht van $-20 \ \rm{kN}$.
 ```
