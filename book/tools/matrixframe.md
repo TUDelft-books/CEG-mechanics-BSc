@@ -69,7 +69,7 @@ Once all nodes and bars are drawn, this is the result.
 
 ::::::
 
-3. Continue with the 'Profielgegevens' interface. Even if this information is not known, entering it is required. Under 'Profielen' - 'Handmatige invoer', you can enter $A$, $I$, and $E$. 
+3. Continue with the 'Profielgegevens' interface. Even if this information is not known, entering it is required. Under 'Profielen' - 'Handmatige invoer', you can enter $A$, $I$, and $E$. It is not possible to enter a value of $0$ or $\infty$; instead, you must enter a small or large numerical value.
 Tip: $\cdot10^6$ can be entered as `e6`. Don't forget to click 'Apply to all'! At the bottom left of the screen, you will now see a profile name behind each bar.
 
 ::::::{prf:example}
