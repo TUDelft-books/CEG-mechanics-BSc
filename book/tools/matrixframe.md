@@ -69,7 +69,7 @@ Als alle knopen en staven getekend zijn is dit het resultaat
 
 ::::::
 
-3. Ga verder met de 'Profielgegevens' interface. Ook als deze informatie niet bekend is is het invoeren hiervan vereist. Onder 'Profielen' - 'Handmatige invoer' kan je een $A$, $I$ en $E$ invullen. 
+3. Ga verder met de 'Profielgegevens' interface. Ook als deze informatie niet bekend is is het invoeren hiervan vereist. Onder 'Profielen' - 'Handmatige invoer' kan je een $A$, $I$ en $E$ invullen. Het is niet mogelijk een waarde van $0$ of $\infty$ in te vullen, daarvoor zal je een kleine of grote numerieke waarde moeten invoeren.
 Tip, $\cdot10^6$ kan je invoeren als `e6` Vergeet niet op 'Pas toe op alles' te klikken! Linksonder in het scherm zie je nu achter elke staaf een profielnaam staan.
 
 ::::::{prf:example}
