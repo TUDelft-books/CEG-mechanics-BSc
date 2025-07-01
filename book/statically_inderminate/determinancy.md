@@ -1,28 +1,30 @@
-```{index} Statisch onbepaaldheid
+```{index} Static indeterminacy
 ```
-```{index} Graad van statisch onbepaaldheid
+```{index} Degree of static indeterminacy
 ```
-# Statisch onbepaaldheid
+# Static Indeterminacy
 
 ```{figure} ./determinancy_data/Example_1.svg
 :align: center
 :width: 300
 ```
 
-Een constructie is statisch onbepaald wanneer deze niet meer enkel met evenwichtsvergelijkingen kan worden opgelost. Er kan hierbij onderscheid worden gemaakt tussen:
-- Enkel oplegreacties kunnen worden bepaald (uitwendig statisch bepaald)
-- Inwendige krachten kunnnen worden bepaald (inwendig statisch bepaald)
+A structure is statically indeterminate when it can no longer be solved using only equilibrium equations. A distinction can be made between:
 
-Als evenwichtsvergelijkingen niet genoeg zijn is een constructie statisch onbepaald. De mate van statisch onbepaaldheid wordt uitgedrukt in de graad van statisch onbepaaldheid
+- Only support reactions can be determined (externally statically determinate)
+- Internal forces can be determined (internally statically determinate)
 
-Het is nodig de graad van statisch onbepaaldheid te bepalen om deze constructies met behulp van de krachtenmethode op te kunnen lossen.
+If equilibrium equations are not sufficient, a structure is statically indeterminate. The degree of static indeterminacy is expressed by the degree of static indeterminacy.
 
-Deze twee categorieën worden samen behandeld in hoofdstuk 4.5.2 en 4.5.3 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Voor vakwerken is de analyse versimpeld zoals beschreven in hoofdstuk 9.2.2 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Alhoewel de getoonde vergelijkingen met $r$, $v$ en $e$ effectief kunnen zijn bij simpele constructies, leiden deze in het algemeen tot verkeerde resultaten. Een aanpak die altijd werkt is hieronder getoond voor afzonderlijk uitwendig en inwendig statisch onbepaaldheid.
+It is necessary to determine the degree of static indeterminacy in order to solve these structures using the force method.
 
-```{index} Graag van uitwendig statisch onbepaaldheid
+These two categories are discussed together in sections 4.5.2 and 4.5.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. For trusses, the analysis is simplified as described in section 9.2.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. Although the equations shown with $r$, $v$, and $e$ can be effective for simple structures, they generally lead to incorrect results. An approach that always works is shown below for separately determining external and internal static indeterminacy.
+
+```{index} Degree of external static indeterminacy
 ```
-## Bepalen graad van uitwendig statisch onbepaaldheid
-Voor de berekening van uitwendig statisch onbepaaldheid gelden de volgende stappen:
+
+## Determining the degree of external static indeterminacy
+For calculating external static indeterminacy, follow these steps:
 
 ::::::{prf:example}
 :nonumber: true
@@ -32,14 +34,14 @@ Voor de berekening van uitwendig statisch onbepaaldheid gelden de volgende stapp
 name: example_sd
 align: center
 ---
-Voorbeeldconstructie
+Example structure
 ```
 
-Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze constructie.
+As an example, we determine the external static indeterminacy of this structure.
 
 ::::::
 
-1. Splits de constructie in zo vormvaste delen die los van de opleggingen ten opzichte van elkaar kunnen roteren. Teken het vrijlichaamsschema van deze scharnierende delen. Hieropen werken in ieder geval de de oplegreacties en eventuele uitwendige krachten. In de scharnierende verbinding werken twee onbekende krachten: horizontaal en verticaal. Deze krachten in de verbinding hebben een even grote tegengestelde reactiekracht op het aansluitende deel.
+1. Split the structure into rigid parts that can rotate relative to each other when detached from the supports. Draw the free body diagram of these hinged parts. The support reactions and any external forces act on these parts. At the hinged connection, there are two unknown forces: horizontal and vertical. These forces have equal and opposite reaction forces on the adjoining part.
 
 ::::::{prf:example}
 :nonumber: true
@@ -49,14 +51,14 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 name: example_sd_1
 align: center
 ---
-Gesplitste constructie
+Split structure
 ```
 
-De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden delen. De opleggingen zijn vervangen door oplegreacties en de scharnierende verbinding door een horizontale en verticale kracht (en reactiekrachten). De uitwendige kracht werkt slechts op een van de twee delen.
+The structure can be divided into two rigid, hinge-connected parts. The supports are replaced by support reactions, and the hinged connection by a horizontal and vertical force (and reaction forces). The external force acts only on one of the two parts.
 
 ::::::
 
-2. Tel het aantal onbekende krachten: de oplegreacties en verbindingskrachten in de scharnieren (de reactiekrachten tellen niet apart mee)
+2. Count the number of unknown forces: the support reactions and connection forces in the hinges (do not count the reaction forces separately).
 
 ::::::{prf:example}
 :nonumber: true
@@ -66,15 +68,15 @@ De constructie is onder te verdelen in twee vormvaste, scharnierend verbonden de
 name: example_sd_2
 align: center
 ---
-Aantal onbekende krachten
+Number of unknown forces
 ```
 
-Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten
+There are a total of 6 support reactions and 2 connection forces.
 
 ::::::
 
 
-3. Tel het evenwichtsvergelijkingen: 3 evenwichtsvergelijkingen per vormvaste deel van de constructie
+3. Count the equilibrium equations: 3 equilibrium equations per rigid part of the structure.
 
 ::::::{prf:example}
 :nonumber: true
@@ -84,26 +86,26 @@ Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten
 name: example_sd_3
 align: center
 ---
-Aantal onbekende evenwichtsvergelijkingen
+Number of equilibrium equations
 ```
 
-Er zijn twee vormvaste delen, dus 6 evenwichtsvergelijkingen
+There are two rigid parts, so 6 equilibrium equations.
 
 ::::::
 
-4. De graad van statisch onbepaaldheid is het aantal oplegreacties + verbindingskrachten - aantal evenwichtsvergelijkingen
+4. The degree of static indeterminacy is the number of support reactions + connection forces - number of equilibrium equations.
 
 ::::::{prf:example}
 :nonumber: true
 
-De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $.
+The degree of external static indeterminacy for this example is $6 + 2 - 6 = 2$.
 
 ::::::
 
-```{index} Graag van inwendig statisch onbepaaldheid
+```{index} Degree of internal static indeterminacy
 ```
-## Bepalen graad van inwendig statisch onbepaaldheid
-Voor de berekening van inwendig statisch onbepaaldheid gelden de volgende stappen:
+## Determining the degree of internal static indeterminacy
+For calculating internal static indeterminacy, follow these steps:
 
 ::::::{prf:example}
 :nonumber: true
@@ -113,17 +115,17 @@ Voor de berekening van inwendig statisch onbepaaldheid gelden de volgende stappe
 name: example_sd_abc
 align: center
 ---
-Voorbeeldconstructie
+Example structure
 ```
 
-Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructie.
+As an example, we determine the internal static indeterminacy of this structure.
 
 ::::::
 
-1. Splits constructie in alle losse knopen en staven, en teken het vrijlichaamsschema voor alle knopen, rekening houdend met welke staven en opleggingen er aan de knopen verbonden zijn:
-   - Op een scharnierende verbinding en vrije- / scharnierende uiteindes werken geen buigende momenten
-   - Op een staaf die verbonden is aan een roloplegging werkt enkel een kracht dwars op de rolrichting.
-   - Vanuit een pendelstaaf werkt alleen een normaalkracht
+1. Split the structure into all separate nodes and members, and draw the free body diagram for all nodes, taking into account which members and supports are connected to the nodes:
+   - At a hinged connection and free/hinged ends, there are no bending moments.
+   - On a member connected to a roller support, only a force perpendicular to the roller direction acts.
+   - From a pendulum member, only a normal force acts.
 
 ::::::{prf:example}
 :nonumber: true
@@ -133,14 +135,14 @@ Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructi
 name: example_sd_4
 align: center
 ---
-Vrijlichaamsschema's knopen
+Free body diagrams of nodes
 ```
 
-De constructie bestaat uit 6 knopen. Op knoop A en B werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. Op knoop C werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop D is scharnierend, dus hier werken geen buigende momenten op.
+The structure consists of 6 nodes. Unknown support reactions act on nodes A and B. Node A is a hinged end, so there are no bending moments. At node C, no bending moment acts from member DB due to the hinged connection. Node D is hinged, so no bending moments act there.
 
 ::::::
 
-2. Teken het vrijlichaamsschema voor de staven: teken de reactiekrachten op de staven ten gevolge van de krachten op de knopen.
+2. Draw the free body diagram for the members: draw the reaction forces on the members resulting from the forces on the nodes.
 
 ::::::{prf:example}
 :nonumber: true
@@ -150,14 +152,14 @@ De constructie bestaat uit 6 knopen. Op knoop A en B werken onbekende oplegreact
 name: example_sd_5
 align: center
 ---
-Vrijlichaamsschema's staven
+Free body diagrams of members
 ```
 
-Vanuit {numref}`example_sd_4` kunnen de reactiekrachten op de staven getekend worden.
+From {numref}`example_sd_4`, the reaction forces on the members can be drawn.
 
 ::::::
 
-3. Tel het aantal onbekende krachten: oplegreacties en staafkrachten (de reactiekrachten tellen niet apart mee)
+3. Count the number of unknown forces: support reactions and member forces (do not count the reaction forces separately).
 
 ::::::{prf:example}
 :nonumber: true
@@ -167,24 +169,24 @@ Vanuit {numref}`example_sd_4` kunnen de reactiekrachten op de staven getekend wo
 name: example_sd_6
 align: center
 ---
-Aantal onbekende krachten
+Number of unknown forces
 ```
 
-Vanuit {numref}`example_sd_4` kunnen het aantal onbekende krachten geteld worden. Er zijn 4 oplegreacties en 20 staafkrachten.
+From {numref}`example_sd_4`, the number of unknown forces can be counted. There are 4 support reactions and 20 member forces.
 
-Deze straafkrachten kunnen ook geteld worden in de vrijlichaamsschema's van de staven uit {numref}`example_sd_5`:
+These member forces can also be counted in the free body diagrams of the members from {numref}`example_sd_5`:
 
 ```{figure} ./determinancy_data/Example_7.svg
 ---
 name: example_sd_7
 align: center
 ---
-Aantal onbekende staafkrachten
+Number of unknown member forces
 ```
 
 ::::::
 
-4. Tel het evenwichtsvergelijkingen: 1 evenwichtsvergelijking per pendelstaaf, 3 evenwichtsvergelijkingen per algemene staaf, 1 evenwichtsvergelijking voor een rolscharnier, 2 evenwichtsvergelijkingen per scharnierende knoop en 3 evenwichtsvergelijkingen per algemene knoop.
+4. Count the equilibrium equations: 1 equilibrium equation per pendulum member, 3 equilibrium equations per general member, 1 equilibrium equation for a roller hinge, 2 equilibrium equations per hinged node, and 3 equilibrium equations per general node.
 
 ::::::{prf:example}
 :nonumber: true
@@ -194,34 +196,34 @@ Aantal onbekende staafkrachten
 name: example_sd_9
 align: center
 ---
-Aantal evenwichtsvergelijkingen per staaf
+Number of equilibrium equations per member
 ```
 
-Alle staven zijn algemene staven. Dat geeft 12 evenwichtsvergelijkingen voor de staven.
+All members are general members. That gives 12 equilibrium equations for the members.
 
 ```{figure} ./determinancy_data/Example_8.svg
 ---
 name: example_sd_8
 align: center
 ---
-Aantal evenwichtsvergelijkingen per knoop
+Number of equilibrium equations per node
 ```
 
-Van de knopen zijn er twee volledig scharnierend, bij de rest is ook de momentensom van belang. Dat geeft 10 evenwichtsvergelijkingen.
+Of the nodes, two are fully hinged; for the rest, the moment equilibrium is also relevant. That gives 10 equilibrium equations.
 
-In totaal zijn er dus 22 evenwichtsvergelijkingen
+In total, there are 22 equilibrium equations.
 
 ::::::
 
-5. De graad van statisch onbepaaldheid is het aantal oplegreacties + staafkrachten - aantal evenwichtsvergelijkingen
+5. The degree of static indeterminacy is the number of support reactions + member forces - number of equilibrium equations.
 
 ::::::{prf:example}
 :nonumber: true
 
-De graad van inwendig statisch onbepaalheid voor dit voorbeeld $ 4 + 20 - 22 = 2 $.
+The degree of internal static indeterminacy for this example is $4 + 20 - 22 = 2$.
 
 ::::::
 
-## Opgaves
-- Opgaves 4.11 - 4.22, van hoofdstuk 4 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Negeer de vragen over kinematisch bepaaldheid. Antwoorden zijn beschikbaar op [deze website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter4/).
-- Opgave  9.6, van hoofdstuk 9 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Negeer de vragen over kinematisch bepaaldheid. Antwoorden zijn beschikbaar op [deze website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter9/).
+## Exercises
+- Exercises 4.11 - 4.22, from chapter 4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. Ignore the questions about kinematic determinacy. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter4/).
+- Exercise 9.6, from chapter 9 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. Ignore the questions about kinematic determinacy. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter9/).

@@ -4,16 +4,16 @@
 ```
 # Matrixframe
 
-Matrixframe is commerciele software waarmee constructies kunnen worden doorgerekend. MatrixFrame gebruikt symbolen die erg lijken op de symbolen gebruikt bij de opleiding in Delft. Voor studenten is er een gratis [studentenlicentie](https://www.matrix-software.com/contact/studentversion) (registratie bij MatrixFrame vereist) en [een versie](https://software.tudelft.nl/371/) die alleen op het TU Delft netwerk (eventueel via [VPN verbinding](https://www.tudelft.nl/studenten/mijn-studie-ik/studietools/remote-inloggen)) werkt. Als je de studentenlicentie hebt aangevraagt maar niet ontvangen, kun je een ticket indienen via [deze link](https://matrix-software.freshdesk.com/en/support/tickets/new).
+Matrixframe is commercial software used for structural analysis. MatrixFrame uses symbols that are very similar to those used in the Delft curriculum. For students, there is a free [student license](https://www.matrix-software.com/contact/studentversion) (registration with MatrixFrame required) and [a version](https://software.tudelft.nl/371/) that only works on the TU Delft network (possibly via [VPN connection](https://www.tudelft.nl/en/student/my-study-me/study-tools/remote-services)). If you have applied for the student license but have not received it, you can submit a ticket via [this link](https://matrix-software.freshdesk.com/en/support/tickets/new).
 
-Een aantal punten zijn van belang bij het gebruik van MatrixFrame:
+A few points are important when using MatrixFrame:
 
-- Bij het gebruik van matrixframe zal je altijd stijfheden van de elementen moeten invoeren ('profielgegevens in MatrixFrame'). Dit heeft MatrixFrame nodig om de constructie door te rekenen, ook al is dat voor de krachtsgrootheden in statisch bepaalde constructies niet nodig. In het geval dat deze gegegevens niet bekend zijn kan je een willekeurige grote waarde nemen onder 'Handmatige invoer'. Als de waarde een paar ordegroottes groter is dan de andere waardes is het al goed, bij een te grote waarde ontstaan er numerieke issues.
-- Soms kunnen elementen overlappen zonder dat je het ziet.
+- When using MatrixFrame, you will always need to enter the stiffnesses of the elements ('profile data in MatrixFrame'). MatrixFrame needs this to perform the structural analysis, even though it is not necessary for the internal forces in statically determinate structures. If this data is not known, you can enter any large value under 'Manual input'. As long as the value is several orders of magnitude larger than the other values, it is fine; if the value is too large, numerical issues may arise.
+- Sometimes elements may overlap without it being visible.
 
-Een uitgebreide handleiding met meer opties is [hier](https://icozct.tudelft.nl/TUD_CT/CT2031/oefening/matrix/files/Introductie%20MatrixFrame.pdf) te vinden. Daarnaast biedt [de officiële documentatie](https://knowledge-base.matrix-software.com/nl/help/matrix-frame) ook meer uitleg.
+A comprehensive manual with more options can be found [here](https://icozct.tudelft.nl/TUD_CT/CT2031/oefening/matrix/files/Introductie%20MatrixFrame.pdf). In addition, [the official documentation](https://knowledge-base.matrix-software.com/nl/help/matrix-frame) provides further explanation.
 
-Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze constructie.
+As an example, we will determine the external static indeterminacy of this structure.
 
 ::::::{prf:example}
 :nonumber: true
@@ -23,12 +23,12 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 align: center
 class: dark-light
 ---
-Voorbeeldconstructie
+Example structure
 ```
 
 ::::::
 
-1. Maak een nieuw project - '2D-Raamwerk' en klik 'Ok'. De optie '1D-ligger' en '2D-vakwerk' zijn versimpelingen van de '2D-Raamwerk'-optie. De optie '3D-Raamwerk' en '3D-Vakwerk' kan je proberen, maar daar krijgt men over het algemeen hoofdpijn van.
+1. Create a new project - '2D-Raamwerk' and click 'Ok'. The options '1D-Ligger' and '2D_vakwerk_' are simplifications of the '2D Frame' option. You can try the '3D-Raamwerk' and '3D-Vakwerk' options, but they are generally more complex.
 
 ::::::{prf:example}
 
@@ -37,12 +37,12 @@ Voorbeeldconstructie
 align: center
 class: dark-light
 ---
-Aangezien het hier gaat om een 2D-Raamwerk selecteren we die optie.
+Since this is a 2D-Raamwerk, we select that option.
 ```
 
 ::::::
 
-2. Je beland direct in de 'Geometrie' interface. Klik in het grid om je geometrie te vormen. De coördinaten zijn zijn zichtbaar in de onderbalk en de afmetingen verschijnen tijdens het klikken. Gebruik `Esc` op je toetsenbord om te stoppen of op een volgend element te beginnen die niet vastzit aan het uiteinde van het vorige element. Pas eventueel afmetingen aan met behulp van de stramienen aan de linkerkant of de coördinaten aan de onderkant van het scherm.
+2. You will immediately enter the 'Geometrie' interface. Click on the grid to create your geometry. The coordinates are visible in the bottom bar, and the dimensions appear while clicking. Use `Esc` on your keyboard to stop or to start a new element that is not connected to the end of the previous element. Adjust dimensions if necessary using the grids on the left or the coordinates at the bottom of the screen.
 
 ::::::{prf:example}
 
@@ -51,7 +51,7 @@ Aangezien het hier gaat om een 2D-Raamwerk selecteren we die optie.
 align: center
 class: dark-light
 ---
-De eerste staaf is al getekend en van de tweede staaf is de coordinaat $\left(9,0 \right)$ zichtbaar in de balk onderaan.
+The first bar has been drawn, and for the second bar, the coordinate $\left(9,0 \right)$ is visible in the bar at the bottom.
 ```
 
 ```{figure} ./matrixframe_data/step3_2.png
@@ -59,29 +59,29 @@ De eerste staaf is al getekend en van de tweede staaf is de coordinaat $\left(9,
 align: center
 class: dark-light
 ---
-Als alle knopen en staven getekend zijn is dit het resultaat
+Once all nodes and bars are drawn, this is the result.
 ```
 
 ::::::
 
-3. Ga verder met de 'Profielgegevens' interface. Ook als deze informatie niet bekend is is het invoeren hiervan vereist. Onder 'Profielen' - 'Handmatige invoer' kan je een $A$, $I$ en $E$ invullen. 
-Tip, $\cdot10^6$ kan je invoeren als `e6` Vergeet niet op 'Pas toe op alles' te klikken! Linksonder in het scherm zie je nu achter elke staaf een profielnaam staan.
+3. Continue with the 'Profielgegevens' interface. Even if this information is not known, entering it is required. Under 'Profielen' - 'Handmatige invoer', you can enter $A$, $I$, and $E$. 
+Tip: $\cdot10^6$ can be entered as `e6`. Don't forget to click 'Apply to all'! At the bottom left of the screen, you will now see a profile name behind each bar.
 
 ::::::{prf:example}
 
-In dit voorbeeld is er enkel een $EI$ gegeven, terwijl we een losse $E$ en $I$ moeten invoeren. Daarom kan je twee getallen kiezen waarvan het product $7.8 \cdot 10^4$ is, bijvoorbeeld $E = 200 \cdot 10^6$ en $I = 3.9 \cdot 10^-2$. $EA$ is $\infty$, waarvoor we een grote numerieke waarde kunnen invoeren, bijvoorbeeld $A  = 10 \cdot 10^3$. 
+In this example, only $EI$ is given, while we need to enter separate $E$ and $I$. Therefore, you can choose two numbers whose product is $7.8 \cdot 10^4$, for example $E = 200 \cdot 10^6$ and $I = 3.9 \cdot 10^-2$. $EA$ is $\infty$, for which we can enter a large numerical value, for example $A = 10 \cdot 10^3$.
 
 ```{figure} ./matrixframe_data/step5.png
 ---
 align: center
 class: dark-light
 ---
-Als alles is ingevoerd is dit het resultaat
+Once everything is entered, this is the result.
 ```
 
 ::::::
 
-4. De volgende stap is het toevoegen van opleggingen. Er zijn een aantal standaard opties, maar je kan ook handmatig translatie- en rotatierichtingen vastzetten. De opleggingen kan je plaatsen op de knopen of langs een staaf (in dat geval wordt er een nieuwe knoop gemaakt).
+4. The next step is to add supports. There are several standard options, but you can also manually fix translation and rotation directions. Supports can be placed on nodes or along a bar (in which case a new node is created).
 
 ::::::{prf:example}
 
@@ -90,12 +90,12 @@ Als alles is ingevoerd is dit het resultaat
 align: center
 class: dark-light
 ---
-De inklemming en roloplegging van het voorbeeld zijn na toevoegen zowel in de grafische weergave als in het onderste venster zichtbaar.
+The fixed and roller supports of the example are visible both in the graphical display and in the lower window after adding.
 ```
 
 ::::::
 
-5. Nu kunnen we verder met scharnieren. In een raamwerk is standaard alles momentvast verbonden. Per staaf kan je voor elk uiteinde aangeven of dit een scharnier moet worden door op een deel van die staaf te klikken. Als twee aansluitende staven scharnierend zijn verbonden is het niet nodig om beide staafuiteindes scharnierend te maken, ééntje is genoeg.
+5. Now we can proceed with hinges. In a frame, everything is rigidly connected by default. For each bar, you can specify for each end whether it should be a hinge by clicking on a part of that bar. If two connecting bars are hinged, it is not necessary to hinge both bar ends; one is sufficient.
 
 ::::::{prf:example}
 
@@ -104,12 +104,12 @@ De inklemming en roloplegging van het voorbeeld zijn na toevoegen zowel in de gr
 align: center
 class: dark-light
 ---
-In dit voorbeeld zijn er geen scharnieren, dus kan deze stap overgeslagen worden.
+In this example, there are no hinges, so this step can be skipped.
 ```
 
 ::::::
 
-6. De laatste configuratiestap is het toevoegen van belastingen. Je kan verschillende belastingsgevallen (B.G.) toevoegen, maar zolang je er maar één hoeft door te rekenen is het niet nodig die opties aan te passen. Voor elke belasting is het wel nodig de waarde en richting aan te geven en de staaf aan te klikken waarop deze last werkt. In het venster onderin het scherm kan je deze ook nog aanpassen.
+6. The last configuration step is to add loads. You can add different load cases, but as long as you only need to analyze one, it is not necessary to adjust those options. For each load, you need to specify the value and direction and click the bar on which the load acts. In the window at the bottom of the screen, you can also adjust these.
 
 ::::::{prf:example}
 
@@ -118,12 +118,12 @@ In dit voorbeeld zijn er geen scharnieren, dus kan deze stap overgeslagen worden
 align: center
 class: dark-light
 ---
-In dit voorbeeld zijn er twee belastingen. De verdeelde belasting is aangebracht in de lokale z richting en de puntlast in de globale x-richting met een negatieve waarde zodat die naar links werkt.
+In this example, there are two loads. The distributed load is applied in the local z direction, and the point load in the global x direction with a negative value so that it acts to the left.
 ```
 
 ::::::
 
-7. Nu alles geconfigureerd is kan je op L.E. berekening (linear-elastische berekening) klikken. Er opent zich dan een dialoogvenster die foutmeldingen geeft als er iets niet klopt
+7. Now that everything is configured, you can click on 'L.E. berekening' (linear-elastic calculation). A dialog window will open that gives error messages if something is incorrect.
 
 ::::::{prf:example}
 
@@ -132,12 +132,12 @@ In dit voorbeeld zijn er twee belastingen. De verdeelde belasting is aangebracht
 align: center
 class: dark-light
 ---
-In dit voorbeeld is alles goed geconfigureerd en geeft het logboek geen foutmeldingen
+In this example, everything is correctly configured and the logbook shows no error messages.
 ```
 
 ::::::
 
-8. Om de resultaten te bekijken zijn er een aantal opties. De oplegreacties kunnen los worden getoond. Let op, de richting van de pijlen geeft de daadwerkelijke richting aan van de krachten en koppels; een eventueel minteken geeft aan dat die kracht in de negatieve richting van het assenstelsel werkt.
+8. To view the results, there are several options. The support reactions can be shown separately. Note that the direction of the arrows indicates the actual direction of the forces and moments; a possible minus sign indicates that the force acts in the negative direction of the coordinate system.
 
 ::::::{prf:example}
 
@@ -146,12 +146,12 @@ In dit voorbeeld is alles goed geconfigureerd en geeft het logboek geen foutmeld
 align: center
 class: dark-light
 ---
-In dit voorbeeld zijn vier oplegreacties zichtbaar. De verticale oplegreacties werken naar boven; het minteken geeft aan dat deze in de negatieve z-richting werken.
+In this example, four support reactions are visible. The vertical support reactions act upwards; the minus sign indicates that these act in the negative z-direction.
 ```
 
 ::::::
 
-9. De snedekrachtenlijnen kunnen ook worden getoond. Deze kunnen per snedekracht getoond worden volgens de vervormingstekens zoals we die gewend zijn. Mochten de vervormingstekens niet zichtbaar zijn kan je inzoomen of de schaal vergroten onder 'Weergave-instellingen' - 'Beeldinstellingen' - 'Eigenschappen' - 'Resultaten' - 'Normaalkracht (Nx)'/'Dwarskracht (Vz)'/'Moment (My)' - 'Vorm' - 'Schaal' - Voeg waarde in en klik op 'Toepassen'. Als een staaf wordt aangeklikt zijn links in het scherm alle snedekrachten en verplaatsingen van die staaf zichtbaar. Onderin het scherm worden een aantal karakteristieke waardes getoond. De waardes worden getoond volgens het lokale assenstelsel.
+9. The internal force diagrams can also be shown. These can be displayed per internal force according to the deformation symbols as we are used to. If the deformation symbols are not visible, you can zoom in or increase the scale under 'Weergave-instellingen' - 'Beeldinstellingen' - 'Eigenschappen' - 'Resultaten' - 'Normaalkracht (Nx)'/'Dwarskracht (Vz)'/'Momenten (My)' - 'Vorm' - 'Schaal' - Enter value and click 'Toepassen'. If a bar is clicked, all internal forces and displacements of that bar are visible on the left side of the screen. At the bottom of the screen, some characteristic values are shown. The values are shown according to the local coordinate system.
 
 ::::::{prf:example}
 
@@ -160,7 +160,7 @@ In dit voorbeeld zijn vier oplegreacties zichtbaar. De verticale oplegreacties w
 align: center
 class: dark-light
 ---
-De momenten zijn zichtbaar gemaakt met staaf AD in detail aan de linkerkant. De schaal is aangepast zodat de vervormingstekens zichtbaar zijn.
+The moments are displayed with bar AD in detail on the left. The scale has been adjusted so that the deformation symbols are visible.
 ```
 
 ```{figure} ./matrixframe_data/step12.png
@@ -168,7 +168,7 @@ De momenten zijn zichtbaar gemaakt met staaf AD in detail aan de linkerkant. De 
 align: center
 class: dark-light
 ---
-Ook de dwarskrachten kunnen worden getoond. Het vervormingsteken van DB is niet zichtbaar in deze weergave, als er verder wordt ingezoomd of de schaal verder wordt vergroot zou die wel zichtbaar worden.
+The shear forces can also be displayed. The deformation symbol of DB is not visible in this view; if you zoom in further or increase the scale, it will become visible.
 ```
 
 ```{figure} ./matrixframe_data/step13.png
@@ -176,12 +176,12 @@ Ook de dwarskrachten kunnen worden getoond. Het vervormingsteken van DB is niet 
 align: center
 class: dark-light
 ---
-De normaalkrachten kunnen ook zichtbaar worden gemaakt.
+The normal forces can also be displayed.
 ```
 
 ::::::
 
-10. Ook verplaatsingen kunnen worden getoond. Het aantal decimalen kan worden aangepast onder 'Weergave-instellingen' - 'Beeldinstellingen' - 'Eigenschappen' - 'Resultaten' - 'Verplaatsingen/Doorbuigingen' - 'Label' - 'Decimalen' - Voeg waarde in en klik op 'Toepassen'
+10. Displacements can also be displayed. The number of decimals can be adjusted under 'Weergave-instellingen' - 'Beeldinstellingen' - 'Eigenschappen' - 'Resultaten' - 'Verplaatsingen/Doorbuigingen' - 'Label' - 'Decimalen' - Enter value and click 'Toepassen'.
 
 ::::::{prf:example}
 
@@ -190,12 +190,12 @@ De normaalkrachten kunnen ook zichtbaar worden gemaakt.
 align: center
 class: dark-light
 ---
-De verplaatsingen zijn zichtbaar gemaakt. Het aantal decimalen is aangepast zodat de exacte verplaatsingen kunnen worden gevonden.
+The displacements are displayed. The number of decimals has been adjusted so that the exact displacements can be found.
 ```
 
 ::::::
 
-11. Tot slot kunnen waardes op specifieke posities worden afgelezen met de spion functie. Klik daarvoor een staaf aan en voer onder 'Invoer pos:' een locatie in in het lokale assenstelsel. De tabel en grafische weergave toont dan waardes van snedekrachten en verplaatsingen op dat punt.
+11. Finally, values at specific positions can be read using the spy function. To do this, click a bar and enter a location under 'Input pos:' in the local coordinate system. The table and graphical display will then show values of internal forces and displacements at that point.
 
 ::::::{prf:example}
 
@@ -204,13 +204,13 @@ De verplaatsingen zijn zichtbaar gemaakt. Het aantal decimalen is aangepast zoda
 align: center
 class: dark-light
 ---
-Op $3$ meter rechts van A zijn voor dit voorbeeld de snedekrachten en verplaatsingen bepaald: een verplaatsingen van $0.000042 \ \rm{m}$, een moment van $39.73 \ \rm{kNm}$, een dwarskracht van $33.38 \ \rm{kN}$ en een normaalkracht van $-20 \ \rm{kN}$.
+At $3$ meters to the right of A, the internal forces and displacements for this example are: a displacement of $0.000042 \ \rm{m}$, a moment of $39.73 \ \rm{kNm}$, a shear force of $33.38 \ \rm{kN}$, and a normal force of $-20 \ \rm{kN}$.
 ```
 
 ::::::
 
 ::::::{prf:example}
 
-Het bestand van dit voorbeeld is [hier](./matrixframe_data/example.mxe) te downloaden.
+The file for this example can be downloaded [here](./matrixframe_data/example.mxe).
 
 ::::::
