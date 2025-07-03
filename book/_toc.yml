@@ -151,6 +151,7 @@ parts:
       - file: tools/sympy
       - file: tools/sympy_mech
       - file: tools/matrixframe
+      - file: tools/TI-84
   - caption: Miscellaneous
     chapters:
     - file: bibliography
