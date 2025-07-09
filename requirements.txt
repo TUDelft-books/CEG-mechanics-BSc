@@ -1,14 +1,14 @@
 teachbooks == 0.2.1 # depends on jupyter-book
-jupyterbook-patches == 1.6.2
-sphinx-image-inverter == 1.1.2
-download_link_replacer == 1.0.4
-sphinx-tudelft-theme == 1.1.5
+jupyterbook-patches
+sphinx-image-inverter
+download_link_replacer
+sphinx-tudelft-theme
 sphinx-proof
-sphinx-named-colors == 1.0.1
-teachbooks-sphinx-tippy == 1.0.11
-sphinx-iframes == 1.0.5
-sphinx-exercise == 1.0.1
-sphinx-dropdown-toggle == 1.1.0
+sphinx-named-colors
+teachbooks-sphinx-tippy
+sphinx-iframes
+sphinx-exercise
+sphinx-dropdown-toggle
 
 # now list the packages (and the respective url) you wish to download from the GitLab package registry
 git+https://github.com/TeachBooks/Sphinx-Thebe
