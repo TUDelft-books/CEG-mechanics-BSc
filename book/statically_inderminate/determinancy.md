@@ -2,18 +2,13 @@
 ```
 ```{index} Graad van statisch onbepaaldheid
 ```
-# Statisch onbepaaldheid
-
-```{figure} ./determinancy_data/Example_1.svg
-:align: center
-:width: 300
-```
+# Theorie
 
 Een constructie is statisch onbepaald wanneer deze niet meer enkel met evenwichtsvergelijkingen kan worden opgelost. Er kan hierbij onderscheid worden gemaakt tussen:
 - Enkel oplegreacties kunnen worden bepaald (uitwendig statisch bepaald)
 - Inwendige krachten kunnnen worden bepaald (inwendig statisch bepaald)
 
-Als evenwichtsvergelijkingen niet genoeg zijn is een constructie statisch onbepaald. De mate van statisch onbepaaldheid wordt uitgedrukt in de graad van statisch onbepaaldheid
+Als evenwichtsvergelijkingen niet genoeg zijn is een constructie statisch onbepaald. De mate van statisch onbepaaldheid wordt uitgedrukt in de graad van statisch onbepaaldheid.
 
 Het is nodig de graad van statisch onbepaaldheid te bepalen om deze constructies met behulp van de krachtenmethode op te kunnen lossen.
 
