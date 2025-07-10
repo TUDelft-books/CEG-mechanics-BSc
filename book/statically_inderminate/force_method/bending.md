@@ -1,11 +1,7 @@
-```{index} Krachtenmethode; voor raamwerkconstructies
-```
+# Theorie
 
-# ... voor raamwerkconstructies
 
-Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor vakwerkconstructies wordt behandeld in hoofdstuk 2.2.1 - 2.2.7 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. Wanneer het boek de 'momentenvlakstelling' noemt in voorbeeld 2.2.6 en 2.2.7, kun je de verplaatsingen ook vinden met behulp van vergeet-mij-nietjes. De methode met verplaatsbare knopen ('hoekveranderingsvergelijkingen met verplaatsbare knopen') die in het verleden werd onderwezen wordt niet meer behandeld.
-
-We tonen de stappen van de krachtenmethode voor een balk.
+De krachtenmethode hebben we eerder al behandeld voor onder andere [constructies belast op rek](krachtenmethode_simpel) We behandelen de toepassing op raamwerkconstructies met het volgende voorbeeld. 
 
 ::::::{prf:example}
 :nonumber: true
@@ -20,7 +16,7 @@ Voorbeeldconstructie
 
 ::::::
 
-1. Bepaal [de graad van statische bepaaldheid](../determinancy.md).
+1. Bepaal de graad van statische bepaaldheid.
 
 ::::::{prf:example}
 :nonumber: true
