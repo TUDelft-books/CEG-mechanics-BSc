@@ -107,7 +107,6 @@ Met behulp van de vergeet-mij-nietjes kunnen de rotaties direct worden geëvalue
 
 4. Gebruik je vormveranderingsvoorwaarden om de statisch onbepaalde krachten op te lossen
 
-
 ::::::{prf:example}
 :nonumber: true
 :label: sd_ben_5
