@@ -3,7 +3,11 @@
 
 # ... for frame structures
 
-The general concept of the force method is covered in chapter 2.1 while the force method for truss structures is treated in in chapter 2.2.1 - 2.2.7 and the more specific 'hoekveranderingsvergelijkingen' in chapter 3.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`. Whenever the book mentions the 'momentenvlakstelling' in example 2.2.6 and 2.2.7, you can also find the displacements using forget-me-nots. The method with moveable nodes ('hoekveranderingsvergelijkingen met verplaatsbare knopen') which was taught is the past is not treated anymore.
+The general concept of the force method is covered in chapter 2.1 while the force method for truss structures is treated in in chapter 2.2.1 - 2.2.7 and the more specific 'hoekveranderingsvergelijkingen' in chapter 3.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
+
+The method of 'hoekveranderingsvergelijkingen' has the advantage that it's very easy to calculate the required rotations using forget-me-nots. However, not for all structures forget-me-nots might be available.
+
+Whenever the book mentions the 'momentenvlakstelling' in example 2.2.6 and 2.2.7, you can also find the displacements using forget-me-nots. The method with moveable nodes ('hoekveranderingsvergelijkingen met verplaatsbare knopen') which was taught is the past is not treated anymore.
 
 We'll cover the application to bending structures with the following example.
 
