@@ -111,7 +111,6 @@ Using the forget-me-nots, the rotations can be directly be evaluated without eva
 
 4. Use your displacement constraints to solve for the statically indeterminate forces
 
-
 ::::::{prf:example}
 :nonumber: true
 :label: sd_ben_5
