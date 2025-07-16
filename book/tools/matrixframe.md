@@ -8,7 +8,7 @@ Matrixframe is commercial software used for structural analysis. MatrixFrame use
 
 A few points are important when using MatrixFrame:
 
-- When using MatrixFrame, you will always need to enter the stiffnesses of the elements ('profile data in MatrixFrame'). MatrixFrame needs this to perform the structural analysis, even though it is not necessary for the internal forces in statically determinate structures. If this data is not known, you can enter any large value under 'Manual input'. As long as the value is several orders of magnitude larger than the other values, it is fine; if the value is too large, numerical issues may arise.
+- When using MatrixFrame, you will always need to enter the stiffnesses of the elements ('profile data in MatrixFrame'). MatrixFrame needs this to perform the structural analysis, even though it is not necessary for the internal forces in statically determinate structures. If this data is not known, you can enter any large value under 'Manual input' to model an infinitely stuff member. As long as the value is several orders of magnitude larger than the other values, it is fine; if the value is too large, numerical issues may arise.
 - Sometimes elements may overlap without it being visible.
 
 A comprehensive manual with more options can be found [here](https://icozct.tudelft.nl/TUD_CT/CT2031/oefening/matrix/files/Introductie%20MatrixFrame.pdf). In addition, [the official documentation](https://knowledge-base.matrix-software.com/nl/help/matrix-frame) provides further explanation.
