@@ -1,3 +1,4 @@
+(krachtenmethode_balk)=
 # Theorie
 
 
