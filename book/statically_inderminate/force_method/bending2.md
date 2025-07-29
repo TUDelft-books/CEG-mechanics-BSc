@@ -18,7 +18,7 @@ Voorbeeldconstructie
 
 ::::::
 
-1. Bepaal [de graad van statische bepaaldhei](../determinancy.md).
+1. Bepaal de graad van statische bepaaldheid.
 
     ::::::{prf:example}
     :nonumber: true
