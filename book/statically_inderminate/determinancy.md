@@ -87,12 +87,12 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 
 4. De graad van statisch onbepaaldheid is het aantal oplegreacties + verbindingskrachten - aantal evenwichtsvergelijkingen
 
-::::::{prf:example}
-:nonumber: true
+   ::::::{prf:example}
+   :nonumber: true
 
-De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $.
+   De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $.
 
-::::::
+   ::::::
 
 ```{index} Graag van inwendig statisch onbepaaldheid
 ```
