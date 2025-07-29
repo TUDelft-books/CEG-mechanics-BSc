@@ -26,113 +26,113 @@ Example structure
 
 1. Determine [the degree of statical determinacy](../determinancy.md).
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_raam_1
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_raam_1
 
-For our example, we are interested in the distribution of internal forces, so we must evaluate the degree of internal static indeterminacy.
+    For our example, we are interested in the distribution of internal forces, so we must evaluate the degree of internal static indeterminacy.
 
-```{figure} ./theorie_data/onbekenden.svg
----
-align: center
----
-There are 21 unknown forces.
-```
+    ```{figure} ./theorie_data/onbekenden.svg
+    ---
+    align: center
+    ---
+    There are 21 unknown forces.
+    ```
 
-```{figure} ./theorie_data/vergelijkingen.svg
----
-align: center
----
-There are 19 equilibrium equations
-```
+    ```{figure} ./theorie_data/vergelijkingen.svg
+    ---
+    align: center
+    ---
+    There are 19 equilibrium equations
+    ```
 
-This structure is therefore 2nd degree internally statically indeterminate.
+    This structure is therefore 2nd degree internally statically indeterminate.
 
-::::::
+    ::::::
 
 2. Transform the structure in a statical determinant system by releasing releasing a support, splitting the structure at a two-force member or adding hinges: add unknown statically indeterminate forces and displacement constraints for each of the support you released and hinges you added. Be aware that you don't transform the structure in a (partial) mechanism!
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_raam_2
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_raam_2
 
-There are many options, some of which are possible options:
+    There are many options, some of which are possible options:
 
-`````{tab-set}
-````{tab-item} Release horizontal support at $\rm{B}$ and add hinge at $\rm{B}$
-```{figure} ./theorie_data/optie1.svg
-:align: center
-```
-````
-````{tab-item} Release horizontal supports at $\rm{B}$ and $\rm{C}$
-```{figure} ./theorie_data/optie2.svg
-:align: center
-```
+    `````{tab-set}
+    ````{tab-item} Release horizontal support at $\rm{B}$ and add hinge at $\rm{B}$
+    ```{figure} ./theorie_data/optie1.svg
+    :align: center
+    ```
+    ````
+    ````{tab-item} Release horizontal supports at $\rm{B}$ and $\rm{C}$
+    ```{figure} ./theorie_data/optie2.svg
+    :align: center
+    ```
 
-````
-````{tab-item} Release horizontal and vertical supports at $\rm{A}$
-```{figure} ./theorie_data/optie3.svg
-:align: center
-```
-````
-````{tab-item} Release horizontal support at $\rm{A}$ and add hinge at $\rm{B}$
-```{figure} ./theorie_data/optie4.svg
-:align: center
-```
-````
-`````
+    ````
+    ````{tab-item} Release horizontal and vertical supports at $\rm{A}$
+    ```{figure} ./theorie_data/optie3.svg
+    :align: center
+    ```
+    ````
+    ````{tab-item} Release horizontal support at $\rm{A}$ and add hinge at $\rm{B}$
+    ```{figure} ./theorie_data/optie4.svg
+    :align: center
+    ```
+    ````
+    `````
 
-The third option is chosen.
+    The third option is chosen.
 
-::::::
+    ::::::
 
 3. Solve for the displacement in terms of the unknown indeterminate forces as you would normally do for a statically determinate structure.
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_raam_4
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_raam_4
 
-We have chosen the following statically determinate structure with displacement conditions $w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $ and $w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $:
+    We have chosen the following statically determinate structure with displacement conditions $w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $ and $w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $:
 
-```{figure} ./theorie_data/SB-systeem.svg
----
-align: center
----
-The statically determinate structure with displacement conditions
-```
+    ```{figure} ./theorie_data/SB-systeem.svg
+    ---
+    align: center
+    ---
+    The statically determinate structure with displacement conditions
+    ```
 
-The force distribution can be found with equilibrium:
+    The force distribution can be found with equilibrium:
 
-- $M_{\rm{C}} = 90 \ \rm{kNm}$ (◠/ᑐ)
-- $M_{\rm{B}} = 6A_{\rm{v}}$ (◡/ᑐ)
+    - $M_{\rm{C}} = 90 \ \rm{kNm}$ (◠/ᑐ)
+    - $M_{\rm{B}} = 6A_{\rm{v}}$ (◡/ᑐ)
 
-Using the forget-me-nots method, the rotations can now be evaluated:
+    Using the forget-me-nots method, the rotations can now be evaluated:
 
-- $\varphi_{\rm{B}} = 0.0012 A_{\rm{v}} - 0.018$
-- $w_{\rm{A}} = 0.0216 A_{\rm{v}} - 0.108$
+    - $\varphi_{\rm{B}} = 0.0012 A_{\rm{v}} - 0.018$
+    - $w_{\rm{A}} = 0.0216 A_{\rm{v}} - 0.108$
 
-For the horizontal displacement applies: $w_{\rm{A,h}}  = \cfrac{6A_{\rm{h}}}{EA} $
+    For the horizontal displacement applies: $w_{\rm{A,h}}  = \cfrac{6A_{\rm{h}}}{EA} $
 
-::::::
+    ::::::
 
 4. Use your displacement constraints to solve for the statically indeterminate forces
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_raam_5
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_raam_5
 
-$$
-\begin{align*}
-w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
- 0.0216 A_{\rm{v}} - 0.108 &= 0 \\
-A_{\rm{v}} &= 5 \ \rm{kN} \\
-\\
-w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
-\cfrac{6A_{\rm{h}}}{EA} &= 0 \\
-A_{\rm{h}} &= 0 \ \rm{kN}
-\end{align*}
-$$
-::::::
+    $$
+    \begin{align*}
+    w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
+    0.0216 A_{\rm{v}} - 0.108 &= 0 \\
+    A_{\rm{v}} &= 5 \ \rm{kN} \\
+    \\
+    w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
+    \cfrac{6A_{\rm{h}}}{EA} &= 0 \\
+    A_{\rm{h}} &= 0 \ \rm{kN}
+    \end{align*}
+    $$
+    ::::::
 
 ## Exercises
 
