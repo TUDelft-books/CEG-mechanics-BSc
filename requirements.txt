@@ -2,7 +2,7 @@ teachbooks # BUMPS to 0.2.2
 jupyterbook-patches
 sphinx-image-inverter
 download_link_replacer
-sphinx-tudelft-theme
+sphinx-tudelft-theme #BUMP
 sphinx-proof
 sphinx-named-colors
 teachbooks-sphinx-tippy
