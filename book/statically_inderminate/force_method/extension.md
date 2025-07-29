@@ -22,129 +22,128 @@ Example structure. Although this is not a true truss structure, deformation only
 
 1. Determine [the degree of statical determinacy](../determinancy.md).
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_ext_1
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_ext_1
 
-For our example, we might be interested in the internal force distribution, so we need to evaluate the degree of internal statical determinacy.
+    For our example, we might be interested in the internal force distribution, so we need to evaluate the degree of internal statical determinacy.
 
-```{figure} ./extension_data/unknown_forces.svg
----
-align: center
----
-There are 17 unknown forces.
-```
+    ```{figure} ./extension_data/unknown_forces.svg
+    ---
+    align: center
+    ---
+    There are 17 unknown forces.
+    ```
 
-```{figure} ./extension_data/equations.svg
----
-align: center
----
-There are 16 equilibrium equations
-```
+    ```{figure} ./extension_data/equations.svg
+    ---
+    align: center
+    ---
+    There are 16 equilibrium equations
+    ```
 
-So this structure is 1st order internally statically indeterminant.
+    So this structure is 1st order internally statically indeterminant.
 
-::::::
+    ::::::
 
 2. Transform the structure in a statical determinant system by releasing releasing a support, splitting the structure at a two-force member or adding hinges: add unknown statically indeterminate forces and displacement constraints for each of the support you released and hinges you added. Be aware that you don't transform the structure in a (partial) mechanism!
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_ext_2
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_ext_2
 
-There are many options here, of which a few are shown below:
+    There are many options here, of which a few are shown below:
 
-`````{tab-set}
-````{tab-item} Split the structure at a two-force member
-```{figure} ./extension_data/option1.svg
-:align: center
-```
-````
-````{tab-item} Adding hinges
-```{figure} ./extension_data/option2.svg
-:align: center
-```
-````
-````{tab-item} Release horizontal constraint of support
-```{figure} ./extension_data/option3.svg
-:align: center
-```
-````
-````{tab-item} Release vertical support
-```{figure} ./extension_data/option4.svg
-:align: center
-```
-````
-`````
+    `````{tab-set}
+    ````{tab-item} Split the structure at a two-force member
+    ```{figure} ./extension_data/option1.svg
+    :align: center
+    ```
+    ````
+    ````{tab-item} Adding hinges
+    ```{figure} ./extension_data/option2.svg
+    :align: center
+    ```
+    ````
+    ````{tab-item} Release horizontal constraint of support
+    ```{figure} ./extension_data/option3.svg
+    :align: center
+    ```
+    ````
+    ````{tab-item} Release vertical support
+    ```{figure} ./extension_data/option4.svg
+    :align: center
+    ```
+    ````
+    `````
 
 
-The last option is chosen.
+    The last option is chosen.
 
-::::::
+    ::::::
 
 3. Solve for the displacement in terms of the unknown indeterminate forces as you would normally do for a statically determinate structure.
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_ext_4
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_ext_4
 
-We've chosen the following statically determinate structure with displacement constraint $w_{\rm{B}}\left( B_{\rm{v}} \right) = 0$:
+    We've chosen the following statically determinate structure with displacement constraint $w_{\rm{B}}\left( B_{\rm{v}} \right) = 0$:
 
-```{figure} ./extension_data/SD_struc.svg
----
-align: center
----
-The statically determinate structure with displacement constraint
-```
+    ```{figure} ./extension_data/SD_struc.svg
+    ---
+    align: center
+    ---
+    The statically determinate structure with displacement constraint
+    ```
 
-Since $\rm{AE}$ is infinitely stiff, all deformations will be the result of bars extending / compressing. To calculate this, first the normal forces can be evaluated as a function of $B_{\rm{v}}$ using i.e. a moment equilibrium around $\rm{A}$ for the member $\text{ADE}$:
+    Since $\rm{AE}$ is infinitely stiff, all deformations will be the result of bars extending / compressing. To calculate this, first the normal forces can be evaluated as a function of $B_{\rm{v}}$ using i.e. a moment equilibrium around $\rm{A}$ for the member $\text{ADE}$:
 
-- $N_{\rm{CD}}\left( B_{\rm{v}} \right) = 210 - 2.5 B_{\rm{v}}$
-- $N_{\rm{BE}} \left( B_{\rm{v}} \right) = - B_{\rm{v}}$
+    - $N_{\rm{CD}}\left( B_{\rm{v}} \right) = 210 - 2.5 B_{\rm{v}}$
+    - $N_{\rm{BE}} \left( B_{\rm{v}} \right) = - B_{\rm{v}}$
 
-This leads to the following extension of the elements, using $\Delta L = \cfrac{N \ L}{EA}$:
+    This leads to the following extension of the elements, using $\Delta L = \cfrac{N \ L}{EA}$:
 
-- $\Delta L_{\rm{CD}}\left( B_{\rm{v}} \right) = \cfrac{1400}{EA} - \cfrac{50 B_{\rm{v}}}{3 EA}$
-- $\Delta L_{\rm{BE}}\left( B_{\rm{v}} \right) = -\cfrac{5 B_{\rm{v}}}{EA}$
+    - $\Delta L_{\rm{CD}}\left( B_{\rm{v}} \right) = \cfrac{1400}{EA} - \cfrac{50 B_{\rm{v}}}{3 EA}$
+    - $\Delta L_{\rm{BE}}\left( B_{\rm{v}} \right) = -\cfrac{5 B_{\rm{v}}}{EA}$
 
-This leads to the following displacement, using a [Williot diagram](../../stresses_displacements/displacements_truss/williot.md):
+    This leads to the following displacement, using a [Williot diagram](../../stresses_displacements/displacements_truss/williot.md):
 
-```{figure} ./extension_data/williot.svg
----
-align: center
----
-The displacement of $\rm{D}$ is $\cfrac{5}{4} \Delta L_{\rm{CD}} $
-```
+    ```{figure} ./extension_data/williot.svg
+    ---
+    align: center
+    ---
+    The displacement of $\rm{D}$ is $\cfrac{5}{4} \Delta L_{\rm{CD}} $
+    ```
 
-- $w_{\rm{D}}\left( B_{\rm{v}} \right) = \cfrac{1750}{EA} - \cfrac{125 B_{\rm{v}}}{6 EA} \left( \downarrow \right) $
-- $w_{\rm{E}}\left( B_{\rm{v}} \right) = \cfrac{3500}{EA} - \cfrac{125 B_{\rm{v}}}{3 EA} \left( \downarrow \right) $
-- $w_{\rm{B}}\left( B_{\rm{v}} \right) = \cfrac{3500}{EA} - \cfrac{140 B_{\rm{v}}}{3 EA} \left( \downarrow \right) $
+    - $w_{\rm{D}}\left( B_{\rm{v}} \right) = \cfrac{1750}{EA} - \cfrac{125 B_{\rm{v}}}{6 EA} \left( \downarrow \right) $
+    - $w_{\rm{E}}\left( B_{\rm{v}} \right) = \cfrac{3500}{EA} - \cfrac{125 B_{\rm{v}}}{3 EA} \left( \downarrow \right) $
+    - $w_{\rm{B}}\left( B_{\rm{v}} \right) = \cfrac{3500}{EA} - \cfrac{140 B_{\rm{v}}}{3 EA} \left( \downarrow \right) $
 
-::::::
+    ::::::
 
 4. Use your displacement constraints to solve for the statically indeterminate forces
 
+    ::::::{prf:example}
+    :nonumber: true
+    :label: sd_ext_5
 
-::::::{prf:example}
-:nonumber: true
-:label: sd_ext_5
+    $$
+    \begin{align*}
+    w_{\rm{B}}\left( B_{\rm{v}} \right) &= 0 \\
+    \cfrac{3500}{EA} - \cfrac{140 B_{\rm{v}}}{3 EA} &= 0 \\
+    B_{\rm{v}} &= 75 \ \rm{kN}
+    \end{align*}
+    $$
 
-$$
-\begin{align*}
-w_{\rm{B}}\left( B_{\rm{v}} \right) &= 0 \\
-\cfrac{3500}{EA} - \cfrac{140 B_{\rm{v}}}{3 EA} &= 0 \\
-B_{\rm{v}} &= 75 \ \rm{kN}
-\end{align*}
-$$
+    This leads to the following other results:
 
-This leads to the following other results:
+    - $N_{\rm{CD}} = 22.5 \ \rm{kN}$
+    - $N_{\rm{BE}} -75 \ \rm{kN} $
+    - $w_{\rm{D}} = \cfrac{375}{2EA} \left( \downarrow \right) $
+    - $w_{\rm{E}} = \cfrac{375}{EA} \left( \downarrow \right) $
 
-- $N_{\rm{CD}} = 22.5 \ \rm{kN}$
-- $N_{\rm{BE}} -75 \ \rm{kN} $
-- $w_{\rm{D}} = \cfrac{375}{2EA} \left( \downarrow \right) $
-- $w_{\rm{E}} = \cfrac{375}{EA} \left( \downarrow \right) $
-
-::::::
+    ::::::
 
 ## Exercises
 - Exercises 2.31 - 2.41, in chapter 2.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
