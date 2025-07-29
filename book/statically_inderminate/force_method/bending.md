@@ -2,7 +2,7 @@
 # Theorie
 
 
-De krachtenmethode hebben we eerder al behandeld voor onder andere [constructies belast op rek](krachtenmethode_simpel) We behandelen de toepassing op raamwerkconstructies met het volgende voorbeeld.
+De krachtenmethode hebben we eerder al behandeld voor onder andere [constructies belast op rek](krachtenmethode_simpel) We behandelen de toepassing op balkconstructies met het volgende voorbeeld.
 
 Bij de methode van 'hoekveranderingsvergelijkingen' wordt er altijd gekozen voor het toevoegen van scharnieren om de constructie statisch bepaald te maken. Dat heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar.
 
