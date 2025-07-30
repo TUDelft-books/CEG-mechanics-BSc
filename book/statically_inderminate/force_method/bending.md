@@ -1,10 +1,9 @@
 (krachtenmethode_balk)=
 # Theorie
 
+De krachtenmethode hebben we eerder al behandeld voor onder andere [constructies belast op rek](krachtenmethode_simpel). De methode is niet anders voor constructies op buiging en volgt dus dezelfde vier stappen. Bij balken kunnen we het vervormingsgedrag door rek en buiging ook nog eens afzonderlijk bekijken.
 
-De krachtenmethode hebben we eerder al behandeld voor onder andere [constructies belast op rek](krachtenmethode_simpel) We behandelen de toepassing op balkconstructies met het volgende voorbeeld.
-
-Bij de methode van 'hoekveranderingsvergelijkingen' wordt er altijd gekozen voor het toevoegen van scharnieren om de constructie statisch bepaald te maken. Dat heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar.
+Bij de krachtenmethode 'hoekveranderingsvergelijkingen' wordt er altijd gekozen voor het toevoegen van scharnieren om de constructie statisch bepaald te maken. Dat heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar en deze aanpak is niet altijd de makkelijkste aanpak.
 
 We tonen de stappen van de krachtenmethode voor een balk.
 
