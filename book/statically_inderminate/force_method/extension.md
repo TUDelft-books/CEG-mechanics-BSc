@@ -55,22 +55,22 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     Er zijn hier veel opties, waarvan er enkele hieronder worden getoond:
 
     `````{tab-set}
-    ````{tab-item} Split the structure at a two-force member
+    ````{tab-item} Splits de constructie bij een scharnier
     ```{figure} ./extension_data/option1.svg
     :align: center
     ```
     ````
-    ````{tab-item} Adding hinges
+    ````{tab-item} Scharnier toevoegen
     ```{figure} ./extension_data/option2.svg
     :align: center
     ```
     ````
-    ````{tab-item} Release horizontal constraint of support
+    ````{tab-item} De horizontale bewegingsrichting van een oplegging vrijmaken
     ```{figure} ./extension_data/option3.svg
     :align: center
     ```
     ````
-    ````{tab-item} Release vertical support
+    ````{tab-item} Verticale oplegging weghalen
     ```{figure} ./extension_data/option4.svg
     :align: center
     ```
