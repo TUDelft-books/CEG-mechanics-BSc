@@ -1,11 +1,6 @@
-```{index} Krachtenmethode; voor vakwerkconstructies
-```
+# Theorie
 
-# ... voor vakwerkconstructies
-
-Het algemene concept van de krachtenmethode wordt getoond in [](./force_method.md) en behandeld in hoofdstuk 2.1. Specifiek de krachtenmethode voor vakwerkconstructies wordt behandeld in hoofdstuk 2.2.8 - 2.2.10 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
-
-We behandelen de toepassing op vakwerkconstructies met het volgende voorbeeld. Dit voorbeeld bevat een [Williot diagram](../../stresses_displacements/displacements_truss/williot.md) om de verplaatsingen te berekenen.
+De krachtenmethode hebben we eerder al behandeld voor [simpele constructies](krachtenmethode_simpel). We behandelen de toepassing op complexere vakwerkconstructies met het volgende voorbeeld. Dit voorbeeld bevat een Williot diagram om de verplaatsingen te berekenen.
 
 ::::::{prf:example}
 :nonumber: true
@@ -18,9 +13,9 @@ align: center
 Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming enkel veroorzaakt door extensie, niet door buiging.
 ```
 
-    ::::::
+::::::
 
-    1. Bepaal [de graad van statische bepaaldheid](../determinancy.md).
+1. Bepaal de graad van statische bepaaldheid.
 
     ::::::{prf:example}
     :nonumber: true
@@ -46,7 +41,7 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
 
     ::::::
 
-2. Transformeer de constructie in een statisch bepaald systeem door opleggingen weg te nemen, de constructie te splitsen bij een pendelstaaf, of scharnieren toe te voegen: voeg onbekende statisch onbepaalde krachten en vervormingsvoorwaardes toe voor elke opleggging die je hebt weggenomen en scharnieren die je hebt toegevoegd. Let op dat je de constructie niet transformeert tot een (gedeeltelijk) mechanisme!
+2. Transformeer de constructie in een statisch bepaald systeem door opleggingen weg te nemen, de constructie te splitsen bij pendelstaven of scharnieren toe te voegen: voeg onbekende statisch onbepaalde krachten en vervormingsvoorwaarden toe voor elke oplegging die je hebt weggenomen, aansluiting van de pendelstaven die je hebt weggenomen en scharnieren die je hebt toegevoegd. Let op dat je de constructie niet transformeert tot een (gedeeltelijk) mechanisme!
 
     ::::::{prf:example}
     :nonumber: true
@@ -77,6 +72,7 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     ````
     `````
 
+
     De laatste optie wordt gekozen.
 
     ::::::
@@ -106,7 +102,7 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     - $\Delta L_{\rm{CD}}\left( B_{\rm{v}} \right) = \cfrac{1400}{EA} - \cfrac{50 B_{\rm{v}}}{3 EA}$
     - $\Delta L_{\rm{BE}}\left( B_{\rm{v}} \right) = -\cfrac{5 B_{\rm{v}}}{EA}$
 
-    Dit leidt tot de volgende verplaatsing, met behulp van een [Williot diagram](../../stresses_displacements/displacements_truss/williot.md):
+    Dit leidt tot de volgende verplaatsing, met behulp van een Williot diagram:
 
     ```{figure} ./extension_data/williot.svg
     ---
@@ -144,6 +140,10 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
 
     ::::::
 
+## Meer voorbeelden
+
+In hoofdstuk 2.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` wordt de krachtenmethode in het algemeen behandeld. Specifiek voor vakwerkconstructies waarbij ook williot nodig is wordt behandeld in hoofdstuk 2.2.10.
+
 ## Oefeningen
-- Opgaves 2.31 - 2.41, in hoofdstuk 2.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
+- Opgaves 2.40 en 2.41, in hoofdstuk 2.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 Antwoorden zijn [hier beschikbaar](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/).

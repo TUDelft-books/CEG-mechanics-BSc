@@ -1,11 +1,9 @@
-```{index} Krachtenmethode; voor balkconstructies
-```
+(krachtenmethode_balk)=
+# Theorie
 
-# ... voor balkconstructies
+De krachtenmethode hebben we eerder al behandeld voor onder andere [constructies belast op rek](krachtenmethode_simpel). De methode is niet anders voor constructies op buiging en volgt dus dezelfde vier stappen. Bij balken kunnen we het vervormingsgedrag door rek en buiging ook nog eens afzonderlijk bekijken.
 
-Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor balkconstructies wordt behandeld in hoofdstuk 2.2.1 - 2.2.4 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. De voorbeelden van hoofdstuk 3.1 worden behandeld in [krachtenmethode voor raamwerkconsturcties](./bending2.md).
-
-De methode van 'hoekveranderingsvergelijkingen' heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar.
+Bij de krachtenmethode 'hoekveranderingsvergelijkingen' wordt er altijd gekozen voor het toevoegen van scharnieren om de constructie statisch bepaald te maken. Dat heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar en deze aanpak is niet altijd de makkelijkste aanpak.
 
 We tonen de stappen van de krachtenmethode voor een balk.
 
@@ -22,7 +20,7 @@ Voorbeeldconstructie
 
 ::::::
 
-1. Bepaal [de graad van statische bepaaldheid](../determinancy.md).
+1. Bepaal de graad van statische bepaaldheid.
 
     ::::::{prf:example}
     :nonumber: true
@@ -122,9 +120,12 @@ Voorbeeldconstructie
     $$
     ::::::
 
+## Meer voorbeelden
+Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor vakwerkconstructies wordt behandeld in hoofdstuk 2.2.1 - 2.2.4 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. De voorbeelden van hoofdstuk 3.1 worden behandeld in [de volgende les](krachtenmethode_raamwerk).
+
 ## Opdrachten
 
-- Opgaves 2.1 - 2.14, 2.23 and 2.25 in hoofdstuk 2.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
+- Opgaves 2.1 - 2.14, 2.23, 2.25 en 2.30 in hoofdstuk 2.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 - Opgaves 3.1 - 3.10, 3.16 - 3.21 in hoofdstuk 3.4 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 
 Antwoorden zijn beschikbaar op [deze website voor hoofdstuk 2](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/) en [hier voor hoofdstuk 3](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-3/).

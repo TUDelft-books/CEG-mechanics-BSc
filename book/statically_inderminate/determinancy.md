@@ -2,18 +2,13 @@
 ```
 ```{index} Graad van statisch onbepaaldheid
 ```
-# Statisch onbepaaldheid
-
-```{figure} ./determinancy_data/Example_1.svg
-:align: center
-:width: 300
-```
+# Theorie
 
 Een constructie is statisch onbepaald wanneer deze niet meer enkel met evenwichtsvergelijkingen kan worden opgelost. Er kan hierbij onderscheid worden gemaakt tussen:
 - Enkel oplegreacties kunnen worden bepaald (uitwendig statisch bepaald)
 - Inwendige krachten kunnnen worden bepaald (inwendig statisch bepaald)
 
-Als evenwichtsvergelijkingen niet genoeg zijn is een constructie statisch onbepaald. De mate van statisch onbepaaldheid wordt uitgedrukt in de graad van statisch onbepaaldheid
+Als evenwichtsvergelijkingen niet genoeg zijn is een constructie statisch onbepaald. De mate van statisch onbepaaldheid wordt uitgedrukt in de graad van statisch onbepaaldheid.
 
 Het is nodig de graad van statisch onbepaaldheid te bepalen om deze constructies met behulp van de krachtenmethode op te kunnen lossen.
 
@@ -92,12 +87,12 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 
 4. De graad van statisch onbepaaldheid is het aantal oplegreacties + verbindingskrachten - aantal evenwichtsvergelijkingen
 
-::::::{prf:example}
-:nonumber: true
+   ::::::{prf:example}
+   :nonumber: true
 
-De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $.
+   De graad van uitwendig statisch onbepaalheid voor dit voorbeeld $6 + 2 - 6 = 2 $.
 
-::::::
+   ::::::
 
 ```{index} Graag van inwendig statisch onbepaaldheid
 ```
@@ -183,7 +178,7 @@ Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructi
 
    ::::::
 
-4. Tel het evenwichtsvergelijkingen: 1 evenwichtsvergelijking per pendelstaaf, 3 evenwichtsvergelijkingen per algemene staaf, 1 evenwichtsvergelijking voor een rolscharnier, 2 evenwichtsvergelijkingen per scharnierende knoop en 3 evenwichtsvergelijkingen per algemene knoop.
+4. Tel het aantal evenwichtsvergelijkingen: 1 evenwichtsvergelijking per pendelstaaf, 3 evenwichtsvergelijkingen per algemene staaf, 1 evenwichtsvergelijking voor een rolscharnier, 2 evenwichtsvergelijkingen per scharnierende knoop en 3 evenwichtsvergelijkingen per algemene knoop.
 
    ::::::{prf:example}
    :nonumber: true

@@ -2,7 +2,7 @@
 ```
 ```{index} Software
 ```
-# Matrixframe
+# Theorie
 
 Matrixframe is commerciële software waarmee constructies kunnen worden doorgerekend. MatrixFrame gebruikt symbolen die erg lijken op de symbolen gebruikt bij de opleiding in Delft. Voor studenten is er een gratis [studentenlicentie](https://www.matrix-software.com/contact/studentversion) (registratie bij MatrixFrame vereist) en [een versie](https://software.tudelft.nl/371/) die alleen op het TU Delft netwerk (eventueel via [VPN verbinding](https://www.tudelft.nl/studenten/mijn-studie-ik/studietools/remote-inloggen)) werkt. Als je de studentenlicentie hebt aangevraagt maar niet ontvangen, kun je een ticket indienen via [deze link](https://matrix-software.freshdesk.com/en/support/tickets/new).
 
