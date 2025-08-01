@@ -3,13 +3,6 @@
 
 # Normal stresses
 
-```{figure} ./normal_data/image.png
-:align: center
-:width: 300
-
-Figure 4.14a {cite:ts}`Hartsuijker2007`
-```
-
 The bending moment gives a linear normal stress distribution:
 
 $$\sigma^{(M)} = \frac{M_{z}z}{I_{zz}}$$

@@ -3,12 +3,6 @@
 
 # Graphical
 
-```{figure} ./graphical_data/image.png
-:align: center
-:width: 600
-
-Figure 2.6 {cite:ts}`Hartsuijker2007con`
-```
 
 Mohr's circle is a graphical method for finding the principal directions and principal values.
 

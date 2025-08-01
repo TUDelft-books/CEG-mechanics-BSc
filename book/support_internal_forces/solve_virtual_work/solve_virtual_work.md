@@ -3,13 +3,6 @@
 ```
 # Solve structures using virtual work
 
-```{figure} ./solve_virtual_work_data/image.png
-:align: center
-:width: 300
-
-Figure 15.21 {cite:ts}`Hartsuijker2006`
-```
-
 This topic is treated in chapter 15.5 until example 4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006` and chapter 3.2.2 of the book Mechanica: Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 
 

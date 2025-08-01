@@ -1,13 +1,6 @@
 ```{index} Strains in 2D
 ```
 
-# Strains in 2D
-```{figure} ./strains-2D_data/image.png
-:align: center
-:width: 400
-
-Figure 1.9 {cite:ts}`Hartsuijker2007con`
-```
 Strains in 2D can be represented in a matrix (specifically a second-order tensor) as follows:
 
 $$\begin{bmatrix}

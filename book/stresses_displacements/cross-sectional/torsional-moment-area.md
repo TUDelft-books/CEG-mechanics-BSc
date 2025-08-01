@@ -3,13 +3,6 @@
 
 # Torsional moment of inertia thin-walled tubes
 
-```{figure} ./torsion_data/image_3.png
-:align: center
-:width: 200
-
-Figure 6.29 {cite:ts}`Hartsuijker2007`
-```
-
 $$I_t = \cfrac{{4A_m^2}}{{\oint {\cfrac{1}{t}{{d}}m} }}$$
 
 For a thin-walled strip this reduces to:

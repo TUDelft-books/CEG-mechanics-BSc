@@ -3,13 +3,6 @@
 
 # ... in solid circular bars and thick-walled circular tubes
 
-```{figure} ./circular_data/image.png
-:align: center
-:width: 300
-
-Figure 6.14 {cite:ts}`Hartsuijker2007`
-```
-
 The shear stress due to torsion in a circular cross section:
 
 $$\tau(r) = \frac{M_tr}{I_p}$$

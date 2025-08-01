@@ -3,13 +3,6 @@
 
 # Normal stresses
 
-```{figure} ./normal_data/image.png
-:align: center
-:width: 300
-
-Figure 2.8a {cite:ts}`Hartsuijker2007`
-```
-
 Extension gives a constant stress distribution:
 
 $$\sigma^{(N)} = \frac{N}{A}$$

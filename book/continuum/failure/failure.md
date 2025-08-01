@@ -2,12 +2,6 @@
 ```
 
 # Failure
-```{figure} ./failure_data/image.png
-:align: center
-:width: 400
-
-Figure 6.14b {cite:ts}`Hartsuijker2007con`
-```
 
 ```{index} Failure models; Von Mises
 ```

@@ -3,13 +3,6 @@
 ```
 # Diagrams
 
-```{figure} ./diagrams_data/image.png
-:align: center
-:width: 300
-
-Figure 12.14 {cite:ts}`Hartsuijker2006`
-```
-
 This is treated in chapter 12 (except for 12.5) and 13 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ## General exercises
