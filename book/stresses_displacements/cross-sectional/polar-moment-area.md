@@ -3,13 +3,6 @@
 
 # Polar moment of inertia
 
-```{figure} ./second-moment-area_data/image.png
-:align: center
-:width: 300
-
-Figure 3.30 {cite:ts}`Hartsuijker2007`
-```
-
 - $I_p = \int_{A}r^{2}dA$
 - $I_p = I_{yy} + I_{zz}$
 

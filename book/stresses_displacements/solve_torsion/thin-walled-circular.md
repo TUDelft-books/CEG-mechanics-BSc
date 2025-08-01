@@ -3,13 +3,6 @@
 
 # ... in a thin-walled circular cross-section
 
-```{figure} ./torsion_data/image_1.png
-:align: center
-:width: 300
-
-Figure 6.8 {cite:ts}`Hartsuijker2007`
-```
-
 The shear stress due to torsion in a circular cross section:
 
 $$\tau(r) = \frac{M_tr}{2 \pi R^2 t} = \frac{M_tr}{I_p}$$

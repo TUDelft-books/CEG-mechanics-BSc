@@ -11,13 +11,6 @@
 
 # Second moment of area and Section modulus
 
-```{figure} ./second-moment-area_data/image.png
-:align: center
-:width: 300
-
-Figure 3.30 {cite:ts}`Hartsuijker2007`
-```
-
 ## Moments of inertia
 
 - $I_{yy} = \int_{A}y^{2}dA$

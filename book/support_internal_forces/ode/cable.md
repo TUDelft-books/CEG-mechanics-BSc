@@ -2,13 +2,6 @@
 ```
 # ... for cables
 
-```{figure} ./cable_data/image.png
-:align: center
-:width: 300
-
-Figure 14.19 {cite:ts}`Hartsuijker2006`
-```
-
 The differential equation for equilibrium relations for cables is based on the infinitesimal small loaded cables:
 
 leading to :

@@ -4,12 +4,6 @@
 ```
 
 # Analytical
-```{figure} ./analytical_data/image.png
-:align: center
-:width: 600
-
-Figure 2.2 {cite:ts}`Hartsuijker2007con`
-```
 
 ## Transformations
 The rotation matrix R is defined as:

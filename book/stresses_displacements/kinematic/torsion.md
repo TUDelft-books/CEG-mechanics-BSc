@@ -2,12 +2,6 @@
 ```
 # ... for torsion in circular cross-sections and thin-walled tubes
 
-```{figure} ./torsion_data/image.png
-:align: center
-:width: 400
-
-Figure 6.10 {cite:ts}`Hartsuijker2007`
-```
 
 The kinematic relation for torsion is defined by: 
 

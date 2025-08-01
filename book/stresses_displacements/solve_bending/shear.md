@@ -7,12 +7,6 @@
 
 # Shear stresses
 
-```{figure} ./shear_data/image_shear.png
-:align: center
-:width: 600
-
-Figure 5.13b,c,d {cite:ts}`Hartsuijker2007`
-```
 ## Longitudinal shear stresses
 
 The shear force per unit length in the longitudinal direction is given by:

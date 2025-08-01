@@ -10,13 +10,6 @@ For torsion, the assumed strain diagram depends on the cross-section
 ```
 ## ... in thin-walled circular and closed thin-walled non-circular tubes
 
-```{figure} ./torsion_data/image_1.png
-:align: center
-:width: 300
-
-Figure 6.8 {cite:ts}`Hartsuijker2007`
-```
-
 The strain diagram is parallel to the centre line and are constant over the wall thickness
 
 The thin-walled circular tube is treated in chapter 6.2.1 and the thin-walled non-circular tube in chapter 6.3.1 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
@@ -27,12 +20,6 @@ The thin-walled circular tube is treated in chapter 6.2.1 and the thin-walled no
 ```
 ## ... in solid circular bars and thick-walled circular tubes
 
-```{figure} ./torsion_data/image_2.png
-:align: center
-:width: 300
-
-Figure 6.14 {cite:ts}`Hartsuijker2007`
-```
 
 The strain diagram is parallel to the surface and is proportional to the distance to the axis of the bar.
 
@@ -41,13 +28,6 @@ The solid circular bar is treated in chapter 6.2.2 and the thick-walled circular
 ```{index} Strain diagram torsion; thin-walled cross-sections
 ```
 ## ... in open thin-walled cross-sections
-
-```{figure} ./torsion_data/image_3.png
-:align: center
-:width: 200
-
-Figure 6.29 {cite:ts}`Hartsuijker2007`
-```
 
 The strain diagram is parallel to the surface, is proportional to the distance to the axis of the bar and flows around near the edges of the strip.
 
