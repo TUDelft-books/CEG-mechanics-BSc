@@ -20,7 +20,7 @@ In statically indeterminate structures the displacement and force distribution i
 Kinematic equivalent load leading to the same strain and curvature as strain due to linear expansion, while statically indeterminate reaction forces cause stresses and reaction forces
 ```
 
-This topic is treated in chapter 6.2.2 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
+In chapter 4.12 of the book Engineering Mechanics: Volume 2: Stresses, strains and displacements {cite:p}`Hartsuijker2007`, the derivation of temperature influences is discussed. In chapter 6.2.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` (in Dutch), this is repeated in a simplified manner for statically determinate structures. The approach using the moment-area method is not covered in this course. Additionally, the standard cases for a beam on two supports and a clamped beam are not used. In chapter 6.2.2, statically indeterminate structures are discussed. Here too, the moment-area method is not part of this course.
 
 ## Exercises
-Exercises 6.25 - 6.44 in chapter 6.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`. Unfortunately there are no answers available.
+- Problems 6.25 - 6.30, 6.32 - 6.39, 6.41 - 6.43 in chapter 6.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` (in Dutch). Unfortunately, no answers are available.
