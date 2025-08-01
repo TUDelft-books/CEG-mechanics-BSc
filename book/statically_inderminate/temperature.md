@@ -20,8 +20,7 @@ In statisch onbepaalde constructies zijn de vervorming en krachtverdeling gekopp
 Kinematisch equivalente belasting die tot dezelfde rek en kromming leidt als rek door lineaire uitzetting, terwijl statisch onbepaalde reactiekrachten spanningen en reactiekrachten veroorzaken
 ```
 
-Dit onderwerp wordt behandeld in hoofdstuk 6.2.2 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
+In hoofdstuk 4.12 van het boek Mechanica: spanningen, vervormingen en verplaatsingen {cite:p}`Hartsuijker2013` wordt de afleiding van temperatuursinvloeden behandeld. In hoofdstuk 6.2.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` is deze versimpeld herhaald voor statisch bepaalde constucties. De aanpak met de momentenvlakstelling wordt niet behandeld in dit vak. Daarnaast worden de standaardgevallen voor een ligger op twee steunpunten en een ingeklemde ligger niet gebruikt. In hoofdstuk 6.2.2 worden statisch onbepaalde constructies behandeld. Ook hier geldt dat de momentenvlakstelling geen onderdeel is van dit vak
 
-## Opgaven
-Opgaven 6.25 - 6.44 in hoofdstuk 6.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in het Nederlands) {cite:p}`Hartsuijker2016`. Helaas zijn er geen antwoorden beschikbaar.
-```
+## Oefeningen
+- Opgaves 6.25 - 6.30, 3.32 - 6.39, 6.41 - 6.43 in hoofdstuk 6.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. Er zijn helaas geen antwoorden beschikbaar.
