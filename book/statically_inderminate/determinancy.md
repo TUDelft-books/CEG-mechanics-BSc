@@ -39,7 +39,7 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
 
 ::::::
 
-1. Splits de constructie in zo vormvaste delen die los van de opleggingen ten opzichte van elkaar kunnen roteren. Teken het vrijlichaamsschema van deze scharnierende delen. Hierop werken in ieder geval de de oplegreacties en eventuele uitwendige krachten. In de scharnierende verbinding werken twee onbekende krachten: horizontaal en verticaal. Deze krachten in de verbinding hebben een even grote tegengestelde reactiekracht op het aansluitende deel.
+1. Splits de constructie in zo vormvaste delen die los van de opleggingen ten opzichte van elkaar kunnen roteren. Teken het vrijlichaamsschema van deze scharnierende delen. Hierop werken in ieder geval de oplegreacties en eventuele uitwendige krachten. In de scharnierende verbinding werken twee onbekende krachten: horizontaal en verticaal. Deze krachten in de verbinding hebben een even grote tegengestelde reactiekracht op het aansluitende deel.
 
    ::::::{prf:example}
    :nonumber: true
