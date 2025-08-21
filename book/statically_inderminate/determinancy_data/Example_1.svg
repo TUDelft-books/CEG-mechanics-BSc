@@ -3,7 +3,7 @@
 <!-- Gegenereerd door Microsoft Visio, SVG Export Example_1.svg Pagina-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.1948in" height="2.08193in"
-		viewBox="0 0 374.025 149.899" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+		viewBox="0 0 374.025 149.899" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
 	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
@@ -12,7 +12,11 @@
 		.st2 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st3 {marker-start:url(#mrkr5-19);stroke:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st4 {fill:#800000;fill-opacity:1;stroke:#800000;stroke-opacity:1;stroke-width:0.44247787610619}
-		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st5 {marker-start:url(#mrkr5-36);stroke:#00cc99;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st6 {fill:#00cc99;fill-opacity:1;stroke:#00cc99;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st7 {marker-start:url(#mrkr5-52);stroke:#31859b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st8 {fill:#31859b;fill-opacity:1;stroke:#31859b;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -21,6 +25,14 @@
 			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
 		</g>
 		<marker id="mrkr5-19" class="st4" v:arrowType="5" v:arrowSize="2" v:setback="3.775" refX="3.775" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.26) "/>
+		</marker>
+		<marker id="mrkr5-36" class="st6" v:arrowType="5" v:arrowSize="2" v:setback="3.775" refX="3.775" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.26) "/>
+		</marker>
+		<marker id="mrkr5-52" class="st8" v:arrowType="5" v:arrowSize="2" v:setback="3.775" refX="3.775" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend5" transform="scale(2.26) "/>
 		</marker>
@@ -71,43 +83,43 @@
 		</g>
 		<g id="shape89-31" v:mID="89" v:groupContext="shape" transform="translate(188.353,40.5795) rotate(90)">
 			<title>Kracht.89</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st5"/>
 		</g>
-		<g id="shape90-36" v:mID="90" v:groupContext="shape" transform="translate(315.912,111.446) rotate(90)">
+		<g id="shape90-37" v:mID="90" v:groupContext="shape" transform="translate(315.912,111.446) rotate(90)">
 			<title>Kracht.90</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st5"/>
 		</g>
-		<g id="shape91-41" v:mID="91" v:groupContext="shape" transform="translate(478.904,111.446) rotate(90)">
+		<g id="shape91-42" v:mID="91" v:groupContext="shape" transform="translate(478.904,111.446) rotate(90)">
 			<title>Kracht.91</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st5"/>
 		</g>
-		<g id="shape92-46" v:mID="92" v:groupContext="shape" transform="translate(358.431,42.7055) rotate(90)">
+		<g id="shape92-47" v:mID="92" v:groupContext="shape" transform="translate(358.431,42.7055) rotate(90)">
 			<title>Kracht.92</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st7"/>
 		</g>
-		<g id="shape93-51" v:mID="93" v:groupContext="shape" transform="translate(136.586,38.4535) rotate(-90)">
+		<g id="shape93-53" v:mID="93" v:groupContext="shape" transform="translate(136.586,38.4535) rotate(-90)">
 			<title>Kracht.93</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st7"/>
 		</g>
-		<g id="shape94-56" v:mID="94" v:groupContext="shape" transform="translate(329.005,-38.4535)">
+		<g id="shape94-58" v:mID="94" v:groupContext="shape" transform="translate(329.005,-38.4535)">
 			<title>Kracht.94</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st5"/>
 		</g>
-		<g id="shape95-61" v:mID="95" v:groupContext="shape" transform="translate(166.013,-38.4535)">
+		<g id="shape95-63" v:mID="95" v:groupContext="shape" transform="translate(166.013,-38.4535)">
 			<title>Kracht.95</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st5"/>
 		</g>
-		<g id="shape96-66" v:mID="96" v:groupContext="shape" transform="translate(38.4535,190.479) rotate(180)">
+		<g id="shape96-68" v:mID="96" v:groupContext="shape" transform="translate(38.4535,190.479) rotate(180)">
 			<title>Kracht.96</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st5"/>
 		</g>
-		<g id="shape97-71" v:mID="97" v:groupContext="shape" transform="translate(284.359,190.479) rotate(180)">
+		<g id="shape97-73" v:mID="97" v:groupContext="shape" transform="translate(284.359,190.479) rotate(180)">
 			<title>Kracht.97</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st7"/>
 		</g>
-		<g id="shape98-76" v:mID="98" v:groupContext="shape" transform="translate(210.658,-109.32)">
+		<g id="shape98-78" v:mID="98" v:groupContext="shape" transform="translate(210.658,-109.32)">
 			<title>Kracht.98</title>
-			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st3"/>
+			<path d="M7.55 149.9 L7.91 149.9 L28.35 149.9" class="st7"/>
 		</g>
 	</g>
 </svg>
