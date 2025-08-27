@@ -18,7 +18,7 @@ If equilibrium equations are not sufficient, a structure is statically indetermi
 
 It is necessary to determine the degree of static indeterminacy in order to solve these structures using the force method.
 
-These two categories are discussed together in sections 4.5.2 and 4.5.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. For trusses, the analysis is simplified as described in section 9.2.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. Although the equations shown with $r$, $v$, and $e$ can be effective for simple structures, they generally lead to incorrect results. An approach that always works is shown below for separately determining external and internal static indeterminacy.
+These two categories are discussed together in sections 4.5.2 and 4.5.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. For trusses, the analysis is simplified as described in section 9.2.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. Although the equations shown with $r$, $v$, and $e$ can be effective for simple structures, they can lead to incorrect results for complex structures. An approach that always works is shown below for separately determining external and internal static indeterminacy.
 
 ```{index} Degree of external static indeterminacy
 ```
@@ -71,7 +71,7 @@ As an example, we determine the external static indeterminacy of this structure.
    Number of unknown forces
    ```
 
-   There are a total of 6 support reactions and 2 connection forces.
+   There are a total of 6 support reactions and 2 connection forces. Please be aware that the connection forces are shown twice, but these forces are the same at both ends of the connection so they can be counted as one.
 
    ::::::
 
@@ -137,7 +137,7 @@ As an example, we determine the internal static indeterminacy of this structure.
    Free body diagrams of nodes
    ```
 
-   The structure consists of 6 nodes. Unknown support reactions act on nodes A and B. Node A is a hinged end, so there are no bending moments. At node C, no bending moment acts from member DB due to the hinged connection. Node D is hinged, so no bending moments act there.
+   The structure consists of 4 nodes. Unknown support reactions act on nodes A and B. Node A is a hinged end, so there are no bending moments. At node B, bending moments in the members BC and BD could be present and be in equilibrium, although the support is hinged. At node C, no bending moment acts from member DB due to the hinged connection. Node D is hinged, so no bending moments act there.
 
    ::::::
 
