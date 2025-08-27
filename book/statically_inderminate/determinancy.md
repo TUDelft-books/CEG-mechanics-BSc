@@ -17,7 +17,7 @@ Als evenwichtsvergelijkingen niet genoeg zijn is een constructie statisch onbepa
 
 Het is nodig de graad van statisch onbepaaldheid te bepalen om deze constructies met behulp van de krachtenmethode op te kunnen lossen.
 
-Deze twee categorieën worden samen behandeld in hoofdstuk 4.5.2 en 4.5.3 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Voor vakwerken is de analyse versimpeld zoals beschreven in hoofdstuk 9.2.2 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Alhoewel de getoonde vergelijkingen met $r$, $v$ en $e$ effectief kunnen zijn bij simpele constructies, leiden deze in het algemeen tot verkeerde resultaten. Een aanpak die altijd werkt is hieronder getoond voor afzonderlijk uitwendig en inwendig statisch onbepaaldheid.
+Deze twee categorieën worden samen behandeld in hoofdstuk 4.5.2 en 4.5.3 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Voor vakwerken is de analyse versimpeld zoals beschreven in hoofdstuk 9.2.2 van het boek *Mechanica: Evenwicht* {cite:p}`Hartsuijker1999`. Alhoewel de getoonde vergelijkingen met $r$, $v$ en $e$ effectief kunnen zijn bij simpele constructies, leiden deze tot verkeerde resultaten voor complexe constructies. Een aanpak die altijd werkt is hieronder getoond voor afzonderlijk uitwendig en inwendig statisch onbepaaldheid.
 
 ```{index} Graag van uitwendig statisch onbepaaldheid
 ```
@@ -69,8 +69,7 @@ Als voorbeeld bepalen we de uitwendige statisch onbepaaldheid van deze construct
    Aantal onbekende krachten
    ```
 
-   Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten
-
+   Er zijn in totaal 6 oplegreacties en 2 verbindingskrachten. Let op: de verbindingskrachten zijn twee keer getoond, maar deze krachten zijn aan beide uiteinden van de verbinding gelijk, dus ze kunnen als één worden geteld.
    ::::::
 
 3. Tel het evenwichtsvergelijkingen: 3 evenwichtsvergelijkingen per vormvaste deel van de constructie
@@ -135,7 +134,7 @@ Als voorbeeld bepalen we de inwendige statisch onbepaaldheid van deze constructi
    Vrijlichaamsschema's knopen
    ```
 
-   De constructie bestaat uit 6 knopen. Op knoop A en B werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. Op knoop C werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop D is scharnierend, dus hier werken geen buigende momenten op.
+   De constructie bestaat uit 4 knopen. Op knoop A en B werken onbekende oplegreacties. Knoop A is een scharnierend uiteinde dus daar werken geen buigende momenten. In knoop B kunnen er buigende momenten optreden vanuit BC en BD en in evenwicht zijn, alhoewel de oplegging een scharnier is. Op knoop C werkt vanuit staaf DB geen buigend moment vanwege de scharnierende verbinding. Knoop D is scharnierend, dus hier werken geen buigende momenten op.
 
    ::::::
 
