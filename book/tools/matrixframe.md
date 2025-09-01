@@ -45,7 +45,7 @@ Voorbeeldconstructie
 
     ::::::
 
-2. Je beland direct in de 'Geometrie' interface. Klik in het grid om je geometrie te vormen. De coördinaten zijn zijn zichtbaar in de onderbalk en de afmetingen verschijnen tijdens het klikken. Gebruik `Esc` op je toetsenbord om te stoppen of op een volgend element te beginnen die niet vastzit aan het uiteinde van het vorige element. Pas eventueel afmetingen aan met behulp van de stramienen aan de linkerkant of de coördinaten aan de onderkant van het scherm.
+2. Je belandt direct in de 'Geometrie' interface. Klik in het grid om je geometrie te vormen. De coördinaten zijn zijn zichtbaar in de onderbalk en de afmetingen verschijnen tijdens het klikken. Gebruik `Esc` op je toetsenbord om te stoppen of op een volgend element te beginnen die niet vastzit aan het uiteinde van het vorige element. Pas eventueel afmetingen aan met behulp van de stramienen aan de linkerkant of de coördinaten aan de onderkant van het scherm.
 
     ::::::{prf:example}
     :label: mf_example_2
