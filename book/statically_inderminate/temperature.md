@@ -1,26 +1,26 @@
 ```{index} Temperature influences; for statically indeterminate structures
 ```
-# Solve structures subjected to temperature influences
+# Doorrekenen van constructies onder invloed van temperatuur
 
-Elements elongate under uniform loading with an additional strain of $\epsilon^{\rm{T}} = \alpha \ \Delta T$ with $\alpha$ the linear expansion coefficient. When loaded by a temperature change over the height of an element, fibres elongate individually, leading to bending of elements with an additional curvature of $\kappa^{\rm{T}} = \alpha \ \cfrac{\Delta T}{h}$, with $h$ the height of an element. So, in statically determinate structures, this leads to additional stressless strains (leading to displacements) without influencing the force distribution as the force distribution is independent of the displacements. 
+Elementen verlengen onder uniforme belasting met een extra rek van $\epsilon^{\rm{T}} = \alpha \ \Delta T$, waarbij $\alpha$ de lineaire uitzettingscoëfficiënt is. Wanneer een temperatuurverandering over de hoogte van een element optreedt, verlengen de vezels individueel, wat leidt tot buiging van elementen met een extra kromming van $\kappa^{\rm{T}} = \alpha \ \cfrac{\Delta T}{h}$, waarbij $h$ de hoogte van het element is. In statisch bepaalde constructies leidt dit tot extra spanningsloze rekken (en dus vervormingen) zonder invloed op de krachtverdeling, omdat de krachtverdeling onafhankelijk is van de vervormingen.
 
-Displacement can be found by integrating the stressless strains using the differential equations. Alternatively, using an equivalent load which leads to the same curvature allows the use of forget-me-nots. This requires a kinematic equivalent load which doesn't influence reactions forces and internal forces:
+De vervorming kan worden gevonden door de spanningsloze rekken te integreren met behulp van de differentiaalvergelijkingen. Alternatief kan een equivalente belasting worden gebruikt die tot dezelfde kromming leidt, zodat de vergeet-me-nietjes toegepast kunnen worden. Dit vereist een kinematisch equivalente belasting die geen invloed heeft op reactiekrachten en interne krachten:
 
 ```{figure} ./temperature_data/kin_eq_load_SB.svg
 :align: center
 
-Kinematic equivalent load leading to the same strain and curvature as strain due to linear expansion
+Kinematisch equivalente belasting die tot dezelfde rek en kromming leidt als rek door lineaire uitzetting
 ```
 
-In statically indeterminate structures the displacement and force distribution is coupled, leading to reaction forces and internal stresses due to the (intended) displacement due to the temperature change. These forces can, again, be found by integrating the strains (both the stress-causing strains and stressless temperature strains) using the differential equations. Alternatively, a kinematic equivalent load, as in statically determinate structures, can be applied in combination with the force method: the displacement due to the temperature are included into the displacement constraints.
+In statisch onbepaalde constructies zijn de vervorming en krachtverdeling gekoppeld, wat leidt tot reactiekrachten en interne spanningen door de (tegengehouden) vervormingen als gevolg van de temperatuurverandering. Deze krachten kunnen opnieuw worden gevonden door de rekken (zowel de spanningsveroorzakende rekken als spanningsloze temperatuurrekken) te integreren met behulp van de differentiaalvergelijkingen. Alternatief kan een kinematisch equivalente belasting, zoals bij statisch bepaalde constructies, worden toegepast in combinatie met de krachtmethode: de verplaatsingen door temperatuur worden meegenomen in de vormveranderingsvoorwaarden.
 
 ```{figure} ./temperature_data/kin_eq_load_SO.svg
 :align: center
 
-Kinematic equivalent load leading to the same strain and curvature as strain due to linear expansion, while statically indeterminate reaction forces cause stresses and reaction forces
+Kinematisch equivalente belasting die tot dezelfde rek en kromming leidt als rek door lineaire uitzetting, terwijl statisch onbepaalde reactiekrachten spanningen en reactiekrachten veroorzaken
 ```
 
-In chapter 4.12 of the book Engineering Mechanics: Volume 2: Stresses, strains and displacements {cite:p}`Hartsuijker2007`, the derivation of temperature influences is discussed. In chapter 6.2.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` (in Dutch), this is repeated in a simplified manner for statically determinate structures. The approach using the moment-area method is not covered in this course. Additionally, the standard cases for a beam on two supports and a clamped beam are not used. In chapter 6.2.2, statically indeterminate structures are discussed. Here too, the moment-area method is not part of this course.
+In hoofdstuk 4.12 van het boek Mechanica: spanningen, vervormingen en verplaatsingen {cite:p}`Hartsuijker2013` wordt de afleiding van temperatuursinvloeden behandeld. In hoofdstuk 6.2.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` is deze versimpeld herhaald voor statisch bepaalde constucties. De aanpak met de momentenvlakstelling wordt niet behandeld in dit vak. Daarnaast worden de standaardgevallen voor een ligger op twee steunpunten en een ingeklemde ligger niet gebruikt. In hoofdstuk 6.2.2 worden statisch onbepaalde constructies behandeld. Ook hier geldt dat de momentenvlakstelling geen onderdeel is van dit vak
 
-## Exercises
-- Problems 6.25 - 6.30, 6.32 - 6.39, 6.41 - 6.43 in chapter 6.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` (in Dutch). Unfortunately, no answers are available.
+## Oefeningen
+- Opgaves 6.25 - 6.30, 3.32 - 6.39, 6.41 - 6.43 in hoofdstuk 6.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. Er zijn helaas geen antwoorden beschikbaar.

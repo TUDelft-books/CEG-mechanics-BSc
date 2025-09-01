@@ -1,11 +1,11 @@
-```{index} Force method; for truss structures
+```{index} Krachtenmethode; voor vakwerkconstructies
 ```
 
-# ... for truss structures
+# ... voor vakwerkconstructies
 
-The general concept of the force method is shown in [](./force_method.md) and covered in chapter 2.1 while the force method for truss structures is treated in in chapter 2.2.8 - 2.2.10 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
+Het algemene concept van de krachtenmethode wordt getoond in [](./force_method.md) en behandeld in hoofdstuk 2.1. Specifiek de krachtenmethode voor vakwerkconstructies wordt behandeld in hoofdstuk 2.2.8 - 2.2.10 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 
-We'll cover the application to truss structures with the following example, which includes a [williot diagram](../../stresses_displacements/displacements_truss/williot.md) to calculate displacements.
+We behandelen de toepassing op vakwerkconstructies met het volgende voorbeeld. Dit voorbeeld bevat een [Williot diagram](../../stresses_displacements/displacements_truss/williot.md) om de verplaatsingen te berekenen.
 
 ::::::{prf:example}
 :nonumber: true
@@ -15,105 +15,104 @@ We'll cover the application to truss structures with the following example, whic
 ---
 align: center
 ---
-Example structure. Although this is not a true truss structure, deformation only are caused by extension, not by bending.
+Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming enkel veroorzaakt door extensie, niet door buiging.
 ```
 
-::::::
+    ::::::
 
-1. Determine [the degree of statical determinacy](../determinancy.md).
+    1. Bepaal [de graad van statische bepaaldheid](../determinancy.md).
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_ext_1
 
-    For our example, we might be interested in the internal force distribution, so we need to evaluate the degree of internal statical determinacy.
+    Voor ons voorbeeld zijn we geïnteresseerd in de interne krachtenverdeling, dus moeten we de graad van interne statische onbepaaldheid evalueren.
 
     ```{figure} ./extension_data/unknown_forces.svg
     ---
     align: center
     ---
-    There are 17 unknown forces.
+    Er zijn 17 onbekende krachten.
     ```
 
     ```{figure} ./extension_data/equations.svg
     ---
     align: center
     ---
-    There are 16 equilibrium equations
+    Er zijn 16 evenwichtsvergelijkingen
     ```
 
-    So this structure is 1st order internally statically indeterminant.
+    Deze constructie is dus 1e orde intern statisch onbepaald.
 
     ::::::
 
-2. Transform the structure in a statical determinant system by releasing releasing a support, splitting the structure at a two-force member or adding hinges: add unknown statically indeterminate forces and displacement constraints for each of the support you released and hinges you added. Be aware that you don't transform the structure in a (partial) mechanism!
+2. Transformeer de constructie in een statisch bepaald systeem door opleggingen weg te nemen, de constructie te splitsen bij een pendelstaaf, of scharnieren toe te voegen: voeg onbekende statisch onbepaalde krachten en vervormingsvoorwaardes toe voor elke opleggging die je hebt weggenomen en scharnieren die je hebt toegevoegd. Let op dat je de constructie niet transformeert tot een (gedeeltelijk) mechanisme!
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_ext_2
 
-    There are many options here, of which a few are shown below:
+    Er zijn hier veel opties, waarvan er enkele hieronder worden getoond:
 
     `````{tab-set}
-    ````{tab-item} Split the structure at a two-force member
+    ````{tab-item} Splits de constructie bij een scharnier
     ```{figure} ./extension_data/option1.svg
     :align: center
     ```
     ````
-    ````{tab-item} Adding hinges
+    ````{tab-item} Scharnier toevoegen
     ```{figure} ./extension_data/option2.svg
     :align: center
     ```
     ````
-    ````{tab-item} Release horizontal constraint of support
+    ````{tab-item} De horizontale bewegingsrichting van een oplegging vrijmaken
     ```{figure} ./extension_data/option3.svg
     :align: center
     ```
     ````
-    ````{tab-item} Release vertical support
+    ````{tab-item} Verticale oplegging weghalen
     ```{figure} ./extension_data/option4.svg
     :align: center
     ```
     ````
     `````
 
-
-    The last option is chosen.
+    De laatste optie wordt gekozen.
 
     ::::::
 
-3. Solve for the displacement in terms of the unknown indeterminate forces as you would normally do for a statically determinate structure.
+3. Los de verplaatsing op in termen van de onbekende onbepaalde krachten zoals je normaal zou doen voor een statisch bepaalde constructie.
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_ext_4
 
-    We've chosen the following statically determinate structure with displacement constraint $w_{\rm{B}}\left( B_{\rm{v}} \right) = 0$:
+    We hebben de volgende statisch bepaalde constructie gekozen met vervormingsvoorwaarde $w_{\rm{B}}\left( B_{\rm{v}} \right) = 0$:
 
     ```{figure} ./extension_data/SD_struc.svg
     ---
     align: center
     ---
-    The statically determinate structure with displacement constraint
+    De statisch bepaalde constructie met vervormingsvoorwaarde
     ```
 
-    Since $\rm{AE}$ is infinitely stiff, all deformations will be the result of bars extending / compressing. To calculate this, first the normal forces can be evaluated as a function of $B_{\rm{v}}$ using i.e. a moment equilibrium around $\rm{A}$ for the member $\text{ADE}$:
+    Omdat $\rm{AE}$ oneindig stijf is, zullen alle vervormingen het gevolg zijn van staven die uitrekken/samendrukken. Om dit te berekenen, kunnen eerst de normaalkrachten worden geëvalueerd als functie van $B_{\rm{v}}$ met behulp van bijvoorbeeld een momentenevenwicht rond $\rm{A}$ voor het element $\text{ADE}$:
 
     - $N_{\rm{CD}}\left( B_{\rm{v}} \right) = 210 - 2.5 B_{\rm{v}}$
     - $N_{\rm{BE}} \left( B_{\rm{v}} \right) = - B_{\rm{v}}$
 
-    This leads to the following extension of the elements, using $\Delta L = \cfrac{N \ L}{EA}$:
+    Dit leidt tot de volgende uitrekking van de elementen, met behulp van $\Delta L = \cfrac{N \ L}{EA}$:
 
     - $\Delta L_{\rm{CD}}\left( B_{\rm{v}} \right) = \cfrac{1400}{EA} - \cfrac{50 B_{\rm{v}}}{3 EA}$
     - $\Delta L_{\rm{BE}}\left( B_{\rm{v}} \right) = -\cfrac{5 B_{\rm{v}}}{EA}$
 
-    This leads to the following displacement, using a [Williot diagram](../../stresses_displacements/displacements_truss/williot.md):
+    Dit leidt tot de volgende verplaatsing, met behulp van een [Williot diagram](../../stresses_displacements/displacements_truss/williot.md):
 
     ```{figure} ./extension_data/williot.svg
     ---
     align: center
     ---
-    The displacement of $\rm{D}$ is $\cfrac{5}{4} \Delta L_{\rm{CD}} $
+    De verplaatsing van $\rm{D}$ is $\cfrac{5}{4} \Delta L_{\rm{CD}} $
     ```
 
     - $w_{\rm{D}}\left( B_{\rm{v}} \right) = \cfrac{1750}{EA} - \cfrac{125 B_{\rm{v}}}{6 EA} \left( \downarrow \right) $
@@ -122,7 +121,7 @@ Example structure. Although this is not a true truss structure, deformation only
 
     ::::::
 
-4. Use your displacement constraints to solve for the statically indeterminate forces
+4. Gebruik je vormveranderingsvoorwaarden om de statisch onbepaalde krachten op te lossen
 
     ::::::{prf:example}
     :nonumber: true
@@ -136,7 +135,7 @@ Example structure. Although this is not a true truss structure, deformation only
     \end{align*}
     $$
 
-    This leads to the following other results:
+    Dit leidt tot de volgende andere resultaten:
 
     - $N_{\rm{CD}} = 22.5 \ \rm{kN}$
     - $N_{\rm{BE}} -75 \ \rm{kN} $
@@ -145,6 +144,6 @@ Example structure. Although this is not a true truss structure, deformation only
 
     ::::::
 
-## Exercises
-- Exercises 2.31 - 2.41, in chapter 2.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
-Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/).
+## Oefeningen
+- Opgaves 2.31 - 2.41, in hoofdstuk 2.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
+Antwoorden zijn [hier beschikbaar](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/).
