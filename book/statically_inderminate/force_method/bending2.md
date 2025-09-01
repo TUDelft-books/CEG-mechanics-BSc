@@ -108,8 +108,8 @@ Example structure
 
     Using the forget-me-nots method, the rotations can now be evaluated:
 
-    - $\varphi_{\rm{B}} = 0.0012 A_{\rm{v}} - 0.018$
-    - $w_{\rm{A}} = 0.0216 A_{\rm{v}} - 0.108$
+    - $\varphi_{\rm{B}} = \cfrac{90 \cdot 3}{6 \cdot 5000} + \cfrac{6A_{\rm{v}} \cdot 3}{3 \cdot 5000} = 0.0012 A_{\rm{v}} + 0.009$ (↻)
+    - $w_{\rm{A}} = \varphi_{\rm{B}} \cdot 6 + \cfrac{A_{\rm{v}} \cdot 6^3}{3 \cdot 5000}= 0.0216 A_{\rm{v}} + 0.054$
 
     For the horizontal displacement applies: $w_{\rm{A,h}}  = \cfrac{6A_{\rm{h}}}{EA} $
 
@@ -124,8 +124,8 @@ Example structure
     $$
     \begin{align*}
     w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
-    0.0216 A_{\rm{v}} - 0.108 &= 0 \\
-    A_{\rm{v}} &= 5 \ \rm{kN} \\
+    0.0216 A_{\rm{v}} + 0.054 &= 0 \\
+    A_{\rm{v}} &= -2.5 \ \rm{kN} \\
     \\
     w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
     \cfrac{6A_{\rm{h}}}{EA} &= 0 \\
