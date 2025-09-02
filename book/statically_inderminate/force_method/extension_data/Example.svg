@@ -303,14 +303,14 @@
 			<text x="4" y="345.67" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>E</text>		</g>
 		<g id="shape493-168" v:mID="493" v:groupContext="shape" transform="translate(99.3326,-263.997)">
 			<title>EI = oo.493</title>
-			<desc>EI = EAADE = ∞ 0 &#60; EAAD , EABE &#60; ∞</desc>
+			<desc>EI = EAADE = ∞ 0 &#60; EACD , EABE &#60; ∞</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="68.0315" cy="342.07" width="136.07" height="14.1732"/>
 			<rect x="0" y="334.983" width="136.063" height="14.1732" class="st15"/>
 			<text x="29.98" y="338.47" class="st17" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>EI<tspan
 						class="st18"> </tspan><tspan class="st18">= </tspan>EA<tspan dy="-0.279em" class="st19" v:baseFontSize="12">ADE</tspan><tspan
 						dy="0.181em" class="st18"> </tspan><tspan class="st18">= </tspan><tspan class="st18">∞ <v:newlineChar/></tspan><tspan
-						x="18.74" dy="1.2em" class="st18">0 &#60; </tspan>EA<tspan dy="-0.279em" class="st19" v:baseFontSize="12">AD</tspan><tspan
+						x="18.95" dy="1.2em" class="st18">0 &#60; </tspan>EA<tspan dy="-0.279em" class="st19" v:baseFontSize="12">CD</tspan><tspan
 						dy="0.181em" class="st18"> </tspan><tspan class="st18">, </tspan>EA<tspan dy="-0.279em" class="st19"
 						v:baseFontSize="12">BE </tspan><tspan dy="0.181em" class="st18">&#60; </tspan><tspan class="st18">∞ </tspan> </text>		</g>
 		<g id="group2124-186" transform="translate(401.717,87.2355) rotate(90) scale(-1,1)" v:mID="2124" v:groupContext="group">

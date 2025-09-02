@@ -1,13 +1,13 @@
-```{index} Force method; for beam structures
+```{index} Krachtenmethode; voor balkconstructies
 ```
 
-# ... for beam structures
+# ... voor balkconstructies
 
-The general concept of the force method is covered in chapter 2.1 while the force method for beam structures is treated in in chapter 2.2.1 - 2.2.4 and the more specific 'hoekveranderingsvergelijkingen' in chapter 3.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`. The examples of chapter 3.1 are treated in [the force method for frames tructures](./bending2.md).
+Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor balkconstructies wordt behandeld in hoofdstuk 2.2.1 - 2.2.4 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. De voorbeelden van hoofdstuk 3.1 worden behandeld in [krachtenmethode voor raamwerkconsturcties](./bending2.md).
 
-The method of 'hoekveranderingsvergelijkingen' has the advantage that it's very easy to calculate the required rotations using forget-me-nots. However, not for all structures forget-me-nots might be available.
+De methode van 'hoekveranderingsvergelijkingen' heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar.
 
-We'll cover the application to bending structures with the following example.
+We tonen de stappen van de krachtenmethode voor een balk.
 
 ::::::{prf:example}
 :nonumber: true
@@ -17,97 +17,97 @@ We'll cover the application to bending structures with the following example.
 ---
 align: center
 ---
-Example structure
+Voorbeeldconstructie
 ```
 
 ::::::
 
-1. Determine [the degree of statical determinacy](../determinancy.md).
+1. Bepaal [de graad van statische bepaaldheid](../determinancy.md).
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_ben_1
 
-    For our example, we might be interested in the internal force distribution, so we need to evaluate the degree of internal statical determinacy.
+    Voor ons voorbeeld zijn we geïnteresseerd in de verdeling van inwendige krachten, dus moeten we de graad van inwendige statische onbepaaldheid evalueren.
 
     ```{figure} ./bending_data/onbekenden.svg
     ---
     align: center
     ---
-    There are 14 unknown forces.
+    Er zijn 14 onbekende krachten.
     ```
 
     ```{figure} ./bending_data/vergelijkingen.svg
     ---
     align: center
     ---
-    There are 13 equilibrium equations
+    Er zijn 13 evenwichtsvergelijkingen
     ```
 
-    So this structure is 1st order internally statically indeterminant.
+    Deze constructie is dus 1e orde inwendig statisch onbepaald.
 
     ::::::
 
-2. Transform the structure in a statical determinant system by releasing releasing a support, splitting the structure at a two-force member or adding hinges: add unknown statically indeterminate forces and displacement constraints for each of the support you released and hinges you added. Be aware that you don't transform the structure in a (partial) mechanism!
+2. Transformeer de constructie in een statisch bepaald systeem door opleggingen weg te nemen, de constructie te splitsen bij een pendelstaaf, of scharnieren toe te voegen: voeg onbekende statisch onbepaalde krachten en vervormingsvoorwaardes toe voor elke opleggging die je hebt weggenomen en scharnieren die je hebt toegevoegd. Let op dat je de constructie niet transformeert tot een (gedeeltelijk) mechanisme!
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_ben_2
 
-    There are many options here, of which the most obvious ones a few are shown below:
+    Er zijn veel opties, waarvan de meest voor de hand liggende hieronder worden getoond:
 
     `````{tab-set}
-    ````{tab-item} Release vertical support at $\rm{A}$
+    ````{tab-item} Verticale oplegging bij $\rm{A}$ loslaten
     ```{figure} ./bending_data/optie2.svg
     :align: center
     ```
     ````
-    ````{tab-item} Release vertical support at $\rm{B}$
+    ````{tab-item} Verticale oplegging bij $\rm{B}$ loslaten
     ```{figure} ./bending_data/optie3.svg
     :align: center
     ```
-    This option is not very convenient as there are no forget-me-nots to get the displacement at $\rm{B}$ for these loads
+    Deze optie is niet erg handig omdat er geen vergeet-mij-nietjes zijn om de verplaatsing bij $\rm{B}$ te verkrijgen voor deze belastingen
     ````
-    ````{tab-item} Release vertical support at $\rm{C}$
+    ````{tab-item} Verticale oplegging bij $\rm{C}$ loslaten
     ```{figure} ./bending_data/optie4.svg
     :align: center
     ```
     ````
-    ````{tab-item} Add hinge at $\rm{B}$
+    ````{tab-item} Scharnier toevoegen bij $\rm{B}$
     ```{figure} ./bending_data/optie1.svg
     :align: center
     ```
-    If only hinges are added, we call this approach 'hoekveranderingsvergelijkingen' or 'gaapvergelijkingen'
+    Als alleen scharnieren worden toegevoegd, noemen we deze benadering 'hoekveranderingsvergelijkingen' of 'gaapvergelijkingen'
     ````
     `````
 
-    The last option is chosen.
+    De laatste optie wordt gekozen.
 
     ::::::
 
-3. Solve for the displacement in terms of the unknown indeterminate forces as you would normally do for a statically determinate structure.
+3. Los de verplaatsing op in termen van de onbekende onbepaalde krachten zoals je normaal zou doen voor een statisch bepaalde constructie.
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_ben_4
 
-    We've chosen the following statically determinate structure with displacement constraint $\varphi_{\rm{B}}^{\rm{AB}} \left( M_{\rm{B}} \right) = \varphi_{\rm{B}}^{\rm{BC}} \left( M_{\rm{B}} \right) $:
+    We hebben de volgende statisch bepaalde constructie gekozen met vormveranderingsvoorwaarde $\varphi_{\rm{B}}^{\rm{AB}} \left( M_{\rm{B}} \right) = \varphi_{\rm{B}}^{\rm{BC}} \left( M_{\rm{B}} \right) $:
 
     ```{figure} ./bending_data/SB-systeem.svg
     ---
     align: center
     ---
-    The statically determinate structure with displacement constraint
+    De statisch bepaalde constructie met vormveranderingsvoorwaarde
     ```
 
-    Using the forget-me-nots, the rotations can be directly be evaluated without evaluating internal forces:
+    Met behulp van de vergeet-mij-nietjes kunnen de rotaties direct worden geëvalueerd zonder het evalueren van inwendige krachten:
 
     - $\varphi_{\rm{B}}^{\rm{AB}} \left( M_{\rm{B}} \right) = \cfrac{4M_{\rm{B}}}{3EI} + \cfrac{200}{3EI}$
     - $\varphi_{\rm{B}}^{\rm{BC}} \left( M_{\rm{B}} \right) = -\cfrac{2M_{\rm{B}}}{3EI}$
 
     ::::::
 
-4. Use your displacement constraints to solve for the statically indeterminate forces
+4. Gebruik je vormveranderingsvoorwaarden om de statisch onbepaalde krachten op te lossen
 
     ::::::{prf:example}
     :nonumber: true
@@ -122,9 +122,9 @@ Example structure
     $$
     ::::::
 
-## Exercises
+## Opdrachten
 
-- Exercises 2.1 - 2.14, 2.23 and 2.25 in chapter 2.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
-- Exercises 3.1 - 3.10, 3.16 - 3.21 in chapter 3.4 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
+- Opgaves 2.1 - 2.14, 2.23 and 2.25 in hoofdstuk 2.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
+- Opgaves 3.1 - 3.10, 3.16 - 3.21 in hoofdstuk 3.4 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 
-Answers are available on [this website for chapter 2](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/) and [here for chapter 3](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-3/).
+Antwoorden zijn beschikbaar op [deze website voor hoofdstuk 2](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/) en [hier voor hoofdstuk 3](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-3/).

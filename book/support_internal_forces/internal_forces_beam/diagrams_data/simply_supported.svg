@@ -220,11 +220,11 @@
 			</g>
 			<g id="shape43-118" v:mID="43" v:groupContext="shape">
 				<title>Blad.43</title>
-				<desc>variable</desc>
+				<desc>variabel</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="28.3465" cy="111.108" width="56.7" height="14.1732"/>
 				<rect x="0" y="104.022" width="56.6929" height="14.1732" class="st10"/>
-				<text x="9.02" y="114.71" class="st11" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>variable</text>			</g>
+				<text x="9.02" y="114.71" class="st11" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>variabel</text>			</g>
 		</g>
 		<g id="group44-121" transform="translate(10.2963,-7.31194)" v:mID="44" v:groupContext="group">
 			<title>z-as</title>

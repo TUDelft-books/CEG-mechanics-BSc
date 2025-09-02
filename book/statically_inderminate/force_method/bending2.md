@@ -1,15 +1,14 @@
-```{index} Force method; for frame structures
+```{index} krachenmethode; voor raamwerkconstructies
 ```
 
-# ... for frame structures
+# ... voor raamwerkconstructies
 
-The general concept of the force method is covered in chapter 2.1 while the force method for framestructures is treated in in chapter 2.2.5 - 2.2.7 and the more specific 'hoekveranderingsvergelijkingen' in chapter 3.1 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
+Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor raamwerkconstructies wordt behandeld in hoofdstuk 2.2.5-2.2.7 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. 
 
-Again, the method of 'hoekveranderingsvergelijkingen' has the advantage that it's very easy to calculate the required rotations using forget-me-nots. However, not for all structures forget-me-nots might be available.
+De methode van 'hoekveranderingsvergelijkingen' heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar.
 
-Whenever the book mentions the 'momentenvlakstelling' in example 2.2.6 and 2.2.7, you can also find the displacements using forget-me-nots. The method with moveable nodes ('hoekveranderingsvergelijkingen met verplaatsbare knopen') which was taught is the past is not treated anymore.
+We behandelen de toepassing op raamwerkconstructies met het volgende voorbeeld. 
 
-We'll cover the application to bending structures with the following example.
 
 ::::::{prf:example}
 :nonumber: true
@@ -19,103 +18,103 @@ We'll cover the application to bending structures with the following example.
 ---
 align: center
 ---
-Example structure
+Voorbeeldconstructie
 ```
 
 ::::::
 
-1. Determine [the degree of statical determinacy](../determinancy.md).
+1. Bepaal [de graad van statische bepaaldhei](../determinancy.md).
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_raam_1
 
-    For our example, we are interested in the distribution of internal forces, so we must evaluate the degree of internal static indeterminacy.
+    Voor ons voorbeeld zijn we geïnteresseerd in de verdeling van inwendige krachten, dus moeten we de graad van inwendige statische onbepaaldheid evalueren.
 
     ```{figure} ./theorie_data/onbekenden.svg
     ---
     align: center
     ---
-    There are 21 unknown forces.
+    Er zijn 21 onbekende krachten.
     ```
 
     ```{figure} ./theorie_data/vergelijkingen.svg
     ---
     align: center
     ---
-    There are 19 equilibrium equations
+    Er zijn 19 evenwichtsvergelijkingen
     ```
 
-    This structure is therefore 2nd degree internally statically indeterminate.
+    Deze constructie is dus 2e orde inwendig statisch onbepaald.
 
     ::::::
 
-2. Transform the structure in a statical determinant system by releasing releasing a support, splitting the structure at a two-force member or adding hinges: add unknown statically indeterminate forces and displacement constraints for each of the support you released and hinges you added. Be aware that you don't transform the structure in a (partial) mechanism!
+2. Transformeer de constructie in een statisch bepaald systeem door opleggingen weg te nemen, de constructie te splitsen bij een pendelstaaf, of scharnieren toe te voegen: voeg onbekende statisch onbepaalde krachten en vervormingsvoorwaardes toe voor elke opleggging die je hebt weggenomen en scharnieren die je hebt toegevoegd. Let op dat je de constructie niet transformeert tot een (gedeeltelijk) mechanisme!
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_raam_2
 
-    There are many options, some of which are possible options:
+    Er zijn veel opties, waarvan een aantal mogelijke opties:
 
     `````{tab-set}
-    ````{tab-item} Release horizontal support at $\rm{B}$ and add hinge at $\rm{B}$
+    ````{tab-item} Horizontale oplegging bij $\rm{B}$ loslaten en scharnier toevoegen in $\rm{B}$
     ```{figure} ./theorie_data/optie1.svg
     :align: center
     ```
     ````
-    ````{tab-item} Release horizontal supports at $\rm{B}$ and $\rm{C}$
+    ````{tab-item} Horizontale oplegging bij $\rm{B}$ en $\rm{C}$ loslaten
     ```{figure} ./theorie_data/optie2.svg
     :align: center
     ```
 
     ````
-    ````{tab-item} Release horizontal and vertical supports at $\rm{A}$
+    ````{tab-item} Horizontale en verticale oplegging bij $\rm{A}$ loslaten
     ```{figure} ./theorie_data/optie3.svg
     :align: center
     ```
     ````
-    ````{tab-item} Release horizontal support at $\rm{A}$ and add hinge at $\rm{B}$
+    ````{tab-item} Horizontale oplegging bij $\rm{A}$ loslaten en scharnier toevoegen in $\rm{B}$
     ```{figure} ./theorie_data/optie4.svg
     :align: center
     ```
     ````
     `````
 
-    The third option is chosen.
+    De derde optie wordt gekozen.
 
     ::::::
 
-3. Solve for the displacement in terms of the unknown indeterminate forces as you would normally do for a statically determinate structure.
+3. Los de verplaatsing op in termen van de onbekende onbepaalde krachten zoals je normaal zou doen voor een statisch bepaalde constructie.
 
     ::::::{prf:example}
     :nonumber: true
     :label: sd_raam_4
 
-    We have chosen the following statically determinate structure with displacement conditions $w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $ and $w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $:
+    We hebben de volgende statisch bepaalde constructie gekozen met vormveranderingsvoorwaardes $w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $ en $w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) = 0 $:
 
     ```{figure} ./theorie_data/SB-systeem.svg
     ---
     align: center
     ---
-    The statically determinate structure with displacement conditions
+    De statisch bepaalde constructie met vormveranderingsvoorwaarde
     ```
 
-    The force distribution can be found with equilibrium:
+    De krachtsverdeling kan worden gevonden met evenwicht:
 
     - $M_{\rm{C}} = 90 \ \rm{kNm}$ (◠/ᑐ)
     - $M_{\rm{B}} = 6A_{\rm{v}}$ (◡/ᑐ)
 
-    Using the forget-me-nots method, the rotations can now be evaluated:
+    Met behulp van de vergeet-mij-nietjes kunnen de rotaties nu worden geëvalueerd:
 
-    - $\varphi_{\rm{B}} = 0.0012 A_{\rm{v}} - 0.018$
-    - $w_{\rm{A}} = 0.0216 A_{\rm{v}} - 0.108$
+    - $\varphi_{\rm{B}} = \cfrac{90 \cdot 3}{6 \cdot 5000} + \cfrac{6A_{\rm{v}} \cdot 3}{3 \cdot 5000} = 0.0012 A_{\rm{v}} + 0.009$ (↻)
+    - $w_{\rm{A}} = \varphi_{\rm{B}} \cdot 6 + \cfrac{A_{\rm{v}} \cdot 6^3}{3 \cdot 5000}= 0.0216 A_{\rm{v}} + 0.054$
 
-    For the horizontal displacement applies: $w_{\rm{A,h}}  = \cfrac{6A_{\rm{h}}}{EA} $
+    Voor de horizontale verplaatsing geldt: $w_{\rm{A,h}}  = \cfrac{6A_{\rm{h}}}{EA} $ 
 
     ::::::
 
-4. Use your displacement constraints to solve for the statically indeterminate forces
+4. Gebruik je vormveranderingsvoorwaarden om de statisch onbepaalde krachten op te lossen
 
     ::::::{prf:example}
     :nonumber: true
@@ -124,8 +123,8 @@ Example structure
     $$
     \begin{align*}
     w_{\rm{A,v}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
-    0.0216 A_{\rm{v}} - 0.108 &= 0 \\
-    A_{\rm{v}} &= 5 \ \rm{kN} \\
+    0.0216 A_{\rm{v}} + 0.054 &= 0 \\
+    A_{\rm{v}} &= -2.5 \ \rm{kN} \\
     \\
     w_{\rm{A,h}}\left( A_{\rm{v}}, A_{\rm{h}} \right) &= 0 \\
     \cfrac{6A_{\rm{h}}}{EA} &= 0 \\
@@ -134,9 +133,9 @@ Example structure
     $$
     ::::::
 
-## Exercises
+## Opdrachten
 
-- Exercises 2.15 - 2.22, 2.24, 2.26 - 2.29, 2.42 - 2.48 in chapter 2.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
-- Exercises 3.11 - 3.15, 3.22, 3.23, 3.25 - 3.33/1, 3.35, 3.36, 3.45, 3.47-1, 3.47-2, 3.47-4, 3.50, 3.51 in chapter 3.4 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse (in Dutch) {cite:p}`Hartsuijker2016`.
+- Opgaves 2.15 - 2.22, 2.24, 2.26 - 2.29, 2.42 - 2.48 in hoofdstuk 2.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
+- Opgaves 3.11 - 3.15, 3.22, 3.23, 3.25 - 3.33/1, 3.35, 3.36, 3.45, 3.47-1, 3.47-2, 3.47-4, 3.50, 3.51 in hoofdstuk 3.4 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 
-Answers are available on [this website for chapter 2](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/) and [here for chapter 3](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-3/).
+Antwoorden zijn beschikbaar op [deze website voor hoofdstuk 2](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-2/) en [hier voor hoofdstuk 3](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol3/Chapter1-3/).

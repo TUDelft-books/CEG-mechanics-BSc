@@ -23,7 +23,7 @@ sphinx:
     html_theme_options:
       repository_url: "https://github.com/TUDelft-books/CEG-mechanics-BSc/"
       path_to_docs: "book"
-      repository_branch: "main"
+      repository_branch: "EN"
       use_repository_button: true
       use_edit_page_button: true
       use_issues_button : true
@@ -53,6 +53,7 @@ sphinx:
     - sphinx_iframes
     - sphinx_exercise
     - sphinx_tudelft_theme
+    - sphinx_accessibility
 
 bibtex_bibfiles: 
   - references.bib
