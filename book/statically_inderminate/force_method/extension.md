@@ -18,9 +18,9 @@ align: center
 Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming enkel veroorzaakt door extensie, niet door buiging.
 ```
 
-    ::::::
+::::::
 
-    1. Bepaal [de graad van statische bepaaldheid](../determinancy.md).
+1. Bepaal [de graad van statische bepaaldheid](../determinancy.md).
 
     ::::::{prf:example}
     :nonumber: true
