@@ -257,3 +257,6 @@ Example structure
 The file of this example can be downloaded [here](./matrixframe_data/example.mxe).
 
 ::::::
+
+## Instructions from lecture
+This example is presented in a lecture available [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/d57b95f9b71e4f218640c870c28a88031d?academicYear=2025-2026-ctb2210) for TU Delft students.
