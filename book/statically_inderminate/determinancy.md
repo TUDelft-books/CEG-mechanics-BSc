@@ -221,6 +221,9 @@ As an example, we determine the internal static indeterminacy of this structure.
 
    ::::::
 
+## Instructions from lecture
+This topic is presented in a lecture available from 0:34:40 - 1:00:40 [here in Dutch](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/757766716fcb45718fca678dadaa396d1d?academicYear=2025-2026-ctb2210) for TU Delft students.
+
 ## Exercises
 - Exercises 4.11 - 4.22, from chapter 4 of the book *Mechanics: Evenwicht* {cite:p}`Hartsuijker1999`. Ignore the questions about kinematic determinacy. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter4/).
 - Exercise 9.6, from chapter 9 of the book *Mechanics: Evenwicht* {cite:p}`Hartsuijker1999`. Ignore the questions about kinematic determinacy. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter9/).
