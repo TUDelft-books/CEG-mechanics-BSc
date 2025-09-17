@@ -1,4 +1,5 @@
 git+https://github.com/TeachBooks/TeachBooks-Favourites
+sphinx-tudelft-theme
 
 # now list the packages (and the respective url) you wish to download from the GitLab package registry
 git+https://github.com/TeachBooks/Sphinx-Thebe
