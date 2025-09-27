@@ -3,7 +3,7 @@
 
 # ... voor balkconstructies
 
-Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor balkconstructies wordt behandeld in hoofdstuk 2.2.1 - 2.2.4 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. De voorbeelden van hoofdstuk 3.1 worden behandeld in [krachtenmethode voor raamwerkconsturcties](./bending2.md).
+Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor balkconstructies wordt behandeld in hoofdstuk 2.2.1 - 2.2.4 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. De voorbeelden van hoofdstuk 3.1 worden behandeld in [krachtenmethode voor raamwerkconstructies](krachtenmethode_raam).
 
 De methode van 'hoekveranderingsvergelijkingen' heeft als voordeel dat het zeer eenvoudig is om de benodigde rotaties te berekenen met behulp van vergeet-mij-nietjes. Echter, voor niet alle constructies zijn vergeet-mij-nietjes beschikbaar.
 
@@ -121,6 +121,10 @@ Voorbeeldconstructie
     \end{align*}
     $$
     ::::::
+
+## Instructies in collegevorm
+
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 6](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/c40ac091651a4143a10fe729246403c31d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm van 0:04:20 - 0:30:00.
 
 ## Opdrachten
 

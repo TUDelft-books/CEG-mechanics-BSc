@@ -1,6 +1,7 @@
 ```{index} krachenmethode; voor raamwerkconstructies
 ```
 
+(krachtenmethode_raam)=
 # ... voor raamwerkconstructies
 
 Het algemene concept van de krachtenmethode wordt behandeld in hoofdstuk 2.1 terwijl de krachtenmethode voor raamwerkconstructies wordt behandeld in hoofdstuk 2.2.5-2.2.7 en de meer specifieke 'hoekveranderingsvergelijkingen' in hoofdstuk 3.1 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. 
@@ -132,6 +133,10 @@ Voorbeeldconstructie
     \end{align*}
     $$
     ::::::
+
+## Instructies in collegevorm
+
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 7](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/2e0fc9db91574fc9adacecd1eb833ce71d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm van 0:07:50 - 0:31:50.
 
 ## Opdrachten
 
