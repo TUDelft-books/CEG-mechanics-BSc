@@ -4,7 +4,7 @@
 
 # ... for truss structures
 
-The general concept of the force method is shown in [](./force_method.md) and discussed in section 2.1. Specifically, the force method for truss structures is covered in sections 2.2.8 - 2.2.10 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
+The general concept of the force method is shown in [](force_method) and discussed in section 2.1. Specifically, the force method for truss structures is covered in sections 2.2.8 - 2.2.10 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`.
 
 We discuss the application to truss structures with the following example. This example includes a [Williot diagram](../../stresses_displacements/displacements_truss/williot.md) to calculate the displacements.
 
