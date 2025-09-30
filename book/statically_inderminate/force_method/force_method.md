@@ -31,7 +31,3 @@ In the force method, the approach always consists of the followings steps:
 
 3. Solve for the displacement in terms of the unknown indeterminate forces as you would normally do for a statically determinate structure.
 4. Use your displacement constraints to solve for the statically indeterminate forces
-
-This chapter includes the following topics:
-```{tableofcontents}
-```
