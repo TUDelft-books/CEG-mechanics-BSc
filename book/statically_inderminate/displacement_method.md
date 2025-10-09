@@ -1,7 +1,7 @@
-```{index} Displacement method
+```{index} Displacement method with statically unknown displacements
 ```
 
-# Apply displacement method: statically unknown displacements
+# Apply displacement method with statically unknown displacements
 
 There are two displacement methods: the displacement method which solves for statically unknown displacements, and the displacement method which solves for degrees of freedom. This page treats the first method.
 
@@ -11,6 +11,8 @@ There are two displacement methods: the displacement method which solves for sta
 
 Deze theorie is aangepast van https://oit.tudelft.nl/CTB2210/2025/verplaatsingenmethode/theorie.html. Deze theorie is niet vertaald omdat er geen Engelstalige studenten zijn in de klas.
 
+% Source files on https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/verplaatsingenmethode_1
+
 ```
 ```` 
 
@@ -18,7 +20,7 @@ Bij de **krachten**methode maak je gebruik van vormveranderingsvoorwaardes om de
 
 De stappen zijn zeer vergelijkbaar met de krachtenmethode, met als enige verschil dat we geen opleggingen weg kunnen nemen omdat de statisch onbepaalde verplaatsing daar gelijk moet zijn aan 0.
 
-::::::{prf:algorithm} Verplaatsingenmethode
+::::::{prf:algorithm} Verplaatsingenmethode met statisch onbepaalde verplaatsingen
 :nonumber: true
 :label: verplaatsingenmethode_algoritme
 
@@ -145,8 +147,14 @@ Voorbeeldconstructie, $EI = 120 \ \rm{MNm^2}, EA >> EI$
 
     ::::::
 
+## Instructies in collegevorm
+
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 10](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/afb714f78b19404fa2fe425406acd9e81d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm van 0:17:00- 0:51:50.
+
 ## Meer voorbeelden
-De voorbeelden in hoofdstuk 4.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` vormen onderdeel van de aanpak van de verplaatsingemehtode die vrijheidsgraden oplost, maar kunnen ook opgelost worden met de aanpak zoals hierboven beschreven
+
+De voorbeelden in hoofdstuk 4.3 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` vormen onderdeel van de aanpak van de verplaatsingemethode die vrijheidsgraden oplost, maar kunnen ook opgelost worden met de aanpak zoals hierboven beschreven
 
 ## Oefeningen
+
 - Opgaves 4.4 - 4.33, 4.35, 4.36 in hoofdstuk 4.5 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`. Negeer de opmerkingen over welke vrijheidsgraad gekozen moet worden. Er zijn helaas geen antwoorden beschikbaar. Je kan de constructies doorrekenen met MatrixFrame om je antwoorden te controleren.
