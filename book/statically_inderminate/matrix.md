@@ -1,7 +1,7 @@
 ```{index} Matrix methode
 ```
 
-# Apply matrix methode
+# Apply matrix method
 
 ````{margin}
 ```{attributiongrey} Attribution
