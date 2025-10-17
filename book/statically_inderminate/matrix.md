@@ -1,4 +1,4 @@
-```{index} Matrix methode
+```{index} Matrix method
 ```
 
 # Apply matrix method
