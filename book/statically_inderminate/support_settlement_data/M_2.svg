@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export M_2.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="3.36729in" height="2.18345in"
+		viewBox="0 0 242.445 157.208" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1689-1" v:mID="1689" v:groupContext="shape" transform="translate(127.934,-58.4852)">
+			<title>Ligger, 2 pt.1689</title>
+			<path d="M0 157.21 L113.39 157.21" class="st1"/>
+		</g>
+		<g id="shape1690-4" v:mID="1690" v:groupContext="shape" transform="translate(14.5482,-58.4852)">
+			<title>Ligger, 2 pt.1690</title>
+			<path d="M0 157.21 L113.39 157.21" class="st1"/>
+		</g>
+		<g id="shape1691-7" v:mID="1691" v:groupContext="shape" transform="translate(174.595,241.069) rotate(-154.885)">
+			<title>Blad.1691</title>
+			<path d="M0 157.21 L125.22 157.21" class="st2"/>
+		</g>
+		<g id="shape1692-10" v:mID="1692" v:groupContext="shape" transform="translate(14.5482,-14.1939)">
+			<title>Blad.1692</title>
+			<path d="M0 112.92 L56.69 157.21 L113.39 59.77" class="st2"/>
+		</g>
+		<g id="shape1693-13" v:mID="1693" v:groupContext="shape" transform="translate(78.3278,263.018) rotate(180)">
+			<title>Momentvervormingsteken.1693</title>
+			<path d="M0 157.21 A14.1732 14.1732 0 0 1 14.17 143.04 A14.1732 14.1732 0 0 1 28.35 157.21" class="st3"/>
+		</g>
+		<g id="shape1696-16" v:mID="1696" v:groupContext="shape" transform="translate(126.753,-71.7939)">
+			<title>Momentvervormingsteken.1696</title>
+			<path d="M0 157.21 A14.1732 14.1732 0 0 1 14.17 143.04 A14.1732 14.1732 0 0 1 28.35 157.21" class="st3"/>
+		</g>
+		<g id="shape1697-19" v:mID="1697" v:groupContext="shape" transform="translate(0.375,-58.4852)">
+			<title>Maatlijn.1697</title>
+			<desc>0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="150.122" width="28.35" height="14.1732"/>
+			<rect x="0" y="143.035" width="28.3465" height="14.1732" class="st4"/>
+			<text x="11.17" y="153.72" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>0</text>		</g>
+		<g id="shape1698-22" v:mID="1698" v:groupContext="shape" transform="translate(14.5482,-142.66)">
+			<title>Blad.1698</title>
+			<desc>M-lijn (kNm)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="113.74" cy="150.122" width="227.49" height="14.1732"/>
+			<rect x="0" y="143.035" width="227.48" height="14.1732" class="st4"/>
+			<text x="80.91" y="153.72" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>M-lijn (kNm)</text>		</g>
+		<g id="shape1699-25" v:mID="1699" v:groupContext="shape" transform="translate(57.0679,-0.375)">
+			<title>Maatlijn.1699</title>
+			<desc>5</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="150.122" width="28.35" height="14.1732"/>
+			<rect x="0" y="143.035" width="28.3465" height="14.1732" class="st4"/>
+			<text x="11.17" y="153.72" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>5</text>		</g>
+		<g id="shape1700-28" v:mID="1700" v:groupContext="shape" transform="translate(113.761,-110.926)">
+			<title>Maatlijn.1700</title>
+			<desc>6</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="150.122" width="28.35" height="14.1732"/>
+			<rect x="0" y="143.035" width="28.3465" height="14.1732" class="st4"/>
+			<text x="11.17" y="153.72" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>6</text>		</g>
+	</g>
+</svg>
