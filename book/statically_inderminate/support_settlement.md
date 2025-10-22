@@ -85,7 +85,7 @@ Voorbeeldconstructie, $EI = 34000 \ \rm{kNm^2}$
     - $\varphi _{\rm{B}}^{{\rm{BC}}}  = \cfrac{{{M_{\rm{B}}} \cdot 6}}{{3 \cdot EI}} - \cfrac{{{M_{\rm{C}}} \cdot 6}}{{6 \cdot EI}} + \cfrac{{{w_{\rm{B}}}}}{6} = \cfrac{M_{\rm{B}}}{17000} - \cfrac{M_{\rm{C}}}{34000} + \cfrac{1}{250}$
     - $\varphi_{\rm{C}} = -\cfrac{M_\text{B} \cdot 6}{3 \cdot EI} + \cfrac{M_\text{C} \cdot 6}{6 \cdot EI} + \cfrac{w_\text{B}}{6} = -\cfrac{M_{\rm{B}}}{34000} + \cfrac{M_{\rm{C}}}{17000} + \cfrac{1}{250}$
 
-    De rotatie van $\rm{AB}$ (met de klok mee) heeft de omgekeerde richting als $\varphi _{\rm{B}}^{{\rm{AB}}}$ (tegen de klok in), terwijl de rotatie van $\rm{BC}$ (met de klok mee) dezelfde richting is als $\varphi _{\rm{B}}^{{\rm{BC}}}$ en $\varphi_{\rm{C}}$.
+    De rotatie van $\rm{AB}$ (met de klok mee) heeft de omgekeerde richting als $\varphi _{\rm{B}}^{{\rm{AB}}}$ (tegen de klok in), terwijl de rotatie van $\rm{BC}$ (tegen de klok in) dezelfde richting is als $\varphi _{\rm{B}}^{{\rm{BC}}}$ en $\varphi_{\rm{C}}$.
 
     ::::::
 
