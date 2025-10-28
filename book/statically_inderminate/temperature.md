@@ -118,7 +118,7 @@ Vervormde constructie
 
 ## Instructies in collegevorm
 
-Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 9](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/d7800c424fcc4f87a9156d9189ef91501d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm tot 0:33:00.
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 9](https://collegerama.tudelft.nl/Mediasite/Channel/public-ceg-ctb2210/watch/d7800c424fcc4f87a9156d9189ef91501d?sortBy=most-recent) gepresenteerd in collegevorm tot 0:33:00.
 
 ## Afleiding en meer voorbeelden
 In hoofdstuk 6.2.2 van Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`worden statisch onbepaalde constructies behandeld. De momentenvlakstelling geen onderdeel is van dit vak

@@ -149,7 +149,7 @@ Voorbeeldconstructie, $EI = 120 \ \rm{MNm^2}, EA >> EI$
 
 ## Instructies in collegevorm
 
-Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 10](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/afb714f78b19404fa2fe425406acd9e81d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm van 0:17:00- 0:51:50.
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 10](https://collegerama.tudelft.nl/Mediasite/Channel/public-ceg-ctb2210/watch/afb714f78b19404fa2fe425406acd9e81d?sortBy=most-recent) gepresenteerd in collegevorm van 0:17:00- 0:51:50.
 
 ## Meer voorbeelden
 

@@ -32,6 +32,12 @@ This TeachBook links heavily to relevant part of the other literature and only p
   - Answers available [here](antwoorden_Niet-symmetrische_en_inhomogene_doorsnedes.pdf).
   - English version is part of Engineering Mechanics: Volume 2: Stresses, strains and displacements, by {cite:ts}`Hartsuijker2007`
 - Additional exercises in [<img height="12px" src="./images/ANS.svg" alt="ANS">](https://ans.app/routing/courses/436978) (for TU Delft students only). You can login into this platform by [logging in into ANS - clicking  <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#5f6368"><path d="M80-120v-720h400v160h400v560H80Zm80-80h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm160 480h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm0-160h80v-80h-80v80Zm160 480h320v-400H480v80h80v80h-80v80h80v80h-80v80Zm160-240v-80h80v80h-80Zm0 160v-80h80v80h-80Z"/></svg> `TU Delft` - clicking `Join Course`  - clicking `Join` for `Constructiemechanica BSc Civiele Techniek`](https://ans.app/universities/1/courses/join_courses). Afterwards, you can directly go to the course by going to [your ANS overview](https://ans.app/routing/courses/436978) or by clicking the provided links in the book.
+- Recordings of lectures in Dutch:
+  - Public recordings from topic statically indeterminate structure in course "Constructiemechanica 3": https://collegerama.tudelft.nl/Mediasite/Channel/public-ceg-ctb2210
+  - Recordings requiring TU Delft login:
+    - Other topics in course "Constructiemechanica 3": https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210
+    - Course "Constructiemechanica 1": https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/
+    - Course "Constructiemechanica 2": https://collegeramavideoportal.tudelft.nl/catalogue/ctb1310/?academicYear=2021-2022-ctb1310
 
 ## Interactive features
 This TeachBook includes interactive features!

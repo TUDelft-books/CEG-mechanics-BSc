@@ -146,7 +146,7 @@ Example structure. Although this is not a truss structure, deformation is only c
     ::::::
 
 ## Instructions from lecture 
-This topic is presented in a lecture available to 42:50 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/99cfa289d58d4986a4378be10efb40c31d?academicYear=2025-2026-ctb2210) in Dutch for TU Delft students.
+This topic is presented in a lecture available to 42:50 [here](https://collegerama.tudelft.nl/Mediasite/Channel/public-ceg-ctb2210/watch/99cfa289d58d4986a4378be10efb40c31d?sortBy=most-recent) in Dutch.
 
 ## Exercises
 - Exercises 2.31 - 2.41, in section 2.3 of the book Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016`

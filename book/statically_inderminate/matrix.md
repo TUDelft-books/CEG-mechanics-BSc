@@ -426,7 +426,7 @@ Voorbeeldconstructie, $EI = 4290 \ \rm{kNm}^2, EA >> EI$
 
 ## Instructies in collegevorm
 
-Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 12](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/c2f0f9c684ed46848b6a754b76f1f92f1d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm tot 0:43:10.
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 12](https://collegerama.tudelft.nl/Mediasite/Channel/public-ceg-ctb2210/watch/c2f0f9c684ed46848b6a754b76f1f92f1d?sortBy=most-recent) gepresenteerd in collegevorm tot 0:43:10.
 
 ## Meer voorbeelden
 In hoofdstuk 5 van het boek Mechanica, Statisch onbepaalde constructies en bezwijkanalyse {cite:p}`Hartsuijker2016` wordt de matixmethode behandeld. In hoofdstuk 5.5 is de stof van voorbeeld 1 na het bepalen van de $\varphi$'s geen onderdeel van het vak. Dat geldt ook voor voorbeeld 1 in hoofdstuk 5.6.1 na het bepalen van de $\varphi$'s. Daarnaast worden hoofdstuk 5.5.2 en 5.7 niet behandeld.

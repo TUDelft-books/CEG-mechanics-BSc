@@ -104,7 +104,7 @@ Voorbeeldconstructie, $EI = 34000 \ \rm{kNm^2}$
 
 ## Instructies in collegevorm
 
-Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 8](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/c2f0f9c684ed46848b6a754b76f1f92f1d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm van 0:03:40 tot 0:38:10.
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 8](https://collegerama.tudelft.nl/Mediasite/Channel/public-ceg-ctb2210/watch/035392e16a6948ec88d380408b2de5701d?sortBy=most-recent) gepresenteerd in collegevorm van 0:03:40 tot 0:38:10.
 
 ## Meer voorbeelden
 

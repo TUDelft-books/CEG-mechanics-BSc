@@ -124,7 +124,7 @@ Voorbeeldconstructie
 
 ## Instructies in collegevorm
 
-Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 6](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/c40ac091651a4143a10fe729246403c31d?academicYear=2025-2026-ctb2210) gepresenteerd in collegevorm van 0:04:20 - 0:30:00.
+Dit onderwerp is [in constructiemechanica 3, 2025-2026, les 6](https://collegerama.tudelft.nl/Mediasite/Channel/public-ceg-ctb2210/watch/c40ac091651a4143a10fe729246403c31d?sortBy=most-recent) gepresenteerd in collegevorm van 0:04:20 - 0:30:00.
 
 ## Opdrachten
 
