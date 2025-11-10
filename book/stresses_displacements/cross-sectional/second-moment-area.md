@@ -30,5 +30,8 @@ This is treated in chapter 3.3 (example 1 and 3) of the book Engineering Mechani
 
 This is treated in chapter 4.6 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
+## Instructions from lecture
+This topic is presented in Dutch in a lecture available from 0:19:30 - 0:55:05 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1310/presentation/0f1fce95d6db44bf8f4b473fc4761a171d?academicYear=2021-2022-ctb1310), from 0:12:38 - 1:45:00 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1310/presentation/a3a91a9e8f044e949e5102580f9bfe1e1d?academicYear=2021-2022-ctb1310) and from 0:11:00 to 0:37:00 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1310/presentation/47ab50bf38914ef493bcd26ff041690c1d?academicYear=2021-2022-ctb1310).
+
 ## Exercises
 Exercises 3.13-3.42 (except for 3.36b-c, 3.37b, 3.40, 3.41) in chapter 3.5 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol2/Chapter3/).
