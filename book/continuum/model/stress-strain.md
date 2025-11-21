@@ -36,5 +36,8 @@ $$\begin{bmatrix}
 
 This is treated in chapter 4 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`.
 
+## Instructions from lecture
+This topic is presented in Dutch in a lecture available from 0:15:50 to 1:24:00 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/afa01c66a9434fae8e4a95c0b0a3348b1d?academicYear=2025-2026-ctb2210).
+
 ## Exercises
-Problems 1-3 in chapter 5 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`. Answers are available in chapter 5 of the lecture notes.
+Problems 1-3 in chapter 5 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`. Instead of applying the circle of Mohr, apply the transformulation formulas. Answers are available in chapter 5 of the lecture notes.
