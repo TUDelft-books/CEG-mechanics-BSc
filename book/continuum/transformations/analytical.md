@@ -31,7 +31,7 @@ The individual terms of $\bar{\mathrm{K}}$ can be written out as:
 
 The principal values of the second order tensor $\bar{\mathrm{K}}$ are defined by:
 
-$$k_{1,2} = \frac{1}{2}\left(k_{xx} + k_{yy}\right) \pm \sqrt{\left(\frac{1}{2}\left(k_{xx} + k_{yy}\right)\right)^2 + k_{xy}^2}$$
+$$k_{1,2} = \frac{1}{2}\left(k_{xx} + k_{yy}\right) \pm \sqrt{\left(\frac{1}{2}\left(k_{xx} - k_{yy}\right)\right)^2 + k_{xy}^2}$$
 
 The principal directions of the second order tensor $\bar{\mathrm{K}}$ are defined by:
 
