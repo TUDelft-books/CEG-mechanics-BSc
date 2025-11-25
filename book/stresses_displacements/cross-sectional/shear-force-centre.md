@@ -6,7 +6,7 @@ Shear force centre
 
 ```
 
-This is treated in chapter 5.5 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
+This is treated in chapter 5.5 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`. A demonstration of deformation due to loading into and next to the shear force center can be found [here](https://www.mub.eps.manchester.ac.uk/structural-concepts/shear-and-torsion/) under 'Model 6'.
 
 ## Instructions from lecture
 This topic is presented in Dutch in a lecture available from 0:11:40 - 0:31:20 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1310/presentation/5db0da87121f490f9a07df756cfa0a791d?academicYear=2021-2022-ctb1310). This doesn't include determining the location of the shear force centre, which is treated only in the book.
