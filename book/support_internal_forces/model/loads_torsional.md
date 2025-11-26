@@ -37,3 +37,8 @@ Uitwendige momenten in 3D met pijlen met dubbele pijlpunt in de positieve richti
 ```
 
 Verdeelde wringende momenten zijn ook mogelijk.
+
+
+## Instructies in collegevorm
+
+Dit onderwerp is [in constructiemechanica 2, 2021-2022, les 15](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1310/presentation/1e2c13204af443fca3465b02522531d61d?academicYear=2021-2022-ctb1310) gepresenteerd in collegevorm van 1:05:20 - 1:19:30

@@ -23,5 +23,9 @@ Tresca assumed failure if the shear stress exceeds a certain limit value $c$:
 
 This is treated in chapter 6.3 and 6.4 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`.
 
+## Instructions from lecture
+
+This subject is covered in [in constructiemechanica 3, 2021-2022, lesson 15](https://collegeramavideoportal.tudelft.nl/catalogue/ctb2210/presentation/096adc7e0732477d9961d38ac1375a8e1d?academicYear=2025-2026-ctb2210) from 0:22:00 to 1:26:25
+
 ## Exercises
 - Additional question Problems 3 in chapter 5.3 of the lecture notes Introduction to Continuum Mechanics {cite:p}`Hartsuijker2007con`. Answers are available in chapter 5 of the lecture notes.
