@@ -1,5 +1,4 @@
-```{index} Loads, torsional;
-:name: loads_index
+```{index} Loads; torsional
 ```
 
 ````{margin}

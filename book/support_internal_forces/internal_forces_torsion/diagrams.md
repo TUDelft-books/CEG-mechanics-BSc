@@ -41,6 +41,7 @@ Net als bij de buigende momentenlijn kunnen we een aantal eigenschappen van de w
 Het bepalen van de wringende momentenlijn wordt getoond op onderstaande voorbeeld.
 
 ::::::{prf:example}
+:label: torsion_diagram_example
 :nonumber: true
 
 ```{figure} ./instructie2_data/torsielijn.svg
@@ -192,11 +193,11 @@ align: center
 ::::::
 
 ## Meer voorbeelden
-In hoofdstuk 6.4 van het boek Mechanica, spanningen, vervormingen en verplaatsingen {cite:p}`Hartsuijker2013` worden ook wringende momenten uitgerekend in voorbeeld 1 - 5. Negeer de berekeningen van stijfheden, spanningen en verplaatsingen.
+In hoofdstuk 6.4 van het boek Mechanica, spanningen, vervormingen en verplaatsingen {cite:p}`Hartsuijker2007` worden ook wringende momenten uitgerekend in voorbeeld 1 - 5. Negeer de berekeningen van stijfheden, spanningen en verplaatsingen.
 
 % ## Instructies in collegevorm
 %
 % Dit onderwerp is [les ...](...) gepresenteerd in collegevorm tot ....
 
 ## Oefeningen
-Opgaves 6.7, 6.8, 6.11, 6.13, 6.30 in hoofdstuk 4.5 van het boek Mechanica, spanningen, vervormingen en verplaatsingen {cite:p}`Hartsuijker2013`. Bepaal enkel de wringend momentenlijn en negeer de vragen over stijfheden, spanningen en verplaatsingen. Antwoorden zijn [hier](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol2/Chapter6/) beschikbaar.
+Opgaves 6.7, 6.8, 6.11, 6.13, 6.30 in hoofdstuk 4.5 van het boek Mechanica, spanningen, vervormingen en verplaatsingen {cite:p}`Hartsuijker2007`. Bepaal enkel de wringend momentenlijn en negeer de vragen over stijfheden, spanningen en verplaatsingen. Antwoorden zijn [hier](https://icozct.tudelft.nl/TUD_CT/boekantwoorden/vol2/Chapter6/) beschikbaar.
