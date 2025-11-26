@@ -37,6 +37,7 @@ sphinx:
       chtml: {
         mtextInheritFont: true # To typeset text within math prettier
       }
+    named_colors_custom_colors: {'attributiongrey':[150,150,150]} # Custom colour for the attribution admonitions
     tud_change_titlesize: false
   extra_extensions:
     - teachbooks_favourites
