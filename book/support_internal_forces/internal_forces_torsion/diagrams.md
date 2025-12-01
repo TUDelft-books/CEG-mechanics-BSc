@@ -58,8 +58,20 @@ Daarvoor maken we op alle karakteristieke punten een snede. Beginnend bij $\rm{G
 ```{figure} ./instructie2_data/FBD_GH.svg
 ---
 align: center
+name: FBD_GH
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
 ---
-Het buigend moment $M_z$ is aangegeven met een kromme pijl en het wringend moment $M_{\rm{t}}$ met een pijl met dubbele pijlpunt. De snedekrachten in de andere vlakken en de normaalkracht zijn weggelaten.
+Vrijlichaamsschema van $\rm{GH}$ in 2D. Het buigend moment $M_z$ is aangegeven met een kromme pijl en het wringend moment $M_{\rm{t}}$ met een pijl met dubbele pijlpunt. De snedekrachten in de andere vlakken en de normaalkracht zijn weggelaten.
+```
+
+Dit kan ook in 3D getoond worden:
+
+```{figure} ./instructie2_data/FBD_GH_3D.svg
+---
+align: center
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
+---
+Vrijlichaamsschema van $\rm{GH}$ in 3D. Dezelfde snedekrachten zijn aangegeven als in de 2D-weergave, bij een andere belasting zouden ook andere snedekrachten kunnen optreden.
 ```
 
 Hiervoor kan een evenwichtsvergelijking worden opgesteld rondom de as:
@@ -78,6 +90,7 @@ Daarmee kan een beginnetje worden gemaakt met de wringende momentenlijn:
 ```{figure} ./instructie2_data/Mt-lijn-GH.svg
 ---
 align: center
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
 ---
 Wringende momentenlijn met enkel deel $\rm{GH}$ bekend
 ```
@@ -87,9 +100,26 @@ Vervolgens maken we een snede in $\rm{E}$:
 ```{figure} ./instructie2_data/FBD_EH.svg
 ---
 align: center
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
 ---
 De snedekrachten die gelijk zijn aan $0$ zijn weggelaten.
 ```
+
+````{note}
+Er kan ook een snede in zowel $\rm{E}$ als $\rm{G}$ in zodat we het vrijlichaamsschema in 2D kunnen tekenen:
+
+```{figure} ./instructie2_data/FBD_EH_2D.svg
+---
+align: center
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
+---
+Vrijlichaamsschema van $\rm{EG}$ in 2D.
+```
+
+Voor dit vrijlichaamsschema zouden eerst nog de snedekrachten in $\rm{G}$ aan de kant van $\rm{EG}$ moeten worden berekend. Deze volgen uit het vrijlichaamsschema in {numref}`FBD_GH` met een actie-reactie relatie: het buigende moment op $\rm{GH}$ heeft een even groot tegengesteld wringend moment tot gevolg op $\rm{EG}$, het wringend moment op $\rm{GH}$ van $0$ leidt tot een buigende moment op $\rm{EG}$ van $0$, en de dwarskracht omhoog  op $\rm{GH}$ leidt tot een dwarskracht omlaag op $\rm{EG}$
+
+````
+
 
 $$
 \begin{align*}
@@ -110,6 +140,7 @@ Daarmee kan de wringende momentenlijn verder worden ingevuld:
 ```{figure} ./instructie2_data/Mt-lijn-EG.svg
 ---
 align: center
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
 ---
 Wringende momentenlijn met deel $\rm{GH}$ en $\rm{EH}$ bekend
 ```
@@ -119,6 +150,7 @@ Op dezelfde manier kunnen we doorgaan met snedes. Bijvoorbeeld met een snede bij
 ```{figure} ./instructie2_data/FBD_DE.svg
 ---
 align: center
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
 ---
 De snedekrachten die gelijk zijn aan $0$ zijn weggelaten.
 ```
@@ -136,6 +168,7 @@ Vervolgens het wringend moment in deel $\rm{CD}$:
 ```{figure} ./instructie2_data/FBD_CD.svg
 ---
 align: center
+source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie
 ---
 De snedekrachten die gelijk zijn aan $0$ zijn weggelaten.
 ```
