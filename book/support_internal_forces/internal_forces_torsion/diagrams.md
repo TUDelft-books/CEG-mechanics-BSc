@@ -94,8 +94,8 @@ De snedekrachten die gelijk zijn aan $0$ zijn weggelaten.
 $$
 \begin{align*}
 \sum T_{\rm{EG}} &= 0 \\
--M_{\rm{t}}^{\rm{EH}} - 10 \cdot 1 &= 0 \\
-M_{\rm{t}}^{\rm{EH}} &= -10 \ \rm{kNm} \left( \twoheadrightarrow \mid \twoheadleftarrow \right)
+-M_{\rm{t}}^{\rm{EG}} - 10 \cdot 1 &= 0 \\
+M_{\rm{t}}^{\rm{EG}} &= -10 \ \rm{kNm} \left( \twoheadrightarrow \mid \twoheadleftarrow \right)
 \end{align*} 
 $$
 
