@@ -5,7 +5,7 @@
 
 The shear stress due to torsion in a circular cross section:
 
-$$\tau(r) = \frac{M_tr}{2 \pi R^2 t} = \frac{M_tr}{I_p}$$
+$$\tau(r) = \frac{M_t}{2 \pi R^2 t} = \frac{M_t \, R}{I_p}$$
 
 This is treated in chapter 6.2.1 of the book Engineering Mechanics Volume 2 {cite:p}`Hartsuijker2007`.
 
