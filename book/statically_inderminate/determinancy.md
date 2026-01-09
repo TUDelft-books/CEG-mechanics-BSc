@@ -32,6 +32,7 @@ For the calculation of external static indeterminacy, follow these steps:
 ---
 name: example_sd
 align: center
+source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
 ---
 Example structure
 ```
@@ -49,7 +50,8 @@ As an example, we determine the external static indeterminacy of this structure.
    ---
    name: example_sd_1
    align: center
-   ---
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
+   
    Split structure
    ```
 
@@ -66,6 +68,7 @@ As an example, we determine the external static indeterminacy of this structure.
    ---
    name: example_sd_2
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Number of unknown forces
    ```
@@ -82,6 +85,7 @@ As an example, we determine the external static indeterminacy of this structure.
    ---
    name: example_sd_3
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Number of equilibrium equations
    ```
@@ -111,6 +115,7 @@ For the calculation of internal static indeterminacy, follow these steps:
 ---
 name: example_sd_abc
 align: center
+source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
 ---
 Example structure
 ```
@@ -131,6 +136,7 @@ As an example, we determine the internal static indeterminacy of this structure.
    ---
    name: example_sd_4
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Free-body diagrams of nodes
    ```
@@ -148,6 +154,7 @@ As an example, we determine the internal static indeterminacy of this structure.
    ---
    name: example_sd_5
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Free-body diagrams of members
    ```
@@ -165,6 +172,7 @@ As an example, we determine the internal static indeterminacy of this structure.
    ---
    name: example_sd_6
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Number of unknown forces
    ```
@@ -177,6 +185,7 @@ As an example, we determine the internal static indeterminacy of this structure.
    ---
    name: example_sd_7
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Number of unknown section forces
    ```
@@ -192,6 +201,7 @@ As an example, we determine the internal static indeterminacy of this structure.
    ---
    name: example_sd_9
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Number of equilibrium equations per member
    ```
@@ -202,6 +212,7 @@ As an example, we determine the internal static indeterminacy of this structure.
    ---
    name: example_sd_8
    align: center
+   source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/graad_statisch
    ---
    Number of equilibrium equations per node
    ```
