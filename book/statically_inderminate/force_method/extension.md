@@ -14,6 +14,7 @@ We behandelen de toepassing op vakwerkconstructies met het volgende voorbeeld. D
 ```{figure} ./extension_data/Example.svg
 ---
 align: center
+source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
 ---
 Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming enkel veroorzaakt door extensie, niet door buiging.
 ```
@@ -31,6 +32,7 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     ```{figure} ./extension_data/unknown_forces.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ---
     Er zijn 17 onbekende krachten.
     ```
@@ -38,6 +40,7 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     ```{figure} ./extension_data/equations.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ---
     Er zijn 16 evenwichtsvergelijkingen
     ```
@@ -58,21 +61,25 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     ````{tab-item} Splits de constructie bij een scharnier
     ```{figure} ./extension_data/option1.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ```
     ````
     ````{tab-item} Scharnier toevoegen
     ```{figure} ./extension_data/option2.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ```
     ````
     ````{tab-item} De horizontale bewegingsrichting van een oplegging vrijmaken
     ```{figure} ./extension_data/option3.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ```
     ````
     ````{tab-item} Verticale oplegging weghalen
     ```{figure} ./extension_data/option4.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ```
     ````
     `````
@@ -92,6 +99,7 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     ```{figure} ./extension_data/SD_struc.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ---
     De statisch bepaalde constructie met vervormingsvoorwaarde
     ```
@@ -111,6 +119,7 @@ Voorbeeldconstructie. Hoewel dit geen vakwerkconstructie is, worden vervorming e
     ```{figure} ./extension_data/williot.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_williot
     ---
     De verplaatsing van $\rm{D}$ is $\cfrac{5}{4} \Delta L_{\rm{CD}} $
     ```
