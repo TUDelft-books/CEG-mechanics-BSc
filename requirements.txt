@@ -1,17 +1,7 @@
-teachbooks # BUMPS to 0.2.2
-jupyterbook-patches
-sphinx-image-inverter
-download_link_replacer
-sphinx-tudelft-theme #BUMP
-sphinx-proof
-sphinx-named-colors
-teachbooks-sphinx-tippy
-sphinx-iframes
-sphinx-exercise
-sphinx-dropdown-toggle
-sphinx-accessibility
+# first list the packages you wish to download from PyPI
+teachbooks
 
-# now list the packages (and the respective url) you wish to download from the GitLab package registry
-git+https://github.com/TeachBooks/Sphinx-Thebe
+git+https://github.com/TeachBooks/TeachBooks-Favourites@all_authors #BUMP
 
-docutils==0.17.1
+sphinx-tudelft-theme
+sphinx-apa-references

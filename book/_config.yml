@@ -32,28 +32,16 @@ sphinx:
       logo:
         text: "Structural Mechanics @ BSc Civil Engineering"
     html_show_copyright: false
-    html_last_updated_fmt: '%B %-d, %Y'
-    bibtex_default_style: myapastyle
-    bibtex_reference_style: author_year_round
+    html_last_updated_fmt: ''  
     mathjax3_config:
       chtml: {
         mtextInheritFont: true # To typeset text within math prettier
       }
     tud_change_titlesize: false
-  local_extensions:
-    apastyle: _ext/
-    bracket_citation_style: _ext/
-  extra_extensions:
-    - jupyterbook_patches
-    - download_link_replacer
-    - sphinx_image_inverter
-    - sphinx_proof
-    - sphinx_named_colors
-    - teachbooks_sphinx_tippy
-    - sphinx_iframes
-    - sphinx_exercise
+  extra_extensions:                                  # Gives you a starter package of extensions to use in your book
+    - teachbooks_favourites
     - sphinx_tudelft_theme
-    - sphinx_accessibility
+    - sphinx_apa_references
 
 bibtex_bibfiles: 
   - references.bib
