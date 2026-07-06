@@ -16,6 +16,7 @@ We tonen de stappen van de krachtenmethode voor een balk.
 ```{figure} ./bending_data/Example.svg
 ---
 align: center
+source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
 ---
 Voorbeeldconstructie
 ```
@@ -33,6 +34,7 @@ Voorbeeldconstructie
     ```{figure} ./bending_data/onbekenden.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
     ---
     Er zijn 14 onbekende krachten.
     ```
@@ -40,6 +42,7 @@ Voorbeeldconstructie
     ```{figure} ./bending_data/vergelijkingen.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
     ---
     Er zijn 13 evenwichtsvergelijkingen
     ```
@@ -60,22 +63,26 @@ Voorbeeldconstructie
     ````{tab-item} Verticale oplegging bij $\rm{A}$ loslaten
     ```{figure} ./bending_data/optie2.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
     ```
     ````
     ````{tab-item} Verticale oplegging bij $\rm{B}$ loslaten
     ```{figure} ./bending_data/optie3.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
     ```
     Deze optie is niet erg handig omdat er geen vergeet-mij-nietjes zijn om de verplaatsing bij $\rm{B}$ te verkrijgen voor deze belastingen
     ````
     ````{tab-item} Verticale oplegging bij $\rm{C}$ loslaten
     ```{figure} ./bending_data/optie4.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
     ```
     ````
     ````{tab-item} Scharnier toevoegen bij $\rm{B}$
     ```{figure} ./bending_data/optie1.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
     ```
     Als alleen scharnieren worden toegevoegd, noemen we deze benadering 'hoekveranderingsvergelijkingen' of 'gaapvergelijkingen'
     ````
@@ -96,6 +103,7 @@ Voorbeeldconstructie
     ```{figure} ./bending_data/SB-systeem.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_balk
     ---
     De statisch bepaalde constructie met vormveranderingsvoorwaarde
     ```
