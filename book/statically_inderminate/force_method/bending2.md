@@ -18,6 +18,7 @@ We behandelen de toepassing op raamwerkconstructies met het volgende voorbeeld.
 ```{figure} ./theorie_data/example.svg
 ---
 align: center
+source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
 ---
 Voorbeeldconstructie
 ```
@@ -35,6 +36,7 @@ Voorbeeldconstructie
     ```{figure} ./theorie_data/onbekenden.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
     ---
     Er zijn 21 onbekende krachten.
     ```
@@ -42,6 +44,7 @@ Voorbeeldconstructie
     ```{figure} ./theorie_data/vergelijkingen.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
     ---
     Er zijn 19 evenwichtsvergelijkingen
     ```
@@ -62,22 +65,26 @@ Voorbeeldconstructie
     ````{tab-item} Horizontale oplegging bij $\rm{B}$ loslaten en scharnier toevoegen in $\rm{B}$
     ```{figure} ./theorie_data/optie1.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
     ```
     ````
     ````{tab-item} Horizontale oplegging bij $\rm{B}$ en $\rm{C}$ loslaten
     ```{figure} ./theorie_data/optie2.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
     ```
 
     ````
     ````{tab-item} Horizontale en verticale oplegging bij $\rm{A}$ loslaten
     ```{figure} ./theorie_data/optie3.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
     ```
     ````
     ````{tab-item} Horizontale oplegging bij $\rm{A}$ loslaten en scharnier toevoegen in $\rm{B}$
     ```{figure} ./theorie_data/optie4.svg
     :align: center
+    :source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
     ```
     ````
     `````
@@ -97,6 +104,7 @@ Voorbeeldconstructie
     ```{figure} ./theorie_data/SB-systeem.svg
     ---
     align: center
+    source: https://github.com/Tom-van-Woudenberg/mechanics-figures-source/tree/main/krachtenmethode_raamwerk_2
     ---
     De statisch bepaalde constructie met vormveranderingsvoorwaarde
     ```
