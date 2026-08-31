@@ -93,3 +93,7 @@ Rolling clamped support
 :align: center
 ```
 Instead of a prescribed displacement of $0$, a support might have a prescribed non-zero displacement. The prescribed displacement leads to a support reaction in that direction too.
+
+## Instructions from lecture
+
+This topic is presented in a lecture available from 0:30:00 - 0:52:10 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/1c235f5035ae443cb4b861feb9b57b2a1d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)

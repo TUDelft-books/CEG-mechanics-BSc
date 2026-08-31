@@ -18,6 +18,11 @@ Rotational hinges are treated in the book Engineering Mechanics Volume 1 in chap
 
 ```{index} Sliding hinges
 ```
+
+### Instructions from lecture
+
+This topic is presented in a lecture available from 0:07:06 - 0:09:15 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/1c235f5035ae443cb4b861feb9b57b2a1d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)
+
 ## Sliding hinges
 Sliding hinges are indicated with two lines perpendicular to the elements and allow translation perpendicular to connected elements. [Shear forces](shear_force) are not transferred while [bending moments](bending_moment) and [normal forces](normal_force) are.
 

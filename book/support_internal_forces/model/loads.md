@@ -19,6 +19,10 @@ Directions of forces can be described by angles or with fractions as shown in {n
 Direction of force described by angles or with fractions
 ```
 
+### Instructions from lecture
+
+This topic is presented in a lecture available from 0:57:00 - 1:10:10 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/fdee1285525b445784c29fe8554898b91d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)
+
 ```{index} Couple
 :name: couple
 ```
@@ -28,14 +32,24 @@ Direction of force described by angles or with fractions
 ```
 Couples are treated in the book Engineering Mechanics Volume 1 in chapter 3.1.4 and 3.3.3 {cite}`Hartsuijker2006`. At Civil Engineering at Delft University of Technology the visual notation is used in most cases.
 
+### Instructions from lecture
+
+This topic is presented in a lecture available from 0:40:00 - 0:57:20 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/a1a9721bb5be4a84adf1b91b940260611d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)
+
 ```{index} Distributed load
 :name: q-load
 ```
+
 ## Distributed loads
 ```{figure} ./load_data/q.svg
 :align: center
 ```
 Distributed loads are treated in the book Engineering Mechanics Volume 1 in chapter 6.3.1 {cite}`Hartsuijker2006`.
+
+### Instructions from lecture
+
+This topic is presented in a lecture available [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/5a2b44251cc541f8996a84281379ad7a1d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)
+
 
 ### Exercises
 - If you're a TU Delft student, you can practise using the ANS exercises:

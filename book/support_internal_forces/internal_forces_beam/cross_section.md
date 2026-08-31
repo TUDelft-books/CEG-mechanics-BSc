@@ -7,6 +7,10 @@ To find the section forces in a certain cross-section [a free-body diagram has t
 
 In general, it is advised to first solve for the [support reactions](support).
 
+## Instructions from lecture
+
+This topic is presented in a lecture available from 0:20:45 to 0:30:10 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/5790e07a85b84ca88e938f65fbb2347f1d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)
+
 ## General exercises
 The following exercises can be made with any method of your liking:
 - If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises](https://ans.app/digital_test/assignments/1090129/results/new)
