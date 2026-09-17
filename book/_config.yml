@@ -31,6 +31,7 @@ sphinx:
         thebe: true
       logo:
         text: "Structural Mechanics @ BSc Civil Engineering"
+      announcement: "<p>This book is no longer maintained. The source files are still used by other resources: <a href='https://github.com/TUDelft-books/CEG-mechanics-BSc' style='color: cyan;'>github.com/TUDelft-books/CEG-mechanics-BSc</a></p>"
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
     mathjax3_config:
