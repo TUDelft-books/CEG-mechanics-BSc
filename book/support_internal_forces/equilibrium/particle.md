@@ -14,5 +14,5 @@ By applying equilibrium to the free-body diagram of a particle you can find unkn
 This topic is presented in a lecture available from 0:13:45 to 0:32:00 [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/a1a9721bb5be4a84adf1b91b940260611d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)
 
 ## Exercises
-- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises](https://ans.app/digital_test/assignments/1089992/results/new). Ignore questions which ask for a force polygon/'krachtenveelhoek'.
+- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS" class="no-zoomies"> exercises](https://ans.app/digital_test/assignments/1089992/results/new). Ignore questions which ask for a force polygon/'krachtenveelhoek'.
 - Exercises 2.33, 2.37, 2.38a, 2.39b, 2.40b, 2.41, 2.42 (without force polygon), in chapter 2.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`. Answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter2/).

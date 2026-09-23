@@ -14,7 +14,7 @@ By applying equilibrium to the free-body diagram of a body  you can find unknown
 This topic is presented in a lecture available from 0:57:10 to [here](https://collegeramavideoportal.tudelft.nl/catalogue/ctb1110/presentation/a1a9721bb5be4a84adf1b91b940260611d?academicYear=2023-2024-ctb1110-17) (TU Delft login required)
 
 ## Exercises
-- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS"> exercises on planar problems](https://ans.app/digital_test/assignments/1089993/results/new)
+- If you're a TU Delft student, you can practise with the following [<img height="12px" src="../../images/ANS.svg" alt="ANS" class="no-zoomies"> exercises on planar problems](https://ans.app/digital_test/assignments/1089993/results/new)
 - Exercises in chapter 3.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`, answers are available on [this website](https://icozct.tudelft.nl/TUD_CT/bookanswers/vol1/Chapter3/):
   - Moment of a force around a point:  3.6 - 3.8b
   - Equilibrium for planar problems 3.19, 3.20, 3.32 - 3.46
